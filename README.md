@@ -112,4 +112,4 @@ Visit this [link](https://public.tableau.com/app/profile/syed.mohammed.mostaque.
         4. Rank vs International Faculty Ratio:
                 vs International Student Ratio:
                 vs Reasearch Network:
-        5.Rank vs Citation Per Faculty:
+        5.Rank vs Faculty Student Ratio:
