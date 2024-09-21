@@ -105,11 +105,23 @@ Visit this [link](https://public.tableau.com/app/profile/syed.mohammed.mostaque.
 ## Story or Findings:
 
     The picture dashboard contains:
-        1. Rank vs Citation Per Faculty:
-        2. Rank vs Academic Reputaion:
-        3. Rank vs Employer Reputaions:
-                vs Employee Outcomes:
-        4. Rank vs International Faculty Ratio:
-                vs International Student Ratio:
-                vs Reasearch Network:
-        5.Rank vs Faculty Student Ratio:
+        1. Rank vs Citation Per Faculty: No strong co-relation found. But least ranked universities tend to have less citaion per faculty ratio.
+        2. Rank vs Academic Reputaion: Rank and Academic reputaions show very strong co-relation. We can consider Academic Reputaion to be a big factor to achieve good ranking and vise versa.
+        3. Rank vs Employer Reputaions & Rank vs Employee Outcomes: Strong corelation found. Top rank universities have way greater employee reputaion and employee outcomes.
+        4. Rank vs International Faculty Ratio &
+           Rank vs International Student Ratio &
+           Rank vs Reasearch Network: No strong co-relation found.
+        5.Rank vs Faculty Student Ratio:  No strong co-relation found.
+
+![](https://github.com/MostaqueBillah/qs-ranking-university-2024-data-scraper/blob/main/assets/corelation.png)
+Visit this [link](https://public.tableau.com/app/profile/syed.mohammed.mostaque.billah/viz/InterestingCorelationsfromQSUniversityRankingData/InterestingCorelationsfromQSUniversityRankingData) for interactable dashboard.
+
+## Story or Findings:
+
+    The picture dashboard contains:
+        1. Employer Reputaions vs Employee Outcomes: Though a weak one but still a corelation persists.
+        2. Academic Reputaion vs Citation Per Faculty: No clear pattern, but the density suggests low citation per faculty in some cases may indacate low academic reputaioned university.
+        3. Overall Score vs Academic Reputaion: Strong and clear corelation. Better the reputation, better the rank!
+        4. Academic Reputaion vs Employer Reputaions & Academic Reputaion vs Employee Outcomes: The density of scatter plot suggests a corelation. Acdemic reputaion does impact employeebility criterias for most of the time!
+        5. Faculty Student Ratio vs Citation Per Faculty: No such corelation found.
+        6. International Faculty Ratio vs Reasearch Network: No such corelation found.
