@@ -80,3 +80,5 @@ python modify_csv.py
 **_After Completing all of works You'll get an Outputs in csv Format_**
 
 # Analysis and Stories:
+
+<img src="top10.png" alt="Top QS University Continent Wise" width="200" height="auto" />
