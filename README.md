@@ -5,6 +5,10 @@ This project is uses Selenium to scrape data from a dynamic website : https://ww
 
 **It is done for educational perpose only**
 
+End result to keep you hooked :P
+![](https://github.com/MostaqueBillah/qs-ranking-university-2024-data-scraper/blob/main/assets/top10.png)
+Visit this [link](https://public.tableau.com/app/profile/syed.mohammed.mostaque.billah/viz/QSTopUniversityRankContinentWiseView/QSTop10UniversityinContinents) for interactable dashboard.
+
 # Motive
 
 1. Scrape and collect data of University Ranking from this [link](https://www.topuniversities.com/world-university-rankings/2024).
@@ -85,3 +89,27 @@ python modify_csv.py
 <img src="assets/top10.png" alt="Top QS University Continent Wise" width="200" height="auto" /> -->
 
 ![](https://github.com/MostaqueBillah/qs-ranking-university-2024-data-scraper/blob/main/assets/top10.png)
+Visit this [link](https://public.tableau.com/app/profile/syed.mohammed.mostaque.billah/viz/QSTopUniversityRankContinentWiseView/QSTop10UniversityinContinents) for interactable dashboard.
+
+## Story or Findings:
+
+    The picture dashboard contains:
+        1. Top 10 university world-wide
+        2. A world map containg total top university count that has been listed on QS world ranking websites
+        3. University count from the list by each continent
+        4. top 10 University of each continent.
+
+![](https://github.com/MostaqueBillah/qs-ranking-university-2024-data-scraper/blob/main/assets/ranking.png)
+Visit this [link](https://public.tableau.com/app/profile/syed.mohammed.mostaque.billah/viz/ImpactofdifferentParametersinQSUniversityRanking/ImpactofdifferentParametersinQSUniversityRanking) for interactable dashboard.
+
+## Story or Findings:
+
+    The picture dashboard contains:
+        1. Rank vs Citation Per Faculty:
+        2. Rank vs Academic Reputaion:
+        3. Rank vs Employer Reputaions:
+                vs Employee Outcomes:
+        4. Rank vs International Faculty Ratio:
+                vs International Student Ratio:
+                vs Reasearch Network:
+        5.Rank vs Citation Per Faculty:
