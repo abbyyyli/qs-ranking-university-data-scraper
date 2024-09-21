@@ -81,4 +81,4 @@ python modify_csv.py
 
 # Analysis and Stories:
 
-<img src="top10.png" alt="Top QS University Continent Wise" width="200" height="auto" />
+<img src="assets/top10.png" alt="Top QS University Continent Wise" width="200" height="auto" />
