@@ -81,4 +81,7 @@ python modify_csv.py
 
 # Analysis and Stories:
 
-<img src="assets/top10.png" alt="Top QS University Continent Wise" width="200" height="auto" />
+<!--
+<img src="assets/top10.png" alt="Top QS University Continent Wise" width="200" height="auto" /> -->
+
+![](https://github.com/MostaqueBillah/qs-ranking-university-2024-data-scraper/blob/main/assets/top10.png)
