@@ -6,8 +6,10 @@ This project is uses Selenium to scrape data from a dynamic website : https://ww
 **It is done for educational perpose only**
 
 End result to keep you hooked :P
-![](https://github.com/MostaqueBillah/qs-ranking-university-2024-data-scraper/blob/main/assets/top10.png)
-Visit this [link](https://public.tableau.com/app/profile/syed.mohammed.mostaque.billah/viz/QSTopUniversityRankContinentWiseView/QSTop10UniversityinContinents) for interactable dashboard.
+
+![](https://github.com/MostaqueBillah/qs-ranking-university-2024-data-scraper/blob/main/assets/leading.png)
+![](https://github.com/MostaqueBillah/qs-ranking-university-2024-data-scraper/blob/main/assets/leading.png)
+![](https://github.com/MostaqueBillah/qs-ranking-university-2024-data-scraper/blob/main/assets/leading.png)
 
 # Motive
 
@@ -88,21 +90,57 @@ python modify_csv.py
 <!--
 <img src="assets/top10.png" alt="Top QS University Continent Wise" width="200" height="auto" /> -->
 
-![](https://github.com/MostaqueBillah/qs-ranking-university-2024-data-scraper/blob/main/assets/top10.png)
-Visit this [link](https://public.tableau.com/app/profile/syed.mohammed.mostaque.billah/viz/QSTopUniversityRankContinentWiseView/QSTop10UniversityinContinents) for interactable dashboard.
+## Top 10 University of Europe, Middle East, Africa, Oceania:
 
-## Story or Findings:
+![](https://github.com/MostaqueBillah/qs-ranking-university-2024-data-scraper/blob/main/assets/europe.png)
+Visit this [link](https://public.tableau.com/app/profile/syed.mohammed.mostaque.billah/viz/QSTop10UniversityinEuropeAfricaOceaniaMiddleEast/QSTop10UniversityinEuropeAfricaOceaniaMiddleEast) for interactable dashboard.
+
+### Story or Findings:
 
     The picture dashboard contains:
-        1. Top 10 university world-wide
-        2. A world map containg total top university count that has been listed on QS world ranking websites
-        3. University count from the list by each continent
-        4. top 10 University of each continent.
+        1. Top 10 university of Europe (University of Cambridge, University of Oxford and Imperial College being at top 3)
+        2. Top 10 university of Middle East (King Abdulaziz University, Qatar University and King Fahd University of Petroleum & Minerals being at top 3)
+        3. Top 10 university of Africa (University of Cape Town, University of Cape Town and Stellenbosch University being at top 3)
+        4. Top 10 university of Oceania (The University of Melbourne, The University of Sydney and The University of New South Wales being at top 3)
+        5. A world map containg highlighted countries from Europe, Middle East, Africa, Oceania that has university in QS ranking.
+
+## Top 10 University of Asia, South America, North America:
+
+![](https://github.com/MostaqueBillah/qs-ranking-university-2024-data-scraper/blob/main/assets/asia.png)
+Visit this [link](https://public.tableau.com/app/profile/syed.mohammed.mostaque.billah/viz/QSTop10UniversityinAsiaAmerica/QSTop10UniversityinAsiaAmerica) for interactable dashboard.
+
+### Story or Findings:
+
+    The picture dashboard contains:
+        1. Top 10 university of Asia (National University of Singapore, Peking University and Peking University being at top 3)
+        2. Top 10 university of Sout America (Universidade de São Paulo, Universidad de Buenos Aires and Pontificia Universidad Católica de Chile being at top 3)
+        3. Top 10 university of North America (MIT, Harvard University and Stanford University being at top 3)
+        4. A world map containg highlighted countries from Asia, South America, North America that has university in QS ranking.
+
+## Leading Nations in QS University Rankings:
+
+![](https://github.com/MostaqueBillah/qs-ranking-university-2024-data-scraper/blob/main/assets/leading.png)
+Visit this [link](https://public.tableau.com/app/profile/syed.mohammed.mostaque.billah/viz/LeadingNationsinQSUniversityRankings/Top10Countries) for interactable dashboard.
+
+### Story or Findings:
+
+    The picture dashboard contains:
+        1. Top 10 Countries with highest average Faculty Student Ratio per University  (Singapore, Norway and Denmark being at top 3)
+        2. Top 10 Countries with highest average Citation Ratio per Faculty per University (Hong Kong, Macau and Switzerland being at top 3)
+        3. Top 10 Countries with Leading average Sustainability score (Sweden, New Zealand and Denmark being at top 3)
+        4.  Top 10 Countries with Leading average Employment Outcomes per university (Qatar, Singapore and New Zealand being at top 3)
+        5. A world map containg total top university count that has been listed on QS world ranking websites
+        6. Top 10 Countries with Best International Faculty Ratio per University (Singapore, Hong Kong and United Kingdom being at top 3)
+        7. Top 10 Countries with highest average Faculty Student Ratio per University (Singapore, UAE, Qatar, Luxemberg, Switzerland, Hong Kong New Zealand all are at the top with same score)
+        8. Top 10 Countries with highest International Faculty Ratio per University (Switzerland, UK, Qatar being at top 3)
+        9. Top 10 Countries with highest International Student Ratio per University (Luxemberg, Macau and Qatar being at top 3)
+
+## Impact of different Parameters in QS University Ranking:
 
 ![](https://github.com/MostaqueBillah/qs-ranking-university-2024-data-scraper/blob/main/assets/ranking.png)
 Visit this [link](https://public.tableau.com/app/profile/syed.mohammed.mostaque.billah/viz/ImpactofdifferentParametersinQSUniversityRanking/ImpactofdifferentParametersinQSUniversityRanking) for interactable dashboard.
 
-## Story or Findings:
+### Story or Findings:
 
     The picture dashboard contains:
         1. Rank vs Citation Per Faculty: No strong co-relation found. But least ranked universities tend to have less citaion per faculty ratio.
@@ -113,10 +151,12 @@ Visit this [link](https://public.tableau.com/app/profile/syed.mohammed.mostaque.
            Rank vs Reasearch Network: No strong co-relation found.
         5.Rank vs Faculty Student Ratio:  No strong co-relation found.
 
-![](https://github.com/MostaqueBillah/qs-ranking-university-2024-data-scraper/blob/main/assets/corelation.png)
-Visit this [link](https://public.tableau.com/app/profile/syed.mohammed.mostaque.billah/viz/InterestingCorelationsfromQSUniversityRankingData/InterestingCorelationsfromQSUniversityRankingData) for interactable dashboard.
+## Interesting Corelations between Parameters in QS Top University Ranking
 
-## Story or Findings:
+![](https://github.com/MostaqueBillah/qs-ranking-university-2024-data-scraper/blob/main/assets/corelation.png)
+Visit this [link](https://public.tableau.com/app/profile/syed.mohammed.mostaque.billah/viz/InterestingCorelationsbetweenParametersinQSTopUniversityRanking/Corelations) for interactable dashboard.
+
+### Story or Findings:
 
     The picture dashboard contains:
         1. Employer Reputaions vs Employee Outcomes: Though a weak one but still a corelation persists.
