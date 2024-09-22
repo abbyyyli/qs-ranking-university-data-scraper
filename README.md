@@ -7,9 +7,9 @@ This project is uses Selenium to scrape data from a dynamic website : https://ww
 
 End result to keep you hooked :P
 
+![](https://github.com/MostaqueBillah/qs-ranking-university-2024-data-scraper/blob/main/assets/europe.png)
 ![](https://github.com/MostaqueBillah/qs-ranking-university-2024-data-scraper/blob/main/assets/leading.png)
-![](https://github.com/MostaqueBillah/qs-ranking-university-2024-data-scraper/blob/main/assets/leading.png)
-![](https://github.com/MostaqueBillah/qs-ranking-university-2024-data-scraper/blob/main/assets/leading.png)
+![](https://github.com/MostaqueBillah/qs-ranking-university-2024-data-scraper/blob/main/assets/asia.png)
 
 # Motive
 
