@@ -1,11 +1,14 @@
 # QS-TOP-UNIVERSITY-RANKING-WEBSITE-DATA-SCRAPER
+![](https://github.com/MostaqueBillah/qs-ranking-university-2024-data-scraper/blob/main/assets/qswebsite.png)
+
 
 Hello good people!
-This project is uses Selenium to scrape data from a dynamic website : https://www.topuniversities.com/world-university-rankings/2024
+This project aims to scrape a dynamic website. A snipet of the website is given in the beginninng. For an elaborative view you can visit the website here : https://www.topuniversities.com/world-university-rankings/2024
+After scraping data, the aim is to use tableau public to look for insights within the data. You can also create cool tableau public dashboards for free. Just poen an account [here](https://public.tableau.com/app/discover2024), connect your data source and play with dashboards. If you are proud of your dashboard then you can publish it in Tableau Public online as well. In that case just download 'qs_university_ranking_file.csv' from this repo and play with Tableau. You could send me a link of your public dashboard via email (syed.mostaque.billah@gmail.com), and it will make me really happy.
 
 **It is done for educational perpose only**
 
-End result to keep you hooked :P
+End results that you can produce if you follow this project!!!
 
 ![](https://github.com/MostaqueBillah/qs-ranking-university-2024-data-scraper/blob/main/assets/europe.png)
 ![](https://github.com/MostaqueBillah/qs-ranking-university-2024-data-scraper/blob/main/assets/leading.png)
@@ -131,7 +134,8 @@ Visit this [link](https://public.tableau.com/app/profile/syed.mohammed.mostaque.
         4.  Top 10 Countries with Leading average Employment Outcomes per university (Qatar, Singapore and New Zealand being at top 3)
         5. A world map containg total top university count that has been listed on QS world ranking websites
         6. Top 10 Countries with Best International Faculty Ratio per University (Singapore, Hong Kong and United Kingdom being at top 3)
-        7. Top 10 Countries with highest average Faculty Student Ratio per University (Singapore, UAE, Qatar, Luxemberg, Switzerland, Hong Kong New Zealand all are at the top with same score)
+        7. Top 10 Countries with highest average Faculty Student Ratio per University (Singapore, UAE, Qatar, 
+        Luxemberg, Switzerland, Hong Kong New Zealand all are at the top with same score)
         8. Top 10 Countries with highest International Faculty Ratio per University (Switzerland, UK, Qatar being at top 3)
         9. Top 10 Countries with highest International Student Ratio per University (Luxemberg, Macau and Qatar being at top 3)
 
@@ -144,8 +148,10 @@ Visit this [link](https://public.tableau.com/app/profile/syed.mohammed.mostaque.
 
     The picture dashboard contains:
         1. Rank vs Citation Per Faculty: No strong co-relation found. But least ranked universities tend to have less citaion per faculty ratio.
-        2. Rank vs Academic Reputaion: Rank and Academic reputaions show very strong co-relation. We can consider Academic Reputaion to be a big factor to achieve good ranking and vise versa.
-        3. Rank vs Employer Reputaions & Rank vs Employee Outcomes: Strong corelation found. Top rank universities have way greater employee reputaion and employee outcomes.
+        2. Rank vs Academic Reputaion: Rank and Academic reputaions show very strong co-relation.
+        We can consider Academic Reputaion to be a big factor to achieve good ranking and vise versa.
+        3. Rank vs Employer Reputaions & Rank vs Employee Outcomes: Strong corelation found.
+        Top rank universities have way greater employee reputaion and employee outcomes.
         4. Rank vs International Faculty Ratio &
            Rank vs International Student Ratio &
            Rank vs Reasearch Network: No strong co-relation found.
@@ -160,8 +166,20 @@ Visit this [link](https://public.tableau.com/app/profile/syed.mohammed.mostaque.
 
     The picture dashboard contains:
         1. Employer Reputaions vs Employee Outcomes: Though a weak one but still a corelation persists.
-        2. Academic Reputaion vs Citation Per Faculty: No clear pattern, but the density suggests low citation per faculty in some cases may indacate low academic reputaioned university.
+        2. Academic Reputaion vs Citation Per Faculty: No clear pattern, but the density suggests 
+        low citation per faculty in some cases may indacate low academic reputaioned university.
         3. Overall Score vs Academic Reputaion: Strong and clear corelation. Better the reputation, better the rank!
-        4. Academic Reputaion vs Employer Reputaions & Academic Reputaion vs Employee Outcomes: The density of scatter plot suggests a corelation. Acdemic reputaion does impact employeebility criterias for most of the time!
+        4. Academic Reputaion vs Employer Reputaions & Academic Reputaion vs Employee Outcomes: The density of scatter 
+        plot suggests a corelation. Acdemic reputaion does impact employeebility criterias for most of the time!
         5. Faculty Student Ratio vs Citation Per Faculty: No such corelation found.
         6. International Faculty Ratio vs Reasearch Network: No such corelation found.
+
+# Challenges:
+
+    1. The website has a few popups. But every popup appear within the first 2 minutes.
+    2. You cannot read all data just after loading the website. In case of every university,
+    you need to click at some internal tabs to reveal more data. and only then the scraper can read it.
+    3. Setting addequate sleep time, to give the website enough time to load might become challenging.
+    4. The overall project is a little time cnosuming to say the least.
+    5. Tableau dashboards has a lot of options in terms of filter and conditions. It might get tricky
+    for beginners.
