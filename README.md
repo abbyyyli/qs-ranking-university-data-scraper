@@ -1,9 +1,9 @@
 # QS-TOP-UNIVERSITY-RANKING-WEBSITE-DATA-SCRAPER
+
 ![](https://github.com/MostaqueBillah/qs-ranking-university-2024-data-scraper/blob/main/assets/qswebsite.png)
 
-
 Hello good people!
-This project aims to scrape a dynamic website. A snipet of the website is given in the beginninng. For an elaborative view you can visit the website here : https://www.topuniversities.com/world-university-rankings/2024
+This project aims to scrape a dynamic website. A snipet of the website is given in the beginninng. For an elaborative view you can visit the website [here](https://www.topuniversities.com/world-university-rankings/2024)
 After scraping data, the aim is to use tableau public to look for insights within the data. You can also create cool tableau public dashboards for free. Just poen an account [here](https://public.tableau.com/app/discover2024), connect your data source and play with dashboards. If you are proud of your dashboard then you can publish it in Tableau Public online as well. In that case just download 'qs_university_ranking_file.csv' from this repo and play with Tableau. You could send me a link of your public dashboard via email (syed.mostaque.billah@gmail.com), and it will make me really happy.
 
 **It is done for educational perpose only**
@@ -134,7 +134,7 @@ Visit this [link](https://public.tableau.com/app/profile/syed.mohammed.mostaque.
         4.  Top 10 Countries with Leading average Employment Outcomes per university (Qatar, Singapore and New Zealand being at top 3)
         5. A world map containg total top university count that has been listed on QS world ranking websites
         6. Top 10 Countries with Best International Faculty Ratio per University (Singapore, Hong Kong and United Kingdom being at top 3)
-        7. Top 10 Countries with highest average Faculty Student Ratio per University (Singapore, UAE, Qatar, 
+        7. Top 10 Countries with highest average Faculty Student Ratio per University (Singapore, UAE, Qatar,
         Luxemberg, Switzerland, Hong Kong New Zealand all are at the top with same score)
         8. Top 10 Countries with highest International Faculty Ratio per University (Switzerland, UK, Qatar being at top 3)
         9. Top 10 Countries with highest International Student Ratio per University (Luxemberg, Macau and Qatar being at top 3)
@@ -166,10 +166,10 @@ Visit this [link](https://public.tableau.com/app/profile/syed.mohammed.mostaque.
 
     The picture dashboard contains:
         1. Employer Reputaions vs Employee Outcomes: Though a weak one but still a corelation persists.
-        2. Academic Reputaion vs Citation Per Faculty: No clear pattern, but the density suggests 
+        2. Academic Reputaion vs Citation Per Faculty: No clear pattern, but the density suggests
         low citation per faculty in some cases may indacate low academic reputaioned university.
         3. Overall Score vs Academic Reputaion: Strong and clear corelation. Better the reputation, better the rank!
-        4. Academic Reputaion vs Employer Reputaions & Academic Reputaion vs Employee Outcomes: The density of scatter 
+        4. Academic Reputaion vs Employer Reputaions & Academic Reputaion vs Employee Outcomes: The density of scatter
         plot suggests a corelation. Acdemic reputaion does impact employeebility criterias for most of the time!
         5. Faculty Student Ratio vs Citation Per Faculty: No such corelation found.
         6. International Faculty Ratio vs Reasearch Network: No such corelation found.
