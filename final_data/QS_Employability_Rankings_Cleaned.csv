@@ -1,0 +1,1022 @@
+Rank,University,Overall Score,Partnerships with Employers,Graduate Employment Rate,Employer-Student Connections,Employer Reputation,Location
+1.0,Massachusetts Institute of Technology (MIT) ,100.0,100,79.3,96,100,"Cambridge, United States"
+2.0,Stanford University,99.3,99.4,73.4,96.8,100,"Stanford, United States"
+3.0,"University of California, Los Angeles (UCLA)",99.1,96.8,93.2,83.6,99.5,"Los Angeles, United States"
+4.0,The University of Sydney,98.1,99.2,91.5,99.6,94.7,"Sydney, Australia"
+5.0,Harvard University,97.7,94.5,90,76.6,100,"Cambridge, United States"
+6.0,Tsinghua University,96.9,99.7,81,99.6,98.8,"Beijing, China (Mainland)"
+7.0,University of Oxford,96.7,96.7,64.5,86.4,100,"Oxford, United Kingdom"
+8.0,The University of Melbourne,94.5,91.6,90,76,97.6,"Parkville, Australia"
+9.0,Cornell University,94.4,94.9,73.4,88.3,91.4,"Ithaca, United States"
+10.0,The University of Hong Kong,94.2,99.4,99.8,93.8,79.5,"Hong Kong, Hong Kong SAR"
+11.0,University of Cambridge,94.0,83.1,68.7,90.6,100,"Cambridge, United Kingdom"
+12.0,Institut Polytechnique de Paris,93.7,91.7,100,85.2,98.3,"Palaiseau Cedex, France"
+13.0,University of Chicago,92.6,99.8,100,45,91.8,"Chicago, United States"
+14.0,Yale University,92.2,70.6,86.8,86.8,99.9,"New Haven, United States"
+15.0,Princeton University,90.5,67.1,90.5,83.6,97.8,"Princeton, United States"
+16.0,New York University (NYU),90.2,89.7,-,79.7,95.1,"New York City, United States"
+17.0,National University of Singapore (NUS),90.0,93.1,-,45.3,98.4,"Singapore, Singapore"
+18.0,Columbia University,89.9,94.1,-,57.6,97.9,"New York City, United States"
+19.0,University of Pennsylvania,89.8,72.3,95.1,71.9,92.8,"Philadelphia, United States"
+20.0,UCL,89.6,90.2,61.4,60.3,98.7,"London, United Kingdom"
+21.0,University of Toronto,89.5,99.7,-,49.1,96,"Toronto, Canada"
+22.0,ETH Zurich,89.0,87.1,99.2,49.5,96.3,"Zürich, Switzerland"
+23.0,Peking University,88.8,71.5,76.6,86.9,98.5,"Beijing, China (Mainland)"
+24.0,University of Waterloo,88.7,98.5,86.2,88,75.5,"Waterloo, Canada"
+25.0,The University of Tokyo,87.8,91,74.6,-,99.5,"Tokyo, Japan"
+26.0,Tecnológico de Monterrey,87.3,76.2,93,89.3,85.3,"Monterrey, Mexico"
+27.0,University of Michigan-Ann Arbor,85.6,99.8,65.5,-,91.2,"Ann Arbor, United States"
+28.0,Duke University,84.8,96.7,70.9,-,77.7,"Durham, United States"
+29.0,Northwestern University,84.0,92.1,85.9,46,72.5,"Evanston, United States"
+29.0,The University of New South Wales (UNSW Sydney),,87.3,64.6,-,94.3,
+30.0,Imperial College London,82.8,95.9,-,-,99.8,"London, United Kingdom"
+31.0,Pontificia Universidad Católica de Chile (UC),82.3,78.4,89.1,-,94.6,"Santiago, Chile"
+33.0,Fudan University,81.8,85.6,71.2,80.2,91.4,"Shanghai, China (Mainland)"
+34.0,Seoul National University,80.9,72.6,-,-,95.2,"Seoul, South Korea"
+35.0,Zhejiang University,80.4,99,63,99.7,86.6,"Hangzhou, China (Mainland)"
+36.0,Purdue University,79.8,94.4,84.2,98.3,66.7,"West Lafayette, United States"
+37.0,Waseda University,78.0,65.1,60.8,83.9,87.7,"Tokyo, Japan"
+38.0,Carnegie Mellon University,76.8,96.6,-,84.3,72.8,"Pittsburgh, United States"
+39.0,Delft University of Technology,76.2,82.5,74.8,67.5,86.4,"Delft, Netherlands"
+40.0,Georgia Institute of Technology,75.7,95.9,-,91.6,76.7,"Atlanta, United States"
+41.0,Shanghai Jiao Tong University,74.8,80.9,79.8,-,88.7,"Shanghai, China (Mainland)"
+42.0,The University of Manchester,73.9,74.1,-,-,97.5,"Manchester, United Kingdom"
+43.0,Johns Hopkins University,,94.8,79.2,-,48.9,
+44.0,Politecnico di Milano,,96.1,99.3,-,82.5,
+45.0,Western University,,88.6,77.7,-,61.4,
+46.0,"KIT, Karlsruhe Institute of Technology",72.6,89.1,85.5,-,84.3,"Karlsruhe, Germany"
+47.0,University of Texas at Austin,72.5,74.5,68.2,-,80.6,"Austin, United States"
+48.0,The London School of Economics and Political Science (LSE),72.2,-,-,96,99.7,"London, United Kingdom"
+49.0,The University of Edinburgh,,79.5,-,55.3,93.9,
+50.0,University of Bristol,,73.9,60.1,60.9,82.5,
+51.0,National Taiwan University (NTU),71.4,53.4,-,-,78,"Taipei City, Taiwan"
+52.0,Kyoto University,,81.8,-,-,94.6,
+53.0,University of Leeds,,83,81.2,62.3,77.4,
+54.0,Monash University,70.4,84.1,-,-,87.7,"Melbourne, Australia"
+55.0,Brown University,69.2,51.5,85.5,64.8,53.5,"Providence, United States"
+56.0,Keio University,69.1,55.2,71.2,-,78.7,"Tokyo, Japan"
+57.0,University of Illinois at Urbana-Champaign,69.0,78.3,-,95.4,56.1,"Champaign, United States"
+58.0,RWTH Aachen University,68.2,94.7,-,-,94.7,"Aachen, Germany"
+59.0,University of Southern California,67.8,72.2,-,61.2,54.7,"Los Angeles, United States"
+60.0,University of North Carolina at Chapel Hill,67.6,96.9,-,72.3,44.3,"Chapel Hill, United States"
+61.0,University of Washington,67.4,76.5,-,69.4,50.1,"Seattle, United States"
+62.0,University of Technology Sydney,67.1,75.6,74,70.4,77.3,"Haymarket, Australia"
+63.0,California Institute of Technology (Caltech),,91.3,-,67.7,83.1,
+64.0,The University of Queensland,,91.6,-,-,78.3,
+65.0,University of Wisconsin-Madison,,69.5,84.1,-,50.1,
+66.0,University of Nottingham,66.0,93,-,57.9,71.9,"Nottingham, United Kingdom"
+67.0,Tokyo Institute of Technology (Tokyo Tech),65.8,76.7,75.7,79.9,82.1,"Tokyo, Japan"
+68.0,King's College London,,46.2,83.9,50.8,84.6,
+69.0,The University of Auckland,,56.6,97.8,-,57.4,
+70.0,KTH Royal Institute of Technology ,65.5,57.1,81.2,78.4,65,"Stockholm, Sweden"
+71.0,The Hong Kong Polytechnic University,65.4,88.8,95.6,96.5,40.1,"Hong Kong SAR, Hong Kong SAR"
+72.0,Université PSL,65.1,75.9,-,-,98.4,"Paris, France"
+73.0,American University of Beirut (AUB),64.9,46.6,98.8,71,47.9,"Beirut , Lebanon"
+74.0,RMIT University,64.7,88,93.1,51.5,58.1,"Melbourne, Australia"
+75.0,Korea University,64.5,47.4,-,-,89.3,"Seoul, South Korea"
+76.0,Osaka University,64.3,86.8,67.9,89.9,69.6,"Osaka City, Japan"
+77.0,KAIST - Korea Advanced Institute of Science & Technology,,76.4,73,-,81.1,
+78.0,The University of Warwick,,-,-,62,92.5,
+79.0,Australian National University (ANU),62.9,62.6,-,55.3,77.6,"Canberra, Australia"
+80.0,Boston University,62.2,51.3,75.4,-,56.2,"Boston, United States"
+81.0,McMaster University,,88.5,82.5,57.2,48.1,
+82.0,University of Florida,,99.2,-,66.8,39.7,
+83.0,Chalmers University of Technology,,85.2,87.6,88.8,60.3,
+84.0,Universidad Nacional Autónoma de México  (UNAM),,-,-,50.3,88.5,
+85.0,The Ohio State University,61.3,84.1,-,77.5,56.8,"Columbus, United States"
+86.0,Yonsei University,61.2,51.7,-,-,84.2,"Seoul, South Korea"
+87.0,Universitat de Barcelona,,99.5,74.6,-,39,
+88.0,University College Dublin,,77.7,76,45.7,41.6,
+89.0,City University of Hong Kong,60.5,90.2,98.9,90.2,31.6,
+90.0,Georgetown University,60.4,-,73.4,87.2,44.7,"Washington D.C., United States"
+91.0,"Trinity College Dublin, The University of Dublin",60.1,-,94.9,-,45.8,"Dublin, Ireland"
+92.0,Nagoya University,59.9,86.6,79.3,97.6,42.2,"Nagoya, Japan"
+93.0,University of Bath,59.6,75.5,-,55.3,67.2,"Bath, United Kingdom"
+94.0,Universidad Politécnica de Madrid (UPM),59.4,92.9,-,59,50.4,"Madrid, Spain"
+95.0,University of Cape Town,59.1,-,90.2,64.8,39,"Cape Town, South Africa"
+96.0,Hanyang University,58.8,81.3,-,54.9,68.2,"Seoul, South Korea"
+97.0,Alma Mater Studiorum - University of Bologna,58.2,98.8,-,-,43.9,"Bologna, Italy"
+98.0,Macquarie University,57.9,69.2,91.6,-,46.4,"Sydney, Australia"
+99.0,University of Alberta,57.6,79.3,62.9,56.2,44.7,"Edmonton, Canada"
+100.0,Loughborough University,57.4,61.7,78.9,97.9,60.1,"Loughborough, United Kingdom"
+101.0,University of Virginia,,,,,,"Charlottesville, United States"
+101.0,Indian Institute of Technology Bombay (IITB),,,,,,"Mumbai, India"
+101.0,Arizona State University,,,,,,"Tempe, United States"
+101.0,North Carolina State University,,,,,,"Raleigh, United States"
+101.0,Arizona State University,,97.9,-,99.3,30.9,
+101.0,Sungkyunkwan University (SKKU),,,,,,"Suwon, South Korea"
+101.0,Universidad de los Andes,,,,,,"Bogotá, Colombia"
+101.0,University of Minnesota Twin Cities,,,,,,"Minneapolis, United States"
+101.0,University of Southampton,,,,,,"Southampton, United Kingdom"
+101.0,Sorbonne University,,,,,,"Paris, France"
+101.0,Queen's University at Kingston,,,,,,"Kingston, Canada"
+102.0,Indian Institute of Technology Bombay (IITB),,56.3,-,-,73.9,
+103.0,North Carolina State University,,92.3,85.9,98.4,-,
+104.0,Queen's University at Kingston,,47.7,-,-,64.3,
+105.0,Sorbonne University,,67.3,75.5,-,44.7,
+106.0,Sungkyunkwan University (SKKU),,51.9,89.1,-,73.3,
+107.0,Universidad de los Andes,,-,-,55.5,83.9,
+108.0,University of Minnesota Twin Cities,,93.6,-,58.8,27.3,
+109.0,University of Southampton,,72.8,72.7,66.7,49.8,
+110.0,University of Virginia,,48.3,-,87.3,37.9,
+111.0,Sapienza University of Rome,,,,,,"Rome, Italy"
+111.0,Technische Universität Berlin (TU Berlin),,,,,,"Berlin, Germany"
+111.0,Queensland University of Technology (QUT),,,,,,"Brisbane, Australia"
+111.0,University of Navarra,,,,,,"Pamplona, Spain"
+111.0,Technical University of Darmstadt,,,,,,"Darmstadt, Germany"
+111.0,Texas A&M University,,,,,,"College Station, United States"
+111.0,Washington University in St. Louis,,,,,,"St. Louis, United States"
+111.0,University of Birmingham,,,,,,"Birmingham, United Kingdom"
+111.0,Durham University,,,,,,"Durham, United Kingdom"
+111.0,Durham University,,44.1,-,44.5,87.2,
+111.0,The University of Western Australia,,,,,,"Perth, Australia"
+111.0,Huazhong University of Science and Technology,,,,,,"Wuhan, China (Mainland)"
+111.0,Wuhan University,,,,,,"Wuhan, China (Mainland)"
+112.0,Huazhong University of Science and Technology,,96.7,72.6,100,-,
+113.0,Queensland University of Technology (QUT),,85.6,-,91,42.3,
+114.0,Sapienza University of Rome,,74.1,-,-,35.6,
+115.0,Technical University of Darmstadt,,50.3,76.5,74.1,59.7,
+116.0,Technische Universität Berlin (TU Berlin),,46.8,-,77.4,69.4,
+117.0,Texas A&M University,,73.8,-,51.3,53.3,
+118.0,The University of Western Australia,,56.4,-,-,56.4,
+119.0,University of Birmingham,,51.2,-,47.8,72.2,
+120.0,University of Navarra,,66.6,-,68.9,70.1,
+121.0,Lomonosov Moscow State University,,,,,,"Moscow, Russia"
+121.0,Washington University in St. Louis,,81.4,-,97.3,-,
+121.0,Complutense University of Madrid,,,,,,"Madrid, Spain"
+121.0,Lund University,,,,,,"Lund, Sweden"
+121.0,Tel Aviv University,,,,,,"Tel Aviv, Israel"
+121.0,Universitat Politècnica de Catalunya · BarcelonaTech (UPC),,,,,,"Barcelona, Spain"
+121.0,"University of California, San Diego (UCSD)",,,,,,"San Diego, United States"
+121.0,University of Liverpool,,,,,,"Liverpool, United Kingdom"
+121.0,Politecnico di Torino,,,,,,"Turin, Italy"
+122.0,Wuhan University,,79.3,-,99.9,43.9,
+123.0,Complutense University of Madrid,,46.2,-,-,59,
+124.0,Lomonosov Moscow State University,,-,-,-,76,
+125.0,Lund University,,-,-,60.2,54.3,
+126.0,Politecnico di Torino,,75.8,97.6,-,47.8,
+127.0,Tel Aviv University,,45.3,91.9,-,-,
+128.0,Universitat Politècnica de Catalunya · BarcelonaTech (UPC),,99.1,98.9,-,28.8,
+129.0,"University of California, San Diego (UCSD)",,76,-,61.9,56.2,
+130.0,University of Liverpool,,72,80.9,52.6,34.6,
+131.0,Hokkaido University,,,,,,"Sapporo, Japan"
+131.0,Hokkaido University,,62.2,63.9,98.1,50.3,
+131.0,Tongji University,,,,,,"Shanghai, China (Mainland)"
+131.0,Kyushu University,,,,,,"Fukuoka City, Japan"
+131.0,Ludwig-Maximilians-Universität München,,,,,,"Munich, Germany"
+131.0,University of Delaware,,,,,,"Newark, United States"
+131.0,Indian Institute of Technology Delhi (IITD),,,,,,"New Delhi, India"
+131.0,University of Calgary,,,,,,"Calgary, Canada"
+131.0,University of Glasgow,,,,,,"Glasgow, United Kingdom"
+131.0,The University of Sheffield,,,,,,"Sheffield, United Kingdom"
+131.0,Universiti Malaya (UM),,,,,,"Kuala Lumpur, Malaysia"
+132.0,Indian Institute of Technology Delhi (IITD),,-,-,63.8,66,
+133.0,Kyushu University,,77.2,-,88,52.2,
+134.0,Ludwig-Maximilians-Universität München,,47.7,-,-,77.4,
+135.0,The University of Sheffield,,49.6,72.7,59.7,55.1,
+136.0,Tongji University,,95.8,75.9,98.2,-,
+137.0,Universiti Malaya (UM),,-,67.5,-,70.3,
+138.0,University of Calgary,,70.9,66.5,-,41.2,
+139.0,University of Delaware,,90.9,72.8,94.2,-,
+140.0,University of Glasgow,,52.1,76.9,-,61.3,
+141.0,Universidad de Chile,,,,,,"Santiago, Chile"
+141.0,Aarhus University,,87.7,-,-,37.5,
+141.0,Chulalongkorn University,,,,,,"Bangkok, Thailand"
+141.0,National Yang Ming Chiao Tung University,,,,,,"Hsinchu City, Taiwan"
+141.0,Universidad Nacional de Colombia,,,,,,"Bogotá, Colombia"
+141.0,Thammasat University,,,,,,"Bangkok, Thailand"
+141.0,University of Amsterdam,,,,,,"Amsterdam, Netherlands"
+141.0,University of St.Gallen (HSG),,,,,,"St. Gallen, Switzerland"
+141.0,Università Cattolica del Sacro Cuore,,,,,,"Milan, Italy"
+141.0,University of Copenhagen,,,,,,"Copenhagen, Denmark"
+141.0,Aarhus University,,,,,,"Aarhus, Denmark"
+142.0,Chulalongkorn University,,-,-,-,52,
+143.0,National Yang Ming Chiao Tung University,,53.4,-,-,62.2,
+144.0,Thammasat University,,-,78.4,47.8,29.1,
+145.0,Universidad Nacional de Colombia,,-,98.8,-,86.3,
+146.0,Universidad de Chile,,-,-,-,91.2,
+147.0,University of Amsterdam,,56.2,-,-,52.8,
+148.0,University of Copenhagen,,60.3,-,-,41.2,
+149.0,University of St.Gallen (HSG),,-,-,46.3,61.8,
+150.0,Università Cattolica del Sacro Cuore,,78.6,-,77.5,34.1,
+151.0,Erasmus University Rotterdam ,,,,,,"Rotterdam, Netherlands"
+151.0,Ateneo de Manila University,,,,,,"Quezon City, Philippines"
+151.0,Hitotsubashi University,,,,,,"Kunitachi City, Japan"
+151.0,Drexel University,,,,,,"Philadelphia, United States"
+151.0,Ateneo de Manila University,,-,98.6,55.3,36.3,
+151.0,Tokyo University of Science,,,,,,"Kagurazaka, Japan"
+151.0,Universitat Autònoma de Barcelona,,,,,,"Barcelona, Spain"
+151.0,University of Kansas,,,,,,"Lawrence, United States"
+151.0,Indian Institute of Technology Madras (IITM),,,,,,"Chennai, India"
+151.0,Newcastle University,,,,,,"Newcastle upon Tyne, United Kingdom"
+151.0,Indiana University Bloomington,,,,,,"Bloomington, United States"
+152.0,Drexel University,,72.6,90.2,86.1,-,
+153.0,Erasmus University Rotterdam ,,-,-,-,55.4,
+154.0,Hitotsubashi University,,-,-,90.8,70.1,
+155.0,Indian Institute of Technology Madras (IITM),,-,100,-,45.4,
+156.0,Indiana University Bloomington,,-,80.2,57.7,-,
+157.0,Newcastle University,,45.8,-,62,66.1,
+158.0,Tokyo University of Science,,-,99.9,78.1,-,
+159.0,Universitat Autònoma de Barcelona,,90.4,83.7,-,29.6,
+160.0,University of Kansas,,94.4,-,93.3,-,
+161.0,National Cheng Kung University (NCKU),,,,,,"Tainan City, Taiwan"
+161.0,Nanjing University,,,,,,"Nanjing, China (Mainland)"
+161.0,Beijing Institute of Technology,,87.5,-,99.4,-,
+161.0,Beijing Institute of Technology,,,,,,"Beijing, China (Mainland)"
+161.0,Dartmouth College,,,,,,"Hanover, United States"
+161.0,Queen's University Belfast,,,,,,"Belfast, United Kingdom"
+161.0,University of Illinois at Chicago (UIC),,,,,,"Chicago, United States"
+161.0,Università di Padova,,,,,,"Padova, Italy"
+161.0,Xi’an Jiaotong University,,,,,,"Xi'an, China (Mainland)"
+161.0,Universidad Carlos III de Madrid (UC3M),,,,,,"Madrid, Spain"
+161.0,Lahore University of Management Sciences (LUMS),,,,,,"Lahore, Pakistan"
+162.0,Dartmouth College,,-,-,83.4,27.3,
+163.0,Lahore University of Management Sciences (LUMS),,-,93.8,74.2,42.9,
+164.0,Nanjing University,,-,74.4,99.1,-,
+165.0,National Cheng Kung University (NCKU),,44.5,-,98.4,46,
+166.0,Queen's University Belfast,,66.3,70.3,75.3,31,
+167.0,Universidad Carlos III de Madrid (UC3M),,74.5,76.2,-,44.7,
+168.0,University of Illinois at Chicago (UIC),,-,-,88,29.3,
+169.0,Università di Padova,,99.4,-,-,28.3,
+170.0,Xi’an Jiaotong University,,-,73.2,93.1,28.4,
+171.0,Universidad Pontificia Comillas,,,,,,"Madrid, Spain"
+171.0,Tufts University,,,,,,"Medford, United States"
+171.0,The University of Arizona,,,,,,"Tucson, United States"
+171.0,"University of California, Davis",,,,,,"Davis, United States"
+171.0,The University of Adelaide,,,,,,"Adelaide, Australia"
+171.0,The Hebrew University of Jerusalem,,,,,,"Jerusalem, Israel"
+171.0,Bauman Moscow State Technical University,,,,,,"Moscow, Russia"
+171.0,Saint Petersburg State University,,,,,,"Saint Petersburg, Russia"
+171.0,Lehigh University,,,,,,"Bethlehem, United States"
+171.0,Aalto University,,,,,,"Espoo, Finland"
+171.0,Aalto University,,-,-,-,42.7,
+172.0,Bauman Moscow State Technical University,,-,77,98.1,45.8,
+173.0,Lehigh University,,67.9,70.3,68.3,-,
+174.0,Saint Petersburg State University,,-,-,71.6,-,
+175.0,The Hebrew University of Jerusalem,,-,-,-,28,
+176.0,The University of Adelaide,,68.5,-,-,38.1,
+177.0,The University of Arizona,,69.4,-,57.5,-,
+178.0,Tufts University,,44.6,-,95.9,-,
+179.0,Universidad Pontificia Comillas,,-,99.3,-,44,
+180.0,"University of California, Davis",,69.8,-,-,41.5,
+181.0,University of Wollongong,,,,,,"Wollongong, Australia"
+181.0,University of Warsaw ,,,,,,"Warsaw, Poland"
+181.0,University of Vienna,,,,,,"Vienna, Austria"
+181.0,University of Pittsburgh,,,,,,"Pittsburgh, United States"
+181.0,University of Surrey,,,,,,"Guildford, United Kingdom"
+181.0,Universidad Autónoma de Madrid,,,,,,"Madrid, Spain"
+181.0,Maastricht University ,,,,,,"Maastricht, Netherlands"
+181.0,Ecole des Ponts ParisTech,,,,,,"Paris, France"
+181.0,Charles University,,,,,,"Prague, Czechia"
+181.0,Charles University,,-,98.3,-,32.8,
+181.0,Renmin (People's) University of China,,,,,,"Beijing, China (Mainland)"
+182.0,Ecole des Ponts ParisTech,,-,76.3,63.1,49.3,
+183.0,Maastricht University ,,-,86.8,-,26,
+184.0,Renmin (People's) University of China,,-,-,90.5,32.3,
+185.0,Universidad Autónoma de Madrid,,62.1,-,-,53.9,
+186.0,University of Pittsburgh,,67.6,-,65.1,-,
+187.0,University of Surrey,,94.7,-,-,25.7,
+188.0,University of Vienna,,-,-,-,42.3,
+189.0,University of Warsaw ,,-,-,57.8,41.6,
+190.0,University of Wollongong,,61,73.9,-,34.6,
+191.0,Cardiff University,,-,80.9,-,44.3,
+191.0,Cardiff University,,,,,,"Cardiff, United Kingdom"
+191.0,Lancaster University,,,,,,"Lancaster,, United Kingdom"
+191.0,Universitat Pompeu Fabra (Barcelona),,,,,,"Barcelona, Spain"
+191.0,University of Limerick,,,,,,"Limerick, Ireland"
+191.0,Dublin City University,,,,,,"Dublin, Ireland"
+191.0,University of Notre Dame,,,,,,"Notre Dame, United States"
+191.0,University of Tsukuba,,,,,,"Tsukuba City, Japan"
+191.0,University of Witwatersrand,,,,,,"Johannesburg, South Africa"
+191.0,Université de Montréal ,,,,,,"Montreal, Canada"
+191.0,Taylor's University,,,,,,"Subang Jaya, Malaysia"
+191.0,University of South Florida,,,,,,"Tampa, United States"
+192.0,Dublin City University,,-,98.7,-,27.3,
+193.0,Lancaster University,,-,72.2,68.9,30.3,
+194.0,Taylor's University,,-,99.1,57.4,57.7,
+195.0,Universitat Pompeu Fabra (Barcelona),,65.2,-,-,-,
+196.0,University of Limerick,,44.1,84.5,72.7,26.3,
+197.0,University of Notre Dame,,-,-,-,36.2,
+198.0,University of South Florida,,94.5,-,69.6,-,
+199.0,University of Tsukuba,,54.9,74.6,97.8,-,
+200.0,University of Witwatersrand,,-,-,-,27.6,
+201.0,University of Southern Denmark (SDU),,,,,,"Odense, Denmark"
+201.0,University of Science and Technology of China,,,,,,"Hefei, China (Mainland)"
+201.0,University of Milan,,,,,,"Milan, Italy"
+201.0,University of Massachusetts Amherst,,,,,,"Amherst, United States"
+201.0,University of Latvia,,,,,,"Riga, Latvia"
+201.0,University of St Andrews,,,,,,"St. Andrews, United Kingdom"
+201.0,University of Delhi,,,,,,"New Delhi, India"
+201.0,University of Strathclyde,,,,,,"Glasgow, United Kingdom"
+201.0,University College Cork,,,,,,"Cork, Ireland"
+201.0,Universiti Tunku Abdul Rahman (UTAR),,,,,,"Kampar, Malaysia"
+201.0,Universite libre de Bruxelles,,,,,,"Brussels, Belgium"
+201.0,Technische Universität Dresden,,,,,,"Dresden, Germany"
+201.0,Universitat Politecnica de Valencia,,,,,,"València, Spain"
+201.0,Universidade Nova de Lisboa,,,,,,"Lisbon, Portugal"
+201.0,UCSI University,,,,,,"Kuala Lumpur, Malaysia"
+201.0,University of Colorado Boulder,,,,,,"Boulder, United States"
+201.0,The American University in Cairo,,,,,,"Cairo, Egypt"
+201.0,Sun Yat-sen University,,,,,,"Guangzhou, China (Mainland)"
+201.0,"Stony Brook University, State University of New York",,,,,,"Stony Brook, United States"
+201.0,Shandong University,,,,,,"Jinan, China (Mainland)"
+201.0,Ritsumeikan University,,,,,,"Kyoto, Japan"
+201.0,Riga Technical University,,,,,,"Riga, Latvia"
+201.0,Université Laval,,,,,,"Québec, Canada"
+201.0,Universitat de Valencia,,,,,,"València, Spain"
+201.0,Université catholique de Louvain (UCLouvain),,,,,,"Louvain-la-Neuve, Belgium"
+201.0,Northeastern University,,,,,,"Boston, United States"
+201.0,Uppsala University,,,,,,"Uppsala, Sweden"
+201.0,Université de Montpellier,,,,,,"Montpellier, France"
+201.0,National Technical University of Athens,,,,,,"Athens, Greece"
+201.0,National Taiwan University of Science and Technology (Taiwan Tech),,,,,,"Taipei City, Taiwan"
+201.0,MGIMO University,,,,,,"Moscow, Russia"
+201.0,Jagiellonian University,,,,,,"Krakow, Poland"
+201.0,Indian Institute of Technology Kharagpur (IIT-KGP),,,,,,"Kharagpur, India"
+201.0,Humboldt-Universität zu Berlin,,,,,,"Berlin, Germany"
+201.0,George Washington University,,,,,,"Washington D.C., United States"
+201.0,Pohang University of Science And Technology (POSTECH),,,,,,"Pohang , South Korea"
+201.0,Curtin University,,,,,,"Perth, Australia"
+201.0,Brno University of Technology,,,,,,"Brno, Czechia"
+201.0,Hiroshima University,,,,,,"Higashihiroshima City, Japan"
+201.0,Aston University,,,,,,"Birmingham, United Kingdom"
+201.0,Utrecht University,,,,,,"Utrecht, Netherlands"
+201.0,Bogaziçi Üniversitesi,,,,,,"Istanbul, Turkey"
+201.0,Virginia Polytechnic Institute and State University,,,,,,"Blacksburg, United States"
+201.0,Queen Mary University of London,,,,,,"London, United Kingdom"
+201.0,Pontificia Universidad Javeriana,,,,,,"Bogotá, Colombia"
+201.0,Vanderbilt University,,,,,,"Nashville, United States"
+201.0,HSE University,,,,,,"Moscow, Russia"
+201.0,Université de Montréal ,,57.7,-,-,49.7,
+201.0,Al-Farabi Kazakh National University,,,,,,"Almaty, Kazakhstan"
+201.0,Pontificia Universidad Catolica del Peru,,,,,,"Lima, Peru"
+202.0,Al-Farabi Kazakh National University,,-,90.6,63.8,53.2,
+203.0,Aston University,,46.8,-,60.4,31.7,
+204.0,Bogaziçi Üniversitesi,,-,-,-,36.5,
+205.0,Brno University of Technology,,-,99.9,-,29,
+206.0,Curtin University,,56.5,-,-,44.8,
+207.0,George Washington University,,-,-,-,29.3,
+208.0,HSE University,,-,-,47.3,-,
+209.0,Hiroshima University,,57.3,-,97.5,-,
+210.0,Humboldt-Universität zu Berlin,,-,-,-,60.7,
+211.0,Indian Institute of Technology Kharagpur (IIT-KGP),,-,-,65.6,36,
+212.0,Jagiellonian University,,-,79.4,-,34.4,
+213.0,MGIMO University,,-,100,-,-,
+214.0,National Taiwan University of Science and Technology (Taiwan Tech),,-,81.6,62.7,-,
+215.0,National Technical University of Athens,,-,-,-,37.5,
+216.0,Northeastern University,,-,-,61.5,-,
+217.0,Pohang University of Science And Technology (POSTECH),,-,-,-,50.8,
+218.0,Pontificia Universidad Catolica del Peru,,-,76.7,-,51.1,
+219.0,Pontificia Universidad Javeriana,,-,-,-,63.3,
+220.0,Queen Mary University of London,,49.7,-,-,36.7,
+221.0,Riga Technical University,,-,-,95.8,-,
+222.0,Ritsumeikan University,,-,81,92.8,29.3,
+223.0,Shandong University,,-,-,99.8,-,
+224.0,"Stony Brook University, State University of New York",,67.4,-,66.7,-,
+225.0,Sun Yat-sen University,,-,-,62,-,
+226.0,Technische Universität Dresden,,53.9,-,-,56.4,
+227.0,The American University in Cairo,,-,66.9,67,26.5,
+228.0,UCSI University,,-,81.2,-,43.3,
+229.0,Universidade Nova de Lisboa,,53.6,68.9,-,-,
+230.0,Universitat Politecnica de Valencia,,93.6,-,-,-,
+231.0,Universitat de Valencia,,88.5,-,-,-,
+232.0,Universite libre de Bruxelles,,-,-,-,46.3,
+233.0,Universiti Tunku Abdul Rahman (UTAR),,-,99.3,77,27,
+234.0,University College Cork,,55,-,-,30.7,
+235.0,University of Colorado Boulder,,46.2,-,-,-,
+236.0,University of Delhi,,-,-,-,33.6,
+237.0,University of Latvia,,-,89.7,-,-,
+238.0,University of Massachusetts Amherst,,-,-,70.1,-,
+239.0,University of Milan,,67.6,-,-,-,
+240.0,University of Science and Technology of China,,-,-,92.1,-,
+241.0,University of Southern Denmark (SDU),,92.1,-,-,-,
+242.0,University of St Andrews,,-,70.1,-,52.5,
+243.0,University of Strathclyde,,-,72.7,-,43.5,
+244.0,Université Laval,,65.3,-,91.6,-,
+245.0,Université catholique de Louvain (UCLouvain),,-,-,-,40,
+246.0,Université de Montpellier,,98.7,-,-,-,
+247.0,Uppsala University,,-,-,-,30.3,
+248.0,Utrecht University,,-,-,-,31.7,
+249.0,Vanderbilt University,,62.9,-,-,-,
+250.0,Virginia Polytechnic Institute and State University,,61.9,-,-,26.3,
+251.0,Kanazawa University,,,,,,"Kanazawa, Japan"
+251.0,King Fahd University of Petroleum & Minerals,,,,,,"Dhahran, Saudi Arabia"
+251.0,Kyung Hee University,,,,,,
+251.0,Fundação Getulio Vargas (FGV),,,,,,"São Paulo, Brazil"
+251.0,Universidad de Costa Rica,,,,,,"San Jose, Costa Rica"
+251.0,Case Western Reserve University,,,,,,"Cleveland, United States"
+251.0,Universidade Federal do Rio de Janeiro,,,,,,"Rio de Janeiro, Brazil"
+251.0,University of York,,,,,,"York, United Kingdom"
+251.0,Universidad de Sevilla,,,,,,"Seville, Spain"
+251.0,Universität Mannheim,,,,,,"Mannheim, Germany"
+251.0,Victoria University of Wellington,,,,,,"Kelburn, Wellington, New Zealand"
+251.0,University of Santo Tomas,,,,,,"Manila, Philippines"
+251.0,University of Pretoria,,,,,,"Pretoria, South Africa"
+251.0,Indian Institute of Technology Kanpur (IITK),,,,,,"Kanpur, India"
+251.0,University of Nairobi,,,,,,"Nairobi, Kenya"
+251.0,University of Mumbai,,,,,,"Mumbai, India"
+251.0,Universität Konstanz,,,,,,"Konstanz, Germany"
+251.0,University of Exeter,,,,,,"Exeter, United Kingdom"
+251.0,University of Basel,,,,,,"Basel, Switzerland"
+251.0,University of Aberdeen,,,,,,"Aberdeen, United Kingdom"
+251.0,University of Geneva,,,,,,"Geneva, Switzerland"
+251.0,University of Miami,,,,,,"Miami, United States"
+251.0,Universitas Indonesia,,,,,,"Depok, Indonesia"
+251.0,University of Coimbra,,,,,,"Coimbra, Portugal"
+251.0,University of Reading,,,,,,"Reading, United Kingdom"
+251.0,IMT Atlantique,,,,,,"Nantes, France"
+251.0,Institut National des Sciences Appliquées de Lyon (INSA),,,,,,"Lyon, France"
+251.0,Mahidol University,,,,,,"Nakhon Pathom, Thailand"
+251.0,National Tsing Hua University,,,,,,"Hsinchu City, Taiwan"
+251.0,Northumbria University at Newcastle,,,,,,"Newcastle upon Tyne, United Kingdom"
+251.0,Norwegian University of Science And Technology,,,,,,"Trondheim, Norway"
+251.0,Nottingham Trent University,,,,,,"Nottingham, United Kingdom"
+251.0,Oklahoma State University ,,,,,,"Stillwater, United States"
+251.0,Oxford Brookes University,,,,,,"Oxford, United Kingdom"
+251.0,Pontificia Universidad Católica Argentina,,,,,,"Buenos Aires, Argentina"
+251.0,University of Turin,,,,,,"Turin, Italy"
+251.0,Friedrich-Alexander-Universität Erlangen-Nürnberg,,,,,,"Erlangen, Germany"
+251.0,Universidad Austral,,,,,,"Pilar, Argentina"
+251.0,Universidad Autónoma de Nuevo León,,,,,,"San Nicolás de los Garza, Mexico"
+251.0,Universidad EAFIT,,,,,,"Medellin, Colombia"
+251.0,Universidad Iberoamericana IBERO,,,,,,"Mexico City, Mexico"
+251.0,Universidad Anáhuac México,,,,,,"Huixquilucan, Mexico"
+251.0,National Research Nuclear University MEPhI (Moscow Engineering Physics Institute),,,,,,"Moscow, Russia"
+251.0,East China University of Science and Technology,,,,,,"Shanghai, China (Mainland)"
+251.0,Universidad Rey Juan Carlos,,,,,,"Móstoles, Spain"
+251.0,University of Trento,,,,,,"Trento, Italy"
+251.0,"Birla Institute of Technology and Science, Pilani",,,,,,"Pilani, India"
+251.0,Belarusian State University,,,,,,"Minsk, Belarus"
+251.0,Diponegoro University,,,,,,"Semarang, Indonesia"
+251.0,Lebanese American University,,,,,,"Byblos, Lebanon"
+251.0,Belarusian State University,,-,84.9,-,35,
+251.0,Massey University,,,,,,"Palmerston North, New Zealand"
+251.0,Stockholm University,,,,,,"Stockholm, Sweden"
+251.0,Universidad de Alcalá,,,,,,"Alcalá de Henares, Spain"
+252.0,"Birla Institute of Technology and Science, Pilani",,-,-,84,-,
+253.0,Case Western Reserve University,,43.6,-,73.9,-,
+254.0,Diponegoro University,,-,96.5,84.2,-,
+255.0,East China University of Science and Technology,,68.7,-,99.2,-,
+256.0,Friedrich-Alexander-Universität Erlangen-Nürnberg,,60.4,-,-,-,
+257.0,Fundação Getulio Vargas (FGV),,-,-,-,-,
+258.0,IMT Atlantique,,-,80.4,-,72.5,
+259.0,Indian Institute of Technology Kanpur (IITK),,-,-,-,37.1,
+260.0,Institut National des Sciences Appliquées de Lyon (INSA),,-,75.8,-,-,
+261.0,Kanazawa University,,-,88,95.4,-,
+262.0,King Fahd University of Petroleum & Minerals,,-,-,74.3,-,
+263.0,Kyung Hee University,,43.6,-,-,32.1,
+264.0,Lebanese American University,,-,77.9,66.3,-,
+265.0,Mahidol University,,45.5,-,-,29.4,
+266.0,Massey University,,-,95.5,-,-,
+267.0,National Research Nuclear University MEPhI (Moscow Engineering Physics Institute),,-,89.4,75.7,-,
+268.0,National Tsing Hua University,,-,-,60.8,51.6,
+269.0,Northumbria University at Newcastle,,-,70.8,52.4,-,
+270.0,Norwegian University of Science And Technology,,-,-,-,-,
+271.0,Nottingham Trent University,,-,-,89.1,-,
+272.0,Oklahoma State University ,,-,-,98.6,-,
+273.0,Oxford Brookes University,,-,76.4,-,53.7,
+274.0,Pontificia Universidad Católica Argentina,,-,98,-,42.2,
+275.0,Stockholm University,,-,-,-,-,
+276.0,University of Exeter,,-,-,-,54.7,
+277.0,Universidad Anáhuac México,,-,89.6,-,32.8,
+278.0,Universidad Austral,,-,93.3,77.9,36,
+279.0,Universidad Autónoma de Nuevo León,,47.2,-,45,-,
+280.0,Universidad EAFIT,,-,-,-,53.7,
+281.0,Universidad Iberoamericana IBERO,,-,73,-,41.6,
+282.0,Universidad Rey Juan Carlos,,58,69.8,-,-,
+283.0,Universidad de Alcalá,,91.7,-,-,-,
+284.0,Universidad de Costa Rica,,-,-,-,38.3,
+285.0,Universidad de Sevilla,,77.5,-,-,-,
+286.0,Universidade Federal do Rio de Janeiro,,-,-,-,-,
+287.0,Universitas Indonesia,,-,-,-,48.9,
+288.0,University of Aberdeen,,-,66.2,-,27.1,
+289.0,University of Basel,,-,-,-,-,
+290.0,University of Coimbra,,47.4,-,-,-,
+291.0,University of Geneva,,-,-,-,-,
+292.0,University of Miami,,-,-,-,-,
+293.0,University of Mumbai,,-,-,-,-,
+294.0,University of Nairobi,,-,-,-,-,
+295.0,University of Pretoria,,-,-,-,35.3,
+296.0,University of Reading,,-,74,55.1,31.4,
+297.0,University of Santo Tomas,,-,95.3,94.8,-,
+298.0,University of Trento,,58.3,-,44.1,-,
+299.0,University of Turin,,50.9,-,-,-,
+300.0,University of York,,-,-,-,34.2,
+301.0,City University of New York,,,,,,"New York City, United States"
+301.0,Graz University of Technology,,,,,,"Graz, Austria"
+301.0,Gadjah Mada University,,,,,,"Yogyakarta, Indonesia"
+301.0,Florida State University,,,,,,"Tallahassee, United States"
+301.0,Eberhard Karls Universität Tübingen,,,,,,"Tübingen, Germany"
+301.0,Emory University,,,,,,"Atlanta, United States"
+301.0,National and Kapodistrian University of Athens,,,,,,"Athens, Greece"
+301.0,East China Normal University,,,,,,"Shanghai, China (Mainland)"
+301.0,Eötvös Loránd University,,,,,,"Budapest, Hungary"
+301.0,King Abdulaziz University (KAU),,,,,,"Jeddah, Saudi Arabia"
+301.0,United Arab Emirates University,,,,,,"Al Ain, United Arab Emirates"
+301.0,UNESP,,,,,,"Sao Paulo, Brazil"
+301.0,Universidad del Rosario,,,,,,"Bogotá, Colombia"
+301.0,Kyungpook National University,,,,,,"Daegu, South Korea"
+301.0,Universidad Adolfo Ibáñez,,,,,,"Santiago, Chile"
+301.0,North South University,,,,,,"Dhaka, Bangladesh"
+301.0,Universidad Católica Andres Bello,,,,,,"Caracas City, Venezuela"
+301.0,Universidad Católica Santa María la Antigua-USMA,,,,,,"Panama City, Panama"
+301.0,Universidad Central de Venezuela,,,,,,"Caracas, Venezuela"
+301.0,Universidad Diego Portales (UDP),,,,,,"Santiago, Chile"
+301.0,Universidad Externado de Colombia ,,,,,,"Bogotá, Colombia"
+301.0,Osaka Prefecture University ,,,,,,"Osaka City, Japan"
+301.0,EHL Hospitality Business School,,,,,,"Lausanne, Switzerland"
+301.0,Institut Teknologi Sepuluh Nopember (ITS Surabaya),,,,,,"Surabaya, Indonesia"
+301.0,Dalhousie University,,,,,,"Halifax, Canada"
+301.0,Heriot-Watt University,,,,,,"Edinburgh, United Kingdom"
+301.0,Hong Kong Baptist University,,,,,,"Hong Kong, Hong Kong SAR"
+301.0,ITMO University,,,,,,"St. Petersburg, Russia"
+301.0,Indian Institute of Science,,,,,,"Bangalore, India"
+301.0,Inha University,,,,,,"Incheon, South Korea"
+301.0,Universidad ICESI,,,,,,"Cali, Colombia"
+301.0,Kuwait University,,,,,,"Kuwait City, Kuwait"
+301.0,Instituto Politécnico Nacional (IPN),,,,,,"Ciudad de México, Mexico"
+301.0,Istanbul Technical University,,,,,,"Maslak-Istanbul, Turkey"
+301.0,Istanbul University,,,,,,"Istanbul, Turkey"
+301.0,De La Salle University,,,,,,"Manila, Philippines"
+301.0,Koç University,,,,,,"Istanbul, Turkey"
+301.0,Jilin University,,,,,,"Changchun, China (Mainland)"
+301.0,Karolinska Institutet,,,,,,"Stockholm, Sweden"
+301.0,Iowa State University,,,,,,"Ames, United States"
+301.0,Harbin Institute of Technology,,,,,,"Harbin, China (Mainland)"
+301.0,HUFS - Hankuk (Korea) University of Foreign Studies ,,,,,,"Seoul, South Korea"
+301.0,Griffith University,,,,,,"Nathan, Australia"
+301.0,Colorado State University,,,,,,"Fort Collins, United States"
+301.0,Concordia University,,,,,,"Montreal, Canada"
+301.0,Coventry University,,,,,,"Coventry, United Kingdom"
+301.0,Czech Technical University in Prague,,,,,,"Prague, Czechia"
+301.0,Kobe University,,,,,,"Kobe City, Japan"
+301.0,Universidad Interamericana de Panamá ,,,,,,"Panama City, Panama"
+301.0,Universidad Técnica Federico Santa María (USM),,,,,,"Valparaíso, Chile"
+301.0,Universidad Peruana de Ciencias Aplicadas,,,,,,"Monterrico, Peru"
+301.0,"Sofia University ""St. Kliment Ohridski""",,,,,,"Sofia, Bulgaria"
+301.0,Sogang University,,,,,,"Seoul, South Korea"
+301.0,Stellenbosch University,,,,,,"Stellenbosch, South Africa"
+301.0,Tokai University,,,,,,"Hiratsuka City, Japan"
+301.0,Taipei Medical University (TMU),,,,,,"Taipei, Taiwan"
+301.0,RUDN University,,,,,,"Moscow, Russia"
+301.0,Qatar University,,,,,,"Doha, Qatar"
+301.0,O.P. Jindal Global University,,,,,,"Sonepat, India"
+301.0,Novosibirsk State University,,,,,,"Novosibirsk , Russia"
+301.0,Taras Shevchenko National University of Kyiv,,,,,,"Kyiv, Ukraine"
+301.0,Temple University,,,,,,"Philadelphia, United States"
+301.0,The National University of Science and Technology MISIS,,,,,,"Moscow, Russia"
+301.0,The University of Alabama,,,,,,"Tuscaloosa, United States"
+301.0,The University of Georgia,,,,,,"Athens, United States"
+301.0,The University of Lahore,,,,,,"Lahore, Pakistan"
+301.0,"The University of Tennessee, Knoxville",,,,,,"Knoxville, United States"
+301.0,Tianjin University,,,,,,"Tianjin, China (Mainland)"
+301.0,Pusan National University,,,,,,"Busan, South Korea"
+301.0,Tilburg University,,,,,,"Tilburg, Netherlands"
+301.0,Tallinn University of Technology (TalTech),,,,,,"Tallinn, Estonia"
+301.0,Rheinische Friedrich-Wilhelms-Universität Bonn,,,,,,"Bonn, Germany"
+301.0,Simon Fraser University,,,,,,"Burnaby, Canada"
+301.0,Sharif University of Technology,,,,,,"Tehran, Iran"
+301.0,Shanghai University,,,,,,"Shanghai, China (Mainland)"
+301.0,Universität Konstanz,,51.9,81.3,-,-,
+301.0,Tomas Bata University in Zlin,,,,,,"Zlin, Czechia"
+301.0,Universidad Torcuato Di Tella,,,,,,"Buenos Aires, Argentina"
+301.0,Universidad de Antioquia,,,,,,"Medellin, Colombia"
+301.0,Universidad de Concepción,,,,,,"Concepción, Chile"
+301.0,Universidad de La Habana,,,,,,"Havana, Cuba"
+301.0,Universidad de La Sabana,,,,,,"Bogotá, Colombia"
+301.0,Universidad de Lima,,,,,,"Lima, Peru"
+301.0,Universidad de Palermo (UP),,,,,,"Buenos Aires, Argentina"
+301.0,Universidad de Puerto Rico,,,,,,"San Juan, Puerto Rico"
+301.0,Universidad de San Andrés - UdeSA,,,,,,"Buenos Aires, Argentina"
+301.0,Universidad Metropolitana,,,,,,"Caracas, Venezuela"
+301.0,Universidad de Santiago de Chile (USACH),,,,,,"Santiago, Chile"
+301.0,Universidad de los Andes - Chile,,,,,,"Santiago, Chile"
+301.0,Plekhanov Russian University of Economics,,,,,,"Moscow, Russia"
+301.0,Universidade Federal de Minas Gerais      ,,,,,,"Belo Horizonte, Brazil"
+301.0,Universidade Estadual de Campinas (Unicamp),,,,,,"Campinas, Brazil"
+301.0,"City, University of London",,,,,,"London, United Kingdom"
+301.0,Tokyo University of Agriculture and Technology ,,,,,,"Tokyo, Japan"
+301.0,Ulster University,,,,,,"Coleraine, United Kingdom"
+301.0,Stevens Institute of Technology,,,,,,"Hoboken, United States"
+301.0,Rutgers University–New Brunswick,,,,,,"New Brunswick, United States"
+301.0,Saint Joseph University of Beirut (USJ) ,,,,,,"Beirut, Lebanon"
+301.0,Universidad de las Américas Puebla (UDLAP),,,,,,"Cholula, Mexico"
+301.0,Chung-Ang University (CAU),,,,,,"Seoul, South Korea"
+301.0,University of Kentucky,,,,,,"Lexington, United States"
+301.0,La Trobe University,,,,,,"Melbourne, Australia"
+301.0,University of Baghdad,,,,,,"Baghdad, Iraq"
+301.0,Universiti Teknologi Malaysia ,,,,,,"Skudai, Malaysia"
+301.0,Universiti Teknologi MARA - UiTM,,,,,,"Shah Alam, Malaysia"
+301.0,"University of Missouri, Columbia",,,,,,"Columbia, United States"
+301.0,University of Naples - Federico II,,,,,,"Naples, Italy"
+301.0,Warsaw University of Technology,,,,,,"Warsaw, Poland"
+301.0,University of Oklahoma,,,,,,"Norman, United States"
+301.0,Universiti Sains Malaysia (USM),,,,,,"Gelugor, Malaysia"
+301.0,York University,,,,,,"Toronto, Canada"
+301.0,Yokohama National University,,,,,,"Yokohama City, Japan"
+301.0,Western Sydney University,,,,,,"Milperra, Australia"
+301.0,Vytautas Magnus University,,,,,,"Kaunas, Lithuania"
+301.0,Vrije Universiteit Amsterdam,,,,,,"Amsterdam, Netherlands"
+301.0,Vilnius University ,,,,,,"Vilnius, Lithuania"
+301.0,Viet Nam National University Ho Chi Minh City (VNU-HCM),,,,,,"Ho Chi Minh City, Vietnam"
+301.0,Verona University,,,,,,"Verona, Italy"
+301.0,Ural Federal University - UrFU,,,,,,"Ekaterinburg, Russia"
+301.0,Université de Liège,,,,,,"Liège, Belgium"
+301.0,Université Paris 1 Panthéon-Sorbonne ,,,,,,"Paris, France"
+301.0,Universität Innsbruck,,,,,,"Innsbruck, Austria"
+301.0,Università degli Studi di Pavia,,,,,,"Pavia, Italy"
+301.0,University of Bucharest,,,,,,"Bucharest, Romania"
+301.0,University of the Punjab,,,,,,"Lahore, Pakistan"
+301.0,"University of California, Irvine",,,,,,"Irvine, United States"
+301.0,University of Canterbury | Te Whare Wānanga o Waitaha,,,,,,"Christchurch, New Zealand"
+301.0,University of Göttingen,,,,,,"Göttingen, Germany"
+301.0,University of Houston,,,,,,"Houston, United States"
+301.0,University of Huddersfield,,,,,,"Huddersfield, United Kingdom"
+301.0,University of Iowa,,,,,,"Iowa City, United States"
+301.0,University of Johannesburg,,,,,,"Johannesburg, South Africa"
+301.0,University of Jordan,,,,,,"Amman, Jordan"
+301.0,University of Kent,,,,,,"Canterbury, United Kingdom"
+301.0,National University of Sciences And Technology (NUST) Islamabad,,,,,,"Islamabad, Pakistan"
+301.0,University of Kwazulu-Natal,,,,,,"Pinetown, South Africa"
+301.0,University of Leicester,,,,,,"Leicester, United Kingdom"
+301.0,University of Ljubljana,,,,,,"Ljubljana, Slovenia"
+301.0,University of Milano-Bicocca ,,,,,,"Milan, Italy"
+301.0,University of Guelph,,,,,,"Guelph, Canada"
+301.0,University of Gothenburg,,,,,,"Gothenburg, Sweden"
+301.0,University of Galway,,,,,,"Galway, Ireland"
+301.0,University of Engineering & Technology (UET) Lahore,,,,,,"Lahore, Pakistan"
+301.0,University of Dhaka,,,,,,"Dhaka, Bangladesh"
+301.0,University of Debrecen,,,,,,"Debrecen, Hungary"
+301.0,University of Connecticut,,,,,,"Storrs, United States"
+301.0,University of Colombo,,,,,,"Colombo,, Sri Lanka"
+301.0,University of Cincinnati,,,,,,"Cincinnati, United States"
+301.0,"University of California, Riverside",,,,,,"Riverside, United States"
+301.0,University of Zagreb,,,,,,"Zagreb, Croatia"
+301.0,University of the Philippines,,,,,,"Quezon City, Philippines"
+301.0,University of Turku,,,,,,"Turku, Finland"
+301.0,Central Queensland University (CQUniversity Australia),,,,,,"Norman Gardens, Australia"
+301.0,Chiang Mai University,,,,,,"Chiang Mai, Thailand"
+301.0,Chiba University,,,,,,"Chiba City, Japan"
+301.0,Brigham Young University,,,,,,"Provo, United States"
+301.0,Airlangga University,,,,,,"Surabaya, Indonesia"
+301.0,"Ain Shams University in Cairo (ASU, Cairo)",,,,,,"Cairo, Egypt"
+301.0,Aalborg University,,,,,,"Aalborg, Denmark"
+301.0,National Taipei University of Technology,,,,,,"Taipei City, Taiwan"
+301.0,National Sun Yat-sen University,,,,,,"Kaohsiung City, Taiwan"
+301.0,National Chengchi University,,,,,,"Taipei City, Taiwan"
+301.0,University of Victoria (UVic),,,,,,"Victoria, Canada"
+301.0,Kasetsart University,,,,,,"Bangkok, Thailand"
+301.0,Nankai University,,,,,,"Tianjin, China (Mainland)"
+301.0,Moscow Institute of Physics and Technology (MIPT / Moscow Phystech),,,,,,"Dolgoprudny, Russia"
+301.0,Middle East Technical University,,,,,,"Ankara, Turkey"
+301.0,Masaryk University,,,,,,"Brno, Czechia"
+301.0,Manchester Metropolitan University,,,,,,"Manchester , United Kingdom"
+301.0,Management and Science University,,,,,,"Shah Alam, Malaysia"
+301.0,Louisiana State University,,,,,,"Baton Rouge, United States"
+301.0,Leeds Beckett University,,,,,,"Leeds, United Kingdom"
+301.0,Universiti Malaysia Pahang,,,,,,"Kuantan, Malaysia"
+301.0, University of Dundee,,,,,,"Dundee, United Kingdom"
+301.0,National Central University,,,,,,"Taoyuan City, Taiwan"
+301.0,Budapest University of Technology and Economics,,,,,,"Budapest, Hungary"
+301.0,Carleton University,,,,,,"Ottawa, Canada"
+301.0,Bilkent University,,,,,,"Ankara, Turkey"
+301.0,University of Tulsa,,,,,,"Tulsa, United States"
+301.0,University of Texas Dallas,,,,,,"Richardson, United States"
+301.0,University of Tehran,,,,,,"Tehran, Iran"
+301.0,University of Tartu,,,,,,"Tartu, Estonia"
+301.0,University of Sussex,,,,,,"Brighton, United Kingdom"
+301.0,University of Stirling,,,,,,"Stirling, United Kingdom"
+301.0,University of South Carolina,,,,,,"Columbia, United States"
+301.0,University of South Australia,,,,,,"Adelaide, Australia"
+301.0,Brunel University London,,,,,,"London, United Kingdom"
+301.0,University of Portsmouth,,,,,,"Portsmouth, United Kingdom"
+301.0,University of Rochester,,,,,,"Rochester, United States"
+301.0,Universiti Putra Malaysia (UPM),,,,,,"Seri Kembangan, Malaysia"
+301.0,Rensselaer Polytechnic Institute,,,,,,"Troy, United States"
+301.0,Universiti Kebangsaan Malaysia (UKM),,,,,,"Bangi, Malaysia"
+301.0,Athens University of Economics and Business,,,,,,"Athens, Greece"
+301.0,Auckland University of Technology (AUT),,,,,,"Auckland, New Zealand"
+301.0,Australian Catholic University,,,,,,"Melbourne, Australia"
+301.0,Lebanese University,,,,,,"Beirut, Lebanon"
+301.0,Bandung Institute of Technology (ITB),,,,,,"Bandung, Indonesia"
+301.0,Ben-Gurion University of The Negev,,,,,,"Be'er Sheva, Israel"
+301.0,American University of Sharjah,,,,,,"Sharjah, United Arab Emirates"
+301.0,University of New Brunswick,,,,,,"Fredericton, Canada"
+302.0,Universität Mannheim,,-,-,-,56.5,
+303.0,Victoria University of Wellington,,-,-,-,31.7,
+304.0,Aalborg University,,-,-,-,30,
+305.0,"Ain Shams University in Cairo (ASU, Cairo)",,-,-,-,-,
+306.0,Airlangga University,,-,-,-,-,
+307.0,American University of Sharjah,,-,-,-,29,
+308.0,Athens University of Economics and Business,,-,-,63.3,33,
+309.0,Auckland University of Technology (AUT),,-,90.7,-,-,
+310.0,Australian Catholic University,,-,80.7,-,-,
+311.0,Bandung Institute of Technology (ITB),,-,-,-,41.2,
+312.0,Ben-Gurion University of The Negev,,-,95,-,-,
+313.0,Bilkent University,,-,-,-,-,
+314.0,Brigham Young University,,-,-,-,-,
+315.0,Brunel University London,,-,-,62.9,-,
+316.0,Budapest University of Technology and Economics,,-,-,-,-,
+317.0,Carleton University,,-,-,-,-,
+318.0,Central Queensland University (CQUniversity Australia),,-,76.7,56.1,-,
+319.0,Chiang Mai University,,-,-,-,26.6,
+320.0,Chiba University,,49.5,-,84.5,-,
+321.0,Chung-Ang University (CAU),,-,-,-,-,
+322.0,City University of New York,,-,-,45.1,-,
+323.0,"City, University of London",,-,-,73.8,-,
+324.0,Colorado State University,,-,-,-,-,
+325.0,Concordia University,,-,-,-,27.8,
+326.0,Coventry University,,-,-,-,38.8,
+327.0,Czech Technical University in Prague,,-,62.8,-,35.1,
+328.0,Dalhousie University,,53.2,-,-,-,
+329.0,De La Salle University,,-,-,-,26.6,
+330.0,East China Normal University,,-,-,99.2,-,
+331.0,Eberhard Karls Universität Tübingen,,-,-,-,-,
+332.0,EHL Hospitality Business School,,-,-,-,39.3,
+333.0,Emory University,,47.3,-,-,-,
+334.0,Eötvös Loránd University,,-,75.5,-,-,
+335.0,Florida State University,,-,-,-,35.4,
+336.0,Gadjah Mada University,,-,-,-,35.9,
+337.0,Graz University of Technology,,-,-,-,-,
+338.0,Griffith University,,-,-,-,-,
+339.0,HUFS - Hankuk (Korea) University of Foreign Studies ,,-,-,-,-,
+340.0,Harbin Institute of Technology,,-,-,99.3,-,
+341.0,Heriot-Watt University,,-,63.1,-,27.6,
+342.0,Hong Kong Baptist University,,-,94,44.6,-,
+343.0,ITMO University,,-,-,-,-,
+344.0,Indian Institute of Science,,-,-,-,-,
+345.0,Inha University,,-,-,-,-,
+346.0,Institut Teknologi Sepuluh Nopember (ITS Surabaya),,-,-,-,-,
+347.0,Instituto Politécnico Nacional (IPN),,-,-,-,42.4,
+348.0,Iowa State University,,-,-,-,-,
+349.0,Istanbul Technical University,,-,-,-,36,
+350.0,Istanbul University,,-,-,53.1,-,
+351.0,Jilin University,,-,-,-,-,
+352.0,Karolinska Institutet,,-,-,-,-,
+353.0,Kasetsart University,,-,-,-,-,
+354.0,King Abdulaziz University (KAU),,-,-,-,35.1,
+355.0,Kobe University,,46.1,-,-,30.3,
+356.0,Koç University,,-,91.2,-,25.7,
+357.0,Kuwait University,,-,69.7,-,-,
+358.0,Kyungpook National University,,-,-,-,-,
+359.0,La Trobe University,,-,-,-,-,
+360.0,Lebanese University,,-,-,-,45.4,
+361.0,Leeds Beckett University,,-,87.8,92.9,-,
+362.0,Louisiana State University,,-,-,98.9,-,
+363.0,Management and Science University,,-,-,60.9,-,
+364.0,Manchester Metropolitan University,,-,-,66,-,
+365.0,Masaryk University,,-,-,-,-,
+366.0,Middle East Technical University,,-,-,-,39.9,
+367.0,Moscow Institute of Physics and Technology (MIPT / Moscow Phystech),,-,81.4,-,-,
+368.0,Nankai University,,-,-,70.2,-,
+369.0,National Central University,,-,60.9,-,-,
+370.0,National Chengchi University,,-,-,-,-,
+371.0,National Sun Yat-sen University,,-,-,93.2,-,
+372.0,National Taipei University of Technology,,-,-,-,31.6,
+373.0,University of Galway,,-,-,-,27.6,
+374.0,National University of Sciences And Technology (NUST) Islamabad,,-,-,-,42.1,
+375.0,National and Kapodistrian University of Athens,,-,-,-,26.3,
+376.0,North South University,,-,-,-,30,
+377.0,Novosibirsk State University,,-,66.9,-,-,
+378.0,O.P. Jindal Global University,,-,86.9,-,-,
+379.0,Osaka Prefecture University ,,-,-,93,-,
+380.0,Plekhanov Russian University of Economics,,-,-,81.5,-,
+381.0,Pusan National University,,-,-,-,-,
+382.0,Qatar University,,-,64.3,-,-,
+383.0,RUDN University,,-,76.3,-,-,
+384.0,Rensselaer Polytechnic Institute,,-,-,-,-,
+385.0,Rheinische Friedrich-Wilhelms-Universität Bonn,,-,-,-,-,
+386.0,Rutgers University–New Brunswick,,-,-,-,28.1,
+387.0,Saint Joseph University of Beirut (USJ) ,,-,91.6,-,26,
+388.0,Shanghai University,,-,-,-,-,
+389.0,Sharif University of Technology,,-,-,-,-,
+390.0,Simon Fraser University,,-,-,-,-,
+391.0,"Sofia University ""St. Kliment Ohridski""",,-,-,-,-,
+392.0,Sogang University,,-,-,-,35.6,
+393.0,Stellenbosch University,,-,-,-,-,
+394.0,Stevens Institute of Technology,,-,-,90.7,-,
+395.0,Taipei Medical University (TMU),,-,81.6,-,-,
+396.0,Tallinn University of Technology (TalTech),,-,-,-,-,
+397.0,Taras Shevchenko National University of Kyiv,,-,-,-,26.6,
+398.0,Temple University,,-,-,60.9,-,
+399.0,The National University of Science and Technology MISIS,,-,67,92.2,-,
+400.0,The University of Alabama,,-,-,-,-,
+401.0,The University of Georgia,,-,-,-,-,
+402.0,The University of Lahore,,-,98.8,-,-,
+403.0,"The University of Tennessee, Knoxville",,48.7,-,-,-,
+404.0,Tianjin University,,-,-,-,-,
+405.0,Tilburg University,,-,75.3,-,-,
+406.0,Tokai University,,-,68.8,99.2,-,
+407.0,Tokyo University of Agriculture and Technology ,,-,69.8,87.6,-,
+408.0,Tomas Bata University in Zlin,,-,99.8,-,-,
+409.0,UNESP,,44,-,-,-,
+410.0,Ulster University,,-,73.9,89.2,-,
+411.0,United Arab Emirates University,,-,-,-,-,
+412.0,Universidad Adolfo Ibáñez,,-,-,-,63.3,
+413.0,Universidad Católica Andres Bello,,-,-,-,47.7,
+414.0,Universidad Central de Venezuela,,-,-,-,45,
+415.0,Universidad Diego Portales (UDP),,-,67,-,28.9,
+416.0,Universidad Externado de Colombia ,,-,-,-,39.4,
+417.0,Universidad ICESI,,-,91.5,-,-,
+418.0,Universidad Interamericana de Panamá ,,-,-,-,-,
+419.0,Universidad Metropolitana,,-,-,-,-,
+420.0,Universidad Peruana de Ciencias Aplicadas,,-,90.8,-,27.3,
+421.0,Universidad Católica Santa María la Antigua-USMA,,-,100,-,-,
+422.0,Universidad Torcuato Di Tella,,-,-,-,29.6,
+423.0,Universidad Técnica Federico Santa María (USM),,-,75.4,-,32.6,
+424.0,Universidad de Antioquia,,-,-,-,34.5,
+425.0,Universidad de Concepción,,-,-,-,29.6,
+426.0,Universidad de La Habana,,-,-,-,-,
+427.0,Universidad de La Sabana,,-,-,-,37.7,
+428.0,Universidad de Lima,,-,-,-,33.5,
+429.0,Universidad de Palermo (UP),,-,96,82.2,-,
+430.0,Universidad de Puerto Rico,,-,-,-,-,
+431.0,Universidad de San Andrés - UdeSA,,-,74.6,64.7,-,
+432.0,Universidad de Santiago de Chile (USACH),,-,-,-,52.4,
+433.0,Universidad de las Américas Puebla (UDLAP),,-,91.6,87.6,-,
+434.0,Universidad de los Andes - Chile,,-,92.1,51.1,-,
+435.0,Universidad del Rosario,,-,76.5,-,30.6,
+436.0,Universidade Estadual de Campinas (Unicamp),,-,-,-,33.9,
+437.0,Universidade Federal de Minas Gerais      ,,-,-,-,-,
+438.0,Universiti Kebangsaan Malaysia (UKM),,-,-,-,37.7,
+439.0,Universiti Malaysia Pahang,,-,98.8,79.2,-,
+440.0,Universiti Putra Malaysia (UPM),,-,-,-,37.3,
+441.0,Universiti Sains Malaysia (USM),,-,-,-,44.6,
+442.0,Universiti Teknologi MARA - UiTM,,-,-,-,30.4,
+443.0,Universiti Teknologi Malaysia ,,-,-,-,38.8,
+444.0,University of Baghdad,,-,-,-,-,
+445.0,University of Bucharest,,-,-,-,-,
+446.0,"University of California, Irvine",,57.2,-,-,-,
+447.0,"University of California, Riverside",,49.8,-,49.2,-,
+448.0,University of Canterbury | Te Whare Wānanga o Waitaha,,-,-,-,38.2,
+449.0,University of Cincinnati,,-,-,-,-,
+450.0,University of Colombo,,-,-,-,-,
+451.0,University of Connecticut,,-,-,-,-,
+452.0,University of Debrecen,,-,-,-,-,
+453.0,University of Dhaka,,-,-,-,-,
+454.0, University of Dundee,,-,72.2,-,-,
+455.0,University of Engineering & Technology (UET) Lahore,,-,-,-,27.1,
+456.0,University of Gothenburg,,-,-,-,-,
+457.0,University of Guelph,,-,-,-,27.2,
+458.0,University of Göttingen,,-,-,-,-,
+459.0,University of Houston,,-,-,-,-,
+460.0,University of Huddersfield,,-,84.5,-,-,
+461.0,University of Iowa,,-,-,-,-,
+462.0,University of Johannesburg,,-,-,-,-,
+463.0,University of Jordan,,-,-,-,30.3,
+464.0,University of Kent,,-,77.1,-,-,
+465.0,University of Kentucky,,-,-,-,-,
+466.0,University of Kwazulu-Natal,,-,-,-,-,
+467.0,University of Leicester,,-,64.5,-,-,
+468.0,University of Ljubljana,,-,-,-,-,
+469.0,University of Milano-Bicocca ,,-,-,-,-,
+470.0,"University of Missouri, Columbia",,-,-,-,-,
+471.0,University of Naples - Federico II,,50.2,-,-,-,
+472.0,University of New Brunswick,,-,79.9,-,-,
+473.0,University of Oklahoma,,-,-,-,-,
+474.0,University of Portsmouth,,-,81.4,57.5,-,
+475.0,University of Rochester,,43.7,-,-,-,
+476.0,University of South Australia,,-,-,-,-,
+477.0,University of South Carolina,,-,-,-,-,
+478.0,University of Stirling,,-,73.8,74.2,-,
+479.0,University of Sussex,,-,-,-,-,
+480.0,University of Tartu,,-,-,-,-,
+481.0,University of Tehran,,-,-,-,-,
+482.0,University of Texas Dallas,,-,-,-,-,
+483.0,University of Tulsa,,-,-,83.8,-,
+484.0,University of Turku,,-,-,-,25.7,
+485.0,University of Victoria (UVic),,49.5,-,-,-,
+486.0,University of Zagreb,,-,-,-,-,
+487.0,University of the Philippines,,-,-,-,39.3,
+488.0,University of the Punjab,,-,-,-,27,
+489.0,Università degli Studi di Pavia,,46.3,-,-,-,
+490.0,Universität Innsbruck,,-,-,-,-,
+491.0,Université Paris 1 Panthéon-Sorbonne ,,-,-,-,44,
+492.0,Université de Liège,,-,69.8,-,-,
+493.0,Ural Federal University - UrFU,,-,-,-,-,
+494.0,Verona University,,63.3,-,-,-,
+495.0,Viet Nam National University Ho Chi Minh City (VNU-HCM),,-,-,-,-,
+496.0,Vilnius University ,,-,-,-,-,
+497.0,Vrije Universiteit Amsterdam,,-,-,-,-,
+498.0,Vytautas Magnus University,,-,89.5,81.3,-,
+499.0,Warsaw University of Technology,,-,-,-,49.8,
+500.0,Western Sydney University,,-,-,-,-,
+501.0,Yokohama National University,,-,-,93.7,-,
+502.0,York University,,-,-,-,33.5,
+503.0,Abai Kazakh National Pedagogical University,,-,94.2,-,-,
+504.0,Karaganda Buketov University,,-,-,-,-,
+505.0,Aix-Marseille University,,-,-,-,-,
+506.0,American University in Dubai,,-,-,-,-,
+507.0,Amirkabir University of Technology,,-,99.6,-,-,
+508.0,Applied Science University - Bahrain,,-,100,-,-,
+509.0,Aristotle University of Thessaloniki,,-,-,-,-,
+510.0,Bina Nusantara University (BINUS),,-,-,-,-,
+511.0,Ca' Foscari University of Venice ,,-,-,-,-,
+512.0,Clemson University,,-,-,-,-,
+513.0,Cracow University of Technology (Politechnika Krakowska),,-,70.4,-,-,
+514.0,"Essex, University of",,-,-,-,-,
+515.0,Ewha Womans University,,-,-,-,-,
+516.0,Fordham University ,,-,-,-,-,
+517.0,Institut polytechnique de Grenoble - Grenoble Institute of Technology,,-,-,-,-,
+518.0,Hacettepe University ,,-,-,-,-,
+519.0,Indian Institute of Technology Roorkee (IITR),,-,-,-,-,
+520.0,Instituto Tecnológico de Buenos Aires (ITBA),,-,-,-,-,
+521.0,Kaunas University of Technology,,-,-,50.8,-,
+522.0,Khalifa University,,-,-,-,-,
+523.0,Konkuk University ,,-,-,-,-,
+524.0,National Taiwan Normal University,,-,77.8,-,-,
+525.0,"National Technical University of Ukraine ""Igor Sikorsky Kyiv Polytechnic Institute""",,-,-,-,-,
+526.0,Novosibirsk State Technical University,,-,70.3,-,-,
+527.0,Radboud University ,,-,-,-,-,
+528.0,Robert Gordon University,,-,87.7,-,-,
+529.0,SOAS University of London ,,-,-,-,-,
+530.0,Sabanci University,,-,-,-,-,
+531.0,Sejong University ,,-,-,-,-,
+532.0,Slovak University of Technology in Bratislava,,-,94.3,-,-,
+533.0,Sophia University ,,-,-,68.2,-,
+534.0,Sultan Qaboos University,,-,-,-,-,
+535.0,Tampere University,,-,-,-,25.4,
+536.0,Technische Universität Braunschweig,,-,-,-,-,
+537.0,Tecnológico de Costa Rica -TEC,,-,-,-,32.1,
+538.0,Universidad Industrial de Santander - UIS,,-,-,-,27.6,
+539.0,Universidad Nacional Mayor de San Marcos,,-,-,-,33.8,
+540.0,Universidad Nacional de la Asunción,,-,-,-,-,
+541.0,Universidad ORT Uruguay,,-,-,-,-,
+542.0,Universidad de la República (Udelar),,-,-,-,-,
+543.0,Universidade Católica Portuguesa - UCP,,-,-,-,-,
+544.0,Universitas Brawijaya ,,-,79.9,-,-,
+545.0,Universiti Tenaga Nasional (UNITEN),,-,77.4,-,-,
+546.0,University of Calcutta,,-,-,-,-,
+547.0,University of Denver,,-,-,58,-,
+548.0,University of East Anglia (UEA),,-,77.6,-,-,
+549.0,University of Manitoba,,-,-,-,-,
+550.0,Ecole Centrale de Nantes,,-,-,-,41.2,
+inf,Cracow University of Technology (Politechnika Krakowska),,,,,,"Krakow, Poland"
+inf,Clemson University,,,,,,"Clemson, United States"
+inf,Ca' Foscari University of Venice ,,,,,,"Venice, Italy"
+inf,Bina Nusantara University (BINUS),,,,,,"Jakarta, Indonesia"
+inf,Aristotle University of Thessaloniki,,,,,,"Thessaloniki, Greece"
+inf,Applied Science University - Bahrain,,,,,,"Al-Ekir, Bahrain"
+inf,Fordham University ,,,,,,"New York City, United States"
+inf,Radboud University ,,,,,,"Nijmegen, Netherlands"
+inf,Robert Gordon University,,,,,,"Aberdeen, United Kingdom"
+inf,SOAS University of London ,,,,,,"London, United Kingdom"
+inf,Aix-Marseille University,,,,,,"Marseille, France"
+inf,University of Manitoba,,,,,,"Winnipeg, Canada"
+inf,University of East Anglia (UEA),,,,,,"Norwich, United Kingdom"
+inf,University of Denver,,,,,,"Denver, United States"
+inf,University of Calcutta,,,,,,"Kolkata, India"
+inf,Universiti Tenaga Nasional (UNITEN),,,,,,"Kajang, Malaysia"
+inf,Universitas Brawijaya ,,,,,,"Malang , Indonesia"
+inf,Sabanci University,,,,,,"Istanbul, Turkey"
+inf,Sejong University ,,,,,,"Seoul, South Korea"
+inf,Slovak University of Technology in Bratislava,,,,,,"Bratislava, Slovakia"
+inf,Sophia University ,,,,,,"Tokyo, Japan"
+inf,Sultan Qaboos University,,,,,,"Muscat, Oman"
+inf,Tampere University,,,,,,"Tampere, Finland"
+inf,Ecole Centrale de Nantes,,,,,,"Nantes, France"
+inf,Technische Universität Braunschweig,,,,,,"Braunschweig, Germany"
+inf,Universidad Industrial de Santander - UIS,,,,,,"Bucaramanga, Colombia"
+inf,Universidad Nacional Mayor de San Marcos,,,,,,"Lima, Peru"
+inf,Universidad Nacional de la Asunción,,,,,,"San Lorenzo, Paraguay"
+inf,Universidad ORT Uruguay,,,,,,"Montevideo, Uruguay"
+inf,Universidad de la República (Udelar),,,,,,"Montevideo, Uruguay"
+inf,Universidade Católica Portuguesa - UCP,,,,,,"Lisbon, Portugal"
+inf,Tecnológico de Costa Rica -TEC,,,,,,"Cartago, Costa Rica"
+inf,"Essex, University of",,,,,,"Colchester, United Kingdom"
+inf,Johns Hopkins University,73.8,,,,,"Baltimore, United States"
+inf,Hacettepe University ,,,,,,"Ankara, Turkey"
+inf,University of Bristol,71.6,,,,,"Bristol, United Kingdom"
+inf,Kyoto University,70.6,,,,,"Kyoto, Japan"
+inf,University of Leeds,70.6,,,,,"Leeds, United Kingdom"
+inf,California Institute of Technology (Caltech),66.9,,,,,"Pasadena, United States"
+inf,Universitat de Barcelona,61.1,,,,,"Barcelona, Spain"
+inf,University of Wisconsin-Madison,66.9,,,,,"Madison, United States"
+inf,Western University,73.8,,,,,"London, Canada"
+inf,Universidad Nacional Autónoma de México  (UNAM),61.5,,,,,"Mexico City, Mexico"
+inf,KAIST - Korea Advanced Institute of Science & Technology,64.1,,,,,"Daejeon, South Korea"
+inf,The University of Warwick,64.1,,,,,"Coventry, United Kingdom"
+inf,King's College London,65.6,,,,,"London, United Kingdom"
+inf,McMaster University,61.9,,,,,"Hamilton, Canada"
+inf,University of Florida,61.9,,,,,"Gainesville, United States"
+inf,Chalmers University of Technology,61.5,,,,,"Gothenburg, Sweden"
+inf,The University of Auckland,65.6,,,,,"Auckland, New Zealand"
+inf,Ewha Womans University,,,,,,"Seoul, South Korea"
+inf,Politecnico di Milano,73.8,,,,,"Milan, Italy"
+inf,The University of New South Wales (UNSW Sydney),84.5,,,,,"Sydney, Australia"
+inf,Novosibirsk State Technical University,,,,,,"Novosibirsk, Russia"
+inf,Indian Institute of Technology Roorkee (IITR),,,,,,"Roorkee, India"
+inf,Institut polytechnique de Grenoble - Grenoble Institute of Technology,,,,,,"Grenoble, France"
+inf,Instituto Tecnológico de Buenos Aires (ITBA),,,,,,"Buenos Aires, Argentina"
+inf,Karaganda Buketov University,,,,,,"Karaganda, Kazakhstan"
+inf,Kaunas University of Technology,,,,,,"Kaunas, Lithuania"
+inf,American University in Dubai,,,,,,"Dubai, United Arab Emirates"
+inf,Khalifa University,,,,,,"Abu Dhabi, United Arab Emirates"
+inf,National Taiwan Normal University,,,,,,"Taipei City, Taiwan"
+inf,"National Technical University of Ukraine ""Igor Sikorsky Kyiv Polytechnic Institute""",,,,,,"Kyiv, Ukraine"
+inf,Abai Kazakh National Pedagogical University,,,,,,"Almaty, Kazakhstan"
+inf,Amirkabir University of Technology,,,,,,"Tehran, Iran"
+inf,The University of Edinburgh,71.6,,,,,"Edinburgh, United Kingdom"
+inf,The University of Queensland,66.9,,,,,"Brisbane City, Australia"
+inf,Konkuk University ,,,,,,"Seoul, South Korea"
+inf,University College Dublin,61.1,,,,,"Dublin, Ireland"
