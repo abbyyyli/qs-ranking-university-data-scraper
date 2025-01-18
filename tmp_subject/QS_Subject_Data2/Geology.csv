@@ -1,0 +1,241 @@
+2024,2023,Institution,Location,Academic Reputation,Employer Reputation,Citations per Paper,H-index Citations,International,Score
+1,1  ,ETH Zurich - Swiss Federal Institute of Technology,Switzerland,,,,,69,94.6
+2,2  ,Harvard University,United States,,,,,69.5,92.5
+3,5  ,University of Oxford,United Kingdom,,,,,73.7,91.7
+4,6  ,University of Cambridge,United Kingdom,,,,,73.8,91.5
+5,7  ,Massachusetts Institute of Technology (MIT) ,United States,,,,,66,91
+6,4  ,"University of California, Berkeley (UCB)",United States,,,,,70,90.9
+7,3  ,California Institute of Technology (Caltech),United States,,,,,70.9,90.7
+8,10  ,University of Washington,United States,,,,,69.2,90
+9,8  ,Stanford University,United States,,,,,60.8,89.9
+10,9  ,Columbia University,United States,,,,,72.6,89.4
+11,13=,Princeton University,United States,,,,,60.1,88.2
+=12,11  ,The Australian National University,Australia,,,,,67.6,87.8
+=12,13=,The University of Tokyo,Japan,,,,,74.6,87.8
+=12,12  ,University of Colorado Boulder,United States,,,,,67.9,87.8
+15,16  ,University of British Columbia,Canada,,,,,58.4,87.1
+16,24=,University of Leeds,United Kingdom,,,,,73.7,86.8
+=17,22  ,The University of Edinburgh,United Kingdom,,,,,71.5,86.7
+=17,21  ,UCL,United Kingdom,,,,,80.5,86.7
+=19,17  ,Sorbonne University,France,,,,,96.7,86.5
+=19,30=,Utrecht University,Netherlands,,,,,65.5,86.5
+21,18=,University of Texas at Austin,United States,,,,,66.7,86.3
+22,20  ,"University of California, Los Angeles (UCLA)",United States,,,,,63.6,86
+23,15  ,Pennsylvania State University,United States,,,,,64.7,85.9
+24,36=,Delft University of Technology,Netherlands,,,,,60.5,85.7
+25,43  ,Peking University,China (Mainland),,,,,59.7,85.6
+26,28  ,University of Toronto,Canada,,,,,56.5,85.4
+=27,18=,"University of California, San Diego (UCSD)",United States,,,,,60.2,85.2
+=27,30=,"University of Maryland, College Park",United States,,,,,72.4,85.2
+29,33=,Université Grenoble Alpes,France,,,,,79.8,84.9
+=30,24=,The University of Arizona,United States,,,,,75.7,84.6
+=30,38=,The University of New South Wales (UNSW Sydney),Australia,,,,,66.5,84.6
+=32,51-100,China University of Geosciences,China (Mainland),,,,,68.8,84.5
+=32,27  ,Imperial College London,United Kingdom,,,,,58.1,84.5
+34,51-100,The University of Exeter,United Kingdom,,,,,60.2,84.4
+35,33=,Tsinghua University,China (Mainland),,,,,61.5,84.3
+36,35  ,Texas A&M University,United States,,,,,70.5,83.9
+=37,32  ,University of Bristol,United Kingdom,,,,,63.2,83.8
+=37,44=,Wageningen University & Research,Netherlands,,,,,64.7,83.8
+39,26  ,Curtin University,Australia,,,,,74.2,83.7
+=40,40  ,McGill University,Canada,,,,,53.4,83.6
+=40,51-100,Stockholm University,Sweden,,,,,68.8,83.6
+=42,23  ,The University of Western Australia,Australia,,,,,75.3,83.4
+=42,29  ,Yale University,United States,,,,,56.4,83.4
+44,51-100,University of Oslo,Norway,,,,,63,83
+45,41  ,University of Michigan-Ann Arbor,United States,,,,,66.2,82.7
+46,42  ,University of Southampton,United Kingdom,,,,,66.5,82.5
+=47,51-100,"University of California, Davis",United States,,,,,51.6,82.4
+=47,46=,University of Copenhagen,Denmark,,,,,64.4,82.4
+=49,51-100,Monash University,Australia,,,,,58.3,82.1
+=49,51-100,University of Bern,Switzerland,,,,,62.3,82.1
+=49,44=,University of Hawaiʻi at Mānoa,United States,,,,,68.7,82.1
+51-100,51-100,Alma Mater Studiorum - University of Bologna,Italy,,,,,,64.1
+51-100,51-100,Arizona State University,United States,,,,,,58
+51-100,50  ,Christian-Albrechts-University zu Kiel,Germany,,,,,,70.1
+51-100,48  ,Colorado State University,United States,,,,,,43.8
+51-100,51-100,Cornell University,United States,,,,,,56.1
+51-100,46=,Durham University,United Kingdom,,,,,,61.4
+51-100,51-100,Georgia Institute of Technology,United States,,,,,,48.2
+51-100,101-150,Ghent University,Belgium,,,,,,72.4
+51-100,51-100,Johns Hopkins University,United States,,,,,,60.1
+51-100,101-150,"KIT, Karlsruhe Institute of Technology",Germany,,,,,,66.5
+51-100,51-100,Kyoto University,Japan,,,,,,63.7
+51-100,51-100,Ludwig-Maximilians-Universität München,Germany,,,,,,63.4
+51-100,51-100,Lund University,Sweden,,,,,,63.1
+51-100,51-100,Nanjing University,China (Mainland),,,,,,57
+51-100,51-100,"Nanyang Technological University, Singapore (NTU)",Singapore,,,,,,40
+51-100,101-150,Newcastle University,United Kingdom,,,,,,56.7
+51-100,51-100,Purdue University,United States,,,,,,56.8
+51-100,51-100,Technical University of Denmark,Denmark,,,,,,63.5
+51-100,51-100,The University of Adelaide,Australia,,,,,,61.1
+51-100,51-100,The University of Hong Kong,Hong Kong SAR,,,,,,47.4
+51-100,51-100,The University of Manchester,United Kingdom,,,,,,65.6
+51-100,36=,The University of Melbourne,Australia,,,,,,47.7
+51-100,51-100,The University of Queensland,Australia,,,,,,61.4
+51-100,49  ,The University of Sydney,Australia,,,,,,58.1
+51-100,51-100,Universidad de Chile,Chile,,,,,,58.9
+51-100,51-100,Universidad Nacional Autónoma de México (UNAM),Mexico,,,,,,76.1
+51-100,51-100,Universidade de São Paulo,Brazil,,,,,,65.5
+51-100,51-100,Universität Bremen,Germany,,,,,,66.4
+51-100,51-100,Universitat de Barcelona,Spain,,,,,,72.6
+51-100,51-100,Universität Hamburg,Germany,,,,,,65.5
+51-100,51-100,Universität Potsdam,Germany,,,,,,63.8
+51-100,51-100,Université de Montpellier,France,,,,,,85
+51-100,38=,Université PSL,France,,,,,,100
+51-100,51-100,University of Alberta,Canada,,,,,,54.3
+51-100,51-100,University of Bergen,Norway,,,,,,47.1
+51-100,101-150,University of Birmingham,United Kingdom,,,,,,64.8
+51-100,101-150,"University of California, Irvine",United States,,,,,,52.8
+51-100,51-100,"University of California, Santa Barbara (UCSB)",United States,,,,,,59.8
+51-100,51-100,"University of California, Santa Cruz",United States,,,,,,61.3
+51-100,51-100,University of Chicago,United States,,,,,,58.7
+51-100,,University of Chinese Academy of Sciences,China (Mainland),,,,,,80.8
+51-100,51-100,University of Geneva,Switzerland,,,,,,72.9
+51-100,51-100,University of Illinois at Urbana-Champaign,United States,,,,,,52.5
+51-100,51-100,University of St Andrews,United Kingdom,,,,,,55.4
+51-100,51-100,University of Tasmania,Australia,,,,,,58.4
+51-100,51-100,University of Vienna,Austria,,,,,,64.5
+51-100,51-100,University of Wisconsin-Madison,United States,,,,,,63.6
+51-100,51-100,Vrije Universiteit Amsterdam,Netherlands,,,,,,49.5
+51-100,51-100,Wuhan University,China (Mainland),,,,,,51.5
+101-150,101-150,Aarhus University,Denmark,,,,,,59.2
+101-150,101-150,Beijing Normal University ,China (Mainland),,,,,,56.5
+101-150,101-150,Cardiff University,United Kingdom,,,,,,56.3
+101-150,201-230,China University of Geosciences (Beijing),China (Mainland),,,,,,63.2
+101-150,51-100,Colorado School of Mines,United States,,,,,,45.4
+101-150,101-150,Duke University,United States,,,,,,47.8
+101-150,101-150,Eberhard Karls Universität Tübingen,Germany,,,,,,60.4
+101-150,101-150,École Normale Supérieure de Lyon,France,,,,,,61.2
+101-150,101-150,Freie Universitaet Berlin,Germany,,,,,,53
+101-150,101-150,Goethe-University Frankfurt am Main,Germany,,,,,,55.4
+101-150,101-150,Hokkaido University,Japan,,,,,,50.2
+101-150,101-150,KU Leuven,Belgium,,,,,,63.7
+101-150,51-100,Macquarie University,Australia,,,,,,65.2
+101-150,101-150,Michigan State University,United States,,,,,,56.3
+101-150,101-150,Nagoya University,Japan,,,,,,67.8
+101-150,101-150,National Taiwan University (NTU),Taiwan,,,,,,49.9
+101-150,101-150,Northwestern University,United States,,,,,,50.3
+101-150,51-100,Oregon State University,United States,,,,,,52.3
+101-150,101-150,Rheinische Friedrich-Wilhelms-Universität Bonn,Germany,,,,,,67.4
+101-150,51-100,Ruprecht-Karls-Universität Heidelberg,Germany,,,,,,69
+101-150,51-100,Seoul National University,South Korea,,,,,,54.4
+101-150,101-150,Sun Yat-sen University,China (Mainland),,,,,,56.1
+101-150,101-150,Technical University of Munich,Germany,,,,,,56.3
+101-150,151-200,The Hong Kong University of Science and Technology,Hong Kong SAR,,,,,,29.2
+101-150,51-100,The Ohio State University,United States,,,,,,60
+101-150,101-150,The University of Auckland,New Zealand,,,,,,47.1
+101-150,101-150,Tohoku University,Japan,,,,,,60.4
+101-150,151-200,Tokyo Institute of Technology (Tokyo Tech),Japan,,,,,,57.1
+101-150,101-150,Università di Padova,Italy,,,,,,62.2
+101-150,151-200,Université Paul Sabatier Toulouse III,France,,,,,,89.2
+101-150,101-150,University of Aberdeen,United Kingdom,,,,,,55.8
+101-150,101-150,University of Amsterdam,Netherlands,,,,,,60.2
+101-150,101-150,University of Calgary,Canada,,,,,,47.4
+101-150,101-150,University of Cape Town,South Africa,,,,,,71.5
+101-150,101-150,University of East Anglia (UEA),United Kingdom,,,,,,45.5
+101-150,101-150,University of Florida,United States,,,,,,57.6
+101-150,101-150,University of Göttingen,Germany,,,,,,67.2
+101-150,101-150,University of Helsinki,Finland,,,,,,57.1
+101-150,101-150,University of Lausanne,Switzerland,,,,,,55.7
+101-150,151-200,University of Leicester,United Kingdom,,,,,,63.4
+101-150,101-150,University of Miami,United States,,,,,,56.9
+101-150,101-150,University of Minnesota Twin Cities,United States,,,,,,57.9
+101-150,101-150,University of Oklahoma,United States,,,,,,55.5
+101-150,101-150,University of Plymouth,United Kingdom,,,,,,42.5
+101-150,101-150,University of Science and Technology of China,China (Mainland),,,,,,61.9
+101-150,101-150,University of Twente,Netherlands,,,,,,63.3
+101-150,101-150,University of Zurich,Switzerland,,,,,,51
+101-150,101-150,Uppsala University,Sweden,,,,,,63.9
+101-150,151-200,Victoria University of Wellington,New Zealand,,,,,,48.6
+101-150,101-150,Virginia Polytechnic Institute and State University,United States,,,,,,58.3
+151-200,101-150,Aix-Marseille University,France,,,,,,80.9
+151-200,,Aristotle University of Thessaloniki,Greece,,,,,,64.4
+151-200,101-150,Brown University,United States,,,,,,40.3
+151-200,201-230,China University of Mining and Technology,China (Mainland),,,,,,39.8
+151-200,151-200,Complutense University of Madrid,Spain,,,,,,59.4
+151-200,101-150,Dalhousie University,Canada,,,,,,44
+151-200,151-200,Florida State University,United States,,,,,,54.3
+151-200,,Fudan University,China (Mainland),,,,,,39.9
+151-200,151-200,Indian Institute of Technology Bombay (IITB),India,,,,,,45.2
+151-200,101-150,James Cook University,Australia,,,,,,55.6
+151-200,151-200,Kyushu University,Japan,,,,,,54.9
+151-200,151-200,Lancaster University,United Kingdom,,,,,,51.2
+151-200,101-150,Lomonosov Moscow State University,Russia,,,,,,65.6
+151-200,,Nanjing University of Information Science and Technology,China (Mainland),,,,,,59.1
+151-200,101-150,Sapienza University of Rome,Italy,,,,,,62.6
+151-200,201-230,Shanghai Jiao Tong University,China (Mainland),,,,,,52.6
+151-200,151-200,Technische Universität Berlin (TU Berlin),Germany,,,,,,51.7
+151-200,151-200,The Chinese University of Hong Kong (CUHK),Hong Kong SAR,,,,,,34.2
+151-200,201-230,The Hong Kong Polytechnic University,Hong Kong SAR,,,,,,38.4
+151-200,201-230,Tongji University,China (Mainland),,,,,,46
+151-200,151-200,"Trinity College Dublin, The University of Dublin",Ireland,,,,,,47.1
+151-200,151-200,Universidad de Buenos Aires (UBA),Argentina,,,,,,45.7
+151-200,151-200,Universidad de Concepción,Chile,,,,,,63.7
+151-200,101-150,Universitat Autònoma de Barcelona,Spain,,,,,,62.4
+151-200,151-200,Université Claude Bernard Lyon 1,France,,,,,,62.2
+151-200,,Université Côte d\'Azur,France,,,,,,70.6
+151-200,201-230,Université de Liège,Belgium,,,,,,65.4
+151-200,151-200,Université de Strasbourg,France,,,,,,63.4
+151-200,151-200,University College Dublin,Ireland,,,,,,52.3
+151-200,151-200,University of Bordeaux,France,,,,,,58.4
+151-200,151-200,"University of California, Riverside",United States,,,,,,49.4
+151-200,151-200,University of Canterbury | Te Whare Wānanga o Waitaha,New Zealand,,,,,,50.7
+151-200,151-200,University of Florence,Italy,,,,,,66.1
+151-200,201-230,University of Glasgow,United Kingdom,,,,,,55.1
+151-200,,University of Gothenburg,Sweden,,,,,,51.1
+151-200,151-200,University of Granada,Spain,,,,,,61.9
+151-200,151-200,University of Groningen,Netherlands,,,,,,62.7
+151-200,201-230,University of Lisbon ,Portugal,,,,,,67.5
+151-200,151-200,University of Liverpool,United Kingdom,,,,,,48.6
+151-200,151-200,University of Milano-Bicocca ,Italy,,,,,,54.5
+151-200,201-230,University of Naples - Federico II,Italy,,,,,,69.6
+151-200,151-200,"University of North Carolina, Chapel Hill",United States,,,,,,56.9
+151-200,151-200,University of Nottingham,United Kingdom,,,,,,52.8
+151-200,151-200,University of Utah,United States,,,,,,58.3
+151-200,101-150,University of Victoria (UVic),Canada,,,,,,53
+151-200,151-200,University of Virginia,United States,,,,,,56.3
+151-200,151-200,University of Waterloo,Canada,,,,,,45.9
+151-200,151-200,University of Wollongong,Australia,,,,,,54.4
+151-200,101-150,Yonsei University,South Korea,,,,,,46.1
+151-200,151-200,Zhejiang University,China (Mainland),,,,,,46.4
+201-240,201-230,Aberystwyth University,United Kingdom,,,,,,47.5
+201-240,151-200,Boston University,United States,,,,,,56.1
+201-240,,Charles University,Czech Republic,,,,,,62.8
+201-240,201-230,Eötvös Loránd University,Hungary,,,,,,53
+201-240,,Friedrich-Alexander-Universität Erlangen-Nürnberg,Germany,,,,,,66.5
+201-240,201-230,George Mason University,United States,,,,,,56.2
+201-240,151-200,Indian Institute of Science,India,,,,,,35
+201-240,,Indian Institute of Technology Kharagpur (IIT-KGP),India,,,,,,33.3
+201-240,,Iowa State University,United States,,,,,,53.2
+201-240,,Istanbul Technical University,Turkey,,,,,,48.3
+201-240,151-200,King Abdulaziz University (KAU),Saudi Arabia,,,,,,57.9
+201-240,,King's College London,United Kingdom,,,,,,37.9
+201-240,,National Central University,Taiwan,,,,,,58.6
+201-240,201-230,Norwegian University of Science And Technology,Norway,,,,,,49.5
+201-240,151-200,Ocean University of China,China (Mainland),,,,,,41.3
+201-240,151-200,Queen's University at Kingston,Canada,,,,,,43.1
+201-240,151-200,Rice University,United States,,,,,,42.9
+201-240,151-200,RWTH Aachen University,Germany,,,,,,55.6
+201-240,201-230,"Stony Brook University, State University of New York",United States,,,,,,42.2
+201-240,151-200,The University of Sheffield,United Kingdom,,,,,,53.1
+201-240,,Università degli studi Roma Tre,Italy,,,,,,47.4
+201-240,201-230,Université de Montréal ,Canada,,,,,,46.6
+201-240,151-200,Université de Rennes 1 (University of Rennes),France,,,,,,59.5
+201-240,201-230,University of Alaska Fairbanks,United States,,,,,,42
+201-240,151-200,University of Cologne,Germany,,,,,,61.4
+201-240,151-200,University of Delaware,United States,,,,,,60.9
+201-240,151-200,"University of Maryland, Baltimore County",United States,,,,,,57.5
+201-240,151-200,University of Massachusetts Amherst,United States,,,,,,50.2
+201-240,151-200,University of Milan,Italy,,,,,,43.5
+201-240,,University of Nebraska - Lincoln,United States,,,,,,39.6
+201-240,201-230,University of Oregon,United States,,,,,,46.2
+201-240,201-230,University of Otago,New Zealand,,,,,,34.2
+201-240,151-200,University of Pennsylvania,United States,,,,,,40
+201-240,151-200,University of Pisa,Italy,,,,,,64.6
+201-240,201-230,University of Saskatchewan,Canada,,,,,,45.7
+201-240,151-200,University of Southern California,United States,,,,,,51.1
+201-240,201-230,University of Tsukuba,Japan,,,,,,49
+201-240,201-230,University of Witwatersrand,South Africa,,,,,,57
+201-240,,University of York,United Kingdom,,,,,,55.3
+201-240,201-230,Western University,Canada,,,,,,52.8

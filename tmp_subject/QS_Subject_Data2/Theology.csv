@@ -1,0 +1,142 @@
+2024,2023,Institution,Location,Academic Reputation,Employer Reputation,Citations per Paper,H-index Citations,International,Score
+1,3  ,Harvard University,United States,,,,,,92
+2,2  ,University of Oxford,United Kingdom,,,,,,91.9
+3,1  ,University of Notre Dame,United States,,,,,,91.8
+4,4  ,University of Cambridge,United Kingdom,,,,,,91.4
+5,8  ,Eberhard Karls Universität Tübingen,Germany,,,,,,89.7
+6,5  ,KU Leuven,Belgium,,,,,,88.9
+7,6  ,Durham University,United Kingdom,,,,,,88.6
+8,13  ,University of Chicago,United States,,,,,,88.1
+9,9  ,Duke University,United States,,,,,,87.9
+10,16  ,The University of Edinburgh,United Kingdom,,,,,,86.8
+11,10  ,Boston College,United States,,,,,,86.5
+12,7  ,Yale University,United States,,,,,,85.8
+13,20  ,Ruprecht-Karls-Universität Heidelberg,Germany,,,,,,84.5
+14,14  ,University of St Andrews,United Kingdom,,,,,,83.7
+15,12  ,Princeton University,United States,,,,,,83.2
+16,11  ,The Hebrew University of Jerusalem,Israel,,,,,,82.2
+17,17  ,"University of California, Berkeley (UCB)",United States,,,,,,80.2
+18,18  ,University of Toronto,Canada,,,,,,80
+19,23=,Université catholique de Louvain (UCLouvain),Belgium,,,,,,79.4
+20,15  ,Emory University,United States,,,,,,79.1
+21,28  ,University of Vienna,Austria,,,,,,79
+22,22  ,University of Helsinki,Finland,,,,,,78
+23,23=,Westfälische Wilhelms-Universität Münster ,Germany,,,,,,77.8
+24,26  ,Ludwig-Maximilians-Universität München,Germany,,,,,,76.7
+25,29  ,University of Aberdeen,United Kingdom,,,,,,76.6
+26,30=,Humboldt-Universität zu Berlin,Germany,,,,,,75.3
+27,21  ,Vrije Universiteit Amsterdam,Netherlands,,,,,,75.2
+28,34  ,Australian Catholic University,Australia,,,,,,75
+29,33  ,Universidad Pontificia Comillas,Spain,,,,,,74.6
+30,25  ,University of Göttingen,Germany,,,,,,74.1
+31,35  ,University of Navarra,Spain,,,,,,73.6
+32,19  ,International Islamic University Malaysia (IIUM),Malaysia,,,,,,73.4
+33,36  ,King's College London,United Kingdom,,,,,,73.3
+34,51-100,Pontificia Universidad Católica de Chile (UC),Chile,,,,,,73.1
+35,30=,Vanderbilt University,United States,,,,,,72.8
+=36,27  ,Boston University,United States,,,,,,72.7
+=36,40=,Radboud University ,Netherlands,,,,,,72.7
+38,51-100,The University of Sydney,Australia,,,,,,72.6
+39,32  ,University of Birmingham,United Kingdom,,,,,,72.5
+40,40=,Stanford University,United States,,,,,,72.3
+41,44  ,Yonsei University,South Korea,,,,,,71.9
+42,50  ,University of Oslo,Norway,,,,,,71.8
+=43,47=,Georgetown University,United States,,,,,,71.3
+=43,43  ,Universiti Malaya (UM),Malaysia,,,,,,71.3
+=43,39  ,University of Zurich,Switzerland,,,,,,71.3
+46,,The University of Tokyo,Japan,,,,,,71.2
+47,37=,The Chinese University of Hong Kong (CUHK),Hong Kong SAR,,,,,,70.8
+48,40=,Catholic University of America,United States,,,,,,70.4
+49,51-100,"Trinity College Dublin, The University of Dublin",Ireland,,,,,,70.1
+50,51-100,Leiden University,Netherlands,,,,,,69.8
+51-100,51-100,Aarhus University,Denmark,,,,,,
+51-100,51-100,Alma Mater Studiorum - University of Bologna,Italy,,,,,,
+51-100,51-100,Ankara Üniversitesi,Turkey,,,,,,
+51-100,51-100,Baylor University,United States,,,,,,
+51-100,101-140,Brown University,United States,,,,,,
+51-100,51-100,Claremont Graduate University,United States,,,,,,
+51-100,51-100,Columbia University,United States,,,,,,
+51-100,101-140,Ecole des Hautes Etudes en Sciences Sociales (EHESS),France,,,,,,
+51-100,49  ,Fordham University ,United States,,,,,,
+51-100,51-100,Freie Universitaet Berlin,Germany,,,,,,
+51-100,51-100,Gadjah Mada University,Indonesia,,,,,,
+51-100,51-100,International Islamic University Islamabad (IIU),Pakistan,,,,,,
+51-100,51-100,Johns Hopkins University,United States,,,,,,
+51-100,,King Saud University,Saudi Arabia,,,,,,
+51-100,,Kyoto University,Japan,,,,,,
+51-100,51-100,Lund University,Sweden,,,,,,
+51-100,,Macquarie University,Australia,,,,,,
+51-100,46  ,McGill University,Canada,,,,,,
+51-100,101-140,Monash University,Australia,,,,,,
+51-100,51-100,New York University (NYU),United States,,,,,,
+51-100,51-100,Pontificia Universidad Católica Argentina,Argentina,,,,,,
+51-100,,Pontificia Universidad Católica del Perú,Peru,,,,,,
+51-100,101-140,Pontificia Universidad Javeriana,Colombia,,,,,,
+51-100,51-100,Sapienza University of Rome,Italy,,,,,,
+51-100,51-100,SOAS University of London ,United Kingdom,,,,,,
+51-100,101-140,"Sofia University ""St. Kliment Ohridski""",Bulgaria,,,,,,
+51-100,37=,Tel Aviv University,Israel,,,,,,
+51-100,,The Australian National University,Australia,,,,,,
+51-100,51-100,The University of Exeter,United Kingdom,,,,,,
+51-100,51-100,The University of Manchester,United Kingdom,,,,,,
+51-100,51-100,The University of Melbourne,Australia,,,,,,
+51-100,51-100,Università Cattolica del Sacro Cuore,Italy,,,,,,
+51-100,51-100,Universität Hamburg,Germany,,,,,,
+51-100,51-100,Université de Strasbourg,France,,,,,,
+51-100,51-100,Université PSL,France,,,,,,
+51-100,51-100,University of Amsterdam,Netherlands,,,,,,
+51-100,51-100,University of British Columbia,Canada,,,,,,
+51-100,47=,"University of California, Los Angeles (UCLA)",United States,,,,,,
+51-100,51-100,"University of California, Santa Barbara (UCSB)",United States,,,,,,
+51-100,51-100,University of Copenhagen,Denmark,,,,,,
+51-100,51-100,University of Groningen,Netherlands,,,,,,
+51-100,51-100,University of Michigan-Ann Arbor,United States,,,,,,
+51-100,51-100,University of Otago,New Zealand,,,,,,
+51-100,51-100,University of Ottawa,Canada,,,,,,
+51-100,51-100,University of Texas at Austin,United States,,,,,,
+51-100,51-100,University of Turin,Italy,,,,,,
+51-100,51-100,University of Virginia,United States,,,,,,
+51-100,51-100,University of Washington,United States,,,,,,
+51-100,51-100,Uppsala University,Sweden,,,,,,
+51-100,101-140,Victoria University of Wellington,New Zealand,,,,,,
+101-140,101-140,Albert-Ludwigs-Universitaet Freiburg,Germany,,,,,,
+101-140,,Ateneo de Manila University,Philippines,,,,,,
+101-140,,Ca' Foscari University of Venice ,Italy,,,,,,
+101-140,,Chulalongkorn University,Thailand,,,,,,
+101-140,101-140,Complutense University of Madrid,Spain,,,,,,
+101-140,,Cornell University,United States,,,,,,
+101-140,51-100,Fudan University,China (Mainland),,,,,,
+101-140,,Goethe-University Frankfurt am Main,Germany,,,,,,
+101-140,101-140,HSE University,Russia,,,,,,
+101-140,,Jagiellonian University,Poland,,,,,,
+101-140,,Jawaharlal Nehru University,India,,,,,,
+101-140,101-140,Lancaster University,United Kingdom,,,,,,
+101-140,51-100,McMaster University,Canada,,,,,,
+101-140,101-140,National and Kapodistrian University of Athens,Greece,,,,,,
+101-140,101-140,Pontifícia Universidade Católica de São Paulo,Brazil,,,,,,
+101-140,51-100,Qatar University,Qatar,,,,,,
+101-140,101-140,Rheinische Friedrich-Wilhelms-Universität Bonn,Germany,,,,,,
+101-140,101-140,Rice University,United States,,,,,,
+101-140,51-100,Ruhr-Universität Bochum,Germany,,,,,,
+101-140,101-140,Santa Clara University,United States,,,,,,
+101-140,45  ,Seoul National University,South Korea,,,,,,
+101-140,,State Islamic University (UIN) Syarif Hidayatullah Jakarta,Indonesia,,,,,,
+101-140,51-100,Stellenbosch University,South Africa,,,,,,
+101-140,101-140,The University of Auckland,New Zealand,,,,,,
+101-140,51-100,The University of Hong Kong,Hong Kong SAR,,,,,,
+101-140,101-140,The University of Queensland,Australia,,,,,,
+101-140,101-140,The University of Warwick,United Kingdom,,,,,,
+101-140,101-140,UCL,United Kingdom,,,,,,
+101-140,101-140,Universidad de los Andes - Chile,Chile,,,,,,
+101-140,,Universitas Indonesia,Indonesia,,,,,,
+101-140,51-100,Universität Leipzig,Germany,,,,,,
+101-140,101-140,Universiti Kebangsaan Malaysia (UKM),Malaysia,,,,,,
+101-140,,Universiti Sains Malaysia (USM),Malaysia,,,,,,
+101-140,101-140,University of Alberta,Canada,,,,,,
+101-140,101-140,University of Colorado Boulder,United States,,,,,,
+101-140,51-100,University of Glasgow,United Kingdom,,,,,,
+101-140,51-100,University of Lausanne,Switzerland,,,,,,
+101-140,101-140,University of Leeds,United Kingdom,,,,,,
+101-140,51-100,"University of North Carolina, Chapel Hill",United States,,,,,,
+101-140,,University of Nottingham,United Kingdom,,,,,,
+101-140,101-140,University of Pennsylvania,United States,,,,,,

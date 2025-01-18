@@ -1,0 +1,162 @@
+2024,2023,Institution,Location,Academic Reputation,Employer Reputation,Citations per Paper,H-index Citations,International,Score
+1,1  ,University of Texas at Austin,United States,,,,,,98.7
+2,4  ,King Fahd University of Petroleum & Minerals,Saudi Arabia,,,,,,91.8
+3,3  ,Texas A&M University,United States,,,,,,91.3
+4,5  ,University of Alberta,Canada,,,,,,90.3
+5,6  ,Imperial College London,United Kingdom,,,,,,88.3
+6,7  ,The University of Adelaide,Australia,,,,,,87.5
+7,10  ,Middle East Technical University,Turkey,,,,,,83.5
+8,8  ,Khalifa University of Science and Technology,United Arab Emirates,,,,,,82.7
+9,11  ,The University of Manchester,United Kingdom,,,,,,81.9
+10,13  ,The University of New South Wales (UNSW Sydney),Australia,,,,,,81.3
+11,12  ,Heriot-Watt University,United Kingdom,,,,,,79.6
+12,,Politecnico di Milano,Italy,,,,,,79.4
+13,16=,University of Surrey,United Kingdom,,,,,,79
+14,16=,Universiti Teknologi PETRONAS (UTP),Malaysia,,,,,,78.4
+15,9  ,Colorado School of Mines,United States,,,,,,78.3
+16,18  ,King Abdullah University of Science & Technology (KAUST),Saudi Arabia,,,,,,77.4
+17,20  ,The University of Queensland,Australia,,,,,,77.3
+18,,"KIT, Karlsruhe Institute of Technology",Germany,,,,,,77.1
+19,22  ,Universidad Nacional Autónoma de México (UNAM),Mexico,,,,,,76.5
+=20,14  ,National Research Tomsk Polytechnic University,Russia,,,,,,76.3
+=20,19  ,Pennsylvania State University,United States,,,,,,76.3
+22,,Kyoto University,Japan,,,,,,75.7
+23,28  ,University of Copenhagen,Denmark,,,,,,75.6
+24,27  ,University of Tehran,"Iran, Islamic Republic of",,,,,,75
+25,29=,Universidad de Buenos Aires (UBA),Argentina,,,,,,74.6
+26,29=,University of Leeds,United Kingdom,,,,,,74.5
+27,39  ,Sultan Qaboos University,Oman,,,,,,74.1
+28,23  ,Sharif University of Technology,"Iran, Islamic Republic of",,,,,,73.8
+=29,40=,Kazan (Volga region) Federal University,Russia,,,,,,72.6
+=29,38  ,King Saud University,Saudi Arabia,,,,,,72.6
+31,37  ,Universidad Industrial de Santander - UIS,Colombia,,,,,,72.2
+32,47=,University of Oslo,Norway,,,,,,72.1
+33,31  ,University of Calgary,Canada,,,,,,71.5
+34,,Universidade Federal do Rio de Janeiro,Brazil,,,,,,70.8
+=35,45=,Saint Petersburg State University,Russia,,,,,,70.6
+=35,40=,University College Dublin,Ireland,,,,,,70.6
+37,40=,Cairo University,Egypt,,,,,,70.5
+38,35  ,Norwegian University of Science And Technology,Norway,,,,,,70.4
+=39,34  ,Amirkabir University of Technology,"Iran, Islamic Republic of",,,,,,70.2
+=39,36  ,Curtin University,Australia,,,,,,70.2
+41,45=,Istanbul Technical University,Turkey,,,,,,70.1
+=42,51-100,Indian Institute of Technology Guwahati (IITG),India,,,,,,69.9
+=42,32  ,University of Southern California,United States,,,,,,69.9
+=44,26  ,Aalborg University,Denmark,,,,,,69.7
+=44,47=,RUDN University,Russia,,,,,,69.7
+46,51-100,Universidad de los Andes,Colombia,,,,,,69.5
+47,33  ,University of Oklahoma,United States,,,,,,69.3
+48,49  ,Texas Tech University,United States,,,,,,69.1
+49,51-100,University of Liverpool,United Kingdom,,,,,,68.8
+50,51-100,Novosibirsk State University,Russia,,,,,,68.7
+51-100,51-100,AGH University of Science and Technology,Poland,,,,,,
+51-100,,American University of Beirut (AUB),Lebanon,,,,,,
+51-100,101-150,"Arab Academy for Science, Technology and Maritime Transport",Egypt,,,,,,
+51-100,101-150,Beirut Arab University ,Lebanon,,,,,,
+51-100,51-100,Brunel University London,United Kingdom,,,,,,
+51-100,51-100,Case Western Reserve University,United States,,,,,,
+51-100,101-150,China University of Geosciences,China (Mainland),,,,,,
+51-100,51-100,China University of Petroleum,China (Mainland),,,,,,
+51-100,,Chung-Ang University (CAU),South Korea,,,,,,
+51-100,51-100,Cranfield University,United Kingdom,,,,,,
+51-100,51-100,Dalhousie University,Canada,,,,,,
+51-100,51-100,Escuela Superior Politécnica del Litoral (ESPOL),Ecuador,,,,,,
+51-100,51-100,Instituto Politécnico Nacional (IPN),Mexico,,,,,,
+51-100,,Isfahan University of Technology,"Iran, Islamic Republic of",,,,,,
+51-100,101-150,King Mongkut\'s Institute of Technology Ladkrabang,Thailand,,,,,,
+51-100,,Kobe University,Japan,,,,,,
+51-100,51-100,Kuwait University,Kuwait,,,,,,
+51-100,101-150,Lebanese American University,Lebanon,,,,,,
+51-100,,Loughborough University,United Kingdom,,,,,,
+51-100,51-100,Louisiana State University,United States,,,,,,
+51-100,,Macquarie University,Australia,,,,,,
+51-100,51-100,Memorial University of Newfoundland,Canada,,,,,,
+51-100,51-100,Pontifícia Universidade Católica do Rio de Janeiro,Brazil,,,,,,
+51-100,51-100,Qatar University,Qatar,,,,,,
+51-100,51-100,Saint-Petersburg Mining University,Russia,,,,,,
+51-100,51-100,Satbayev University,Kazakhstan,,,,,,
+51-100,,Savitribai Phule Pune University,India,,,,,,
+51-100,101-150,Shiraz University,"Iran, Islamic Republic of",,,,,,
+51-100,101-150,Skolkovo Institute of Science and Technology,Russia,,,,,,
+51-100,101-150,Technical University of Crete,Greece,,,,,,
+51-100,51-100,The American University in Cairo,Egypt,,,,,,
+51-100,51-100,The University of Lahore,Pakistan,,,,,,
+51-100,51-100,United Arab Emirates University,United Arab Emirates,,,,,,
+51-100,,Universidad Central de Venezuela,Venezuela,,,,,,
+51-100,101-150,Universidad Nacional de Ingeniería Peru,Peru,,,,,,
+51-100,,Universidade Federal do Ceará (UFC),Brazil,,,,,,
+51-100,51-100,Università degli Studi di Perugia,Italy,,,,,,
+51-100,51-100,Universiti Putra Malaysia (UPM),Malaysia,,,,,,
+51-100,101-150,Universiti Teknologi Brunei,Brunei,,,,,,
+51-100,50  ,Universiti Teknologi Malaysia ,Malaysia,,,,,,
+51-100,51-100,University of Aberdeen,United Kingdom,,,,,,
+51-100,51-100,University of Baghdad,Iraq,,,,,,
+51-100,101-150,University of Belgrade,Serbia,,,,,,
+51-100,51-100,University of Bergen,Norway,,,,,,
+51-100,51-100,University of Houston,United States,,,,,,
+51-100,51-100,University of Kansas,United States,,,,,,
+51-100,51-100,University of Pittsburgh,United States,,,,,,
+51-100,51-100,University of Sharjah,United Arab Emirates,,,,,,
+51-100,101-150,University of the Punjab,Pakistan,,,,,,
+51-100,101-150,University of Zagreb,Croatia,,,,,,
+101-150,101-150,Aligarh Muslim University,India,,,,,,
+101-150,,Asia Pacific University of Technology and Innovation (APU),Malaysia,,,,,,
+101-150,,Azerbaijan State Oil and Industry University,Azerbaijan,,,,,,
+101-150,,British University in Egypt,Egypt,,,,,,
+101-150,,China University of Petroleum (East China),China (Mainland),,,,,,
+101-150,101-150,Chittagong University of Engineering and Technology,Bangladesh,,,,,,
+101-150,,Dnipro Polytechnic National Technical University,Ukraine,,,,,,
+101-150,151-160,Edith Cowan University ,Australia,,,,,,
+101-150,,Future University in Egypt,Egypt,,,,,,
+101-150,101-150,"Indian School of Mines (ISM) University, Dhanbad",India,,,,,,
+101-150,101-150,Instituto Tecnológico de Buenos Aires (ITBA),Argentina,,,,,,
+101-150,151-160,Islamic Azad University,"Iran, Islamic Republic of",,,,,,
+101-150,,Kazakh-British Technical University,Kazakhstan,,,,,,
+101-150,,Mehran University of Engineering & Technology,Pakistan,,,,,,
+101-150,101-150,Mississippi State University,United States,,,,,,
+101-150,101-150,Missouri University of Science and Technology,United States,,,,,,
+101-150,,"National Technical University ""Kharkiv Polytechnic Institute""",Ukraine,,,,,,
+101-150,101-150,NED University of Engineering and Technology,Pakistan,,,,,,
+101-150,101-150,New Mexico Institute of Mining and Technology,United States,,,,,,
+101-150,,Northern Technical university,Iraq,,,,,,
+101-150,101-150,Oklahoma State University ,United States,,,,,,
+101-150,101-150,"Siberian Federal University, SibFU",Russia,,,,,,
+101-150,,Suranaree University of Technology ,Thailand,,,,,,
+101-150,,Tarbiat Modares University,"Iran, Islamic Republic of",,,,,,
+101-150,,Tashkent State Technical University,Uzbekistan,,,,,,
+101-150,101-150,UCSI University,Malaysia,,,,,,
+101-150,,Universidad Central del Ecuador,Ecuador,,,,,,
+101-150,,Universidad del Zulia,Venezuela,,,,,,
+101-150,,Universidad Mayor de San Andrés (UMSA),Bolivia,,,,,,
+101-150,,Universidad Nacional del Comahue,Argentina,,,,,,
+101-150,,Universidad Veracruzana,Mexico,,,,,,
+101-150,,Universidade Federal de Campina Grande,Brazil,,,,,,
+101-150,,Universidade Federal do Pará – UFPA,Brazil,,,,,,
+101-150,,Universidade Federal do Rio Grande Do Norte,Brazil,,,,,,
+101-150,101-150,Universidade Federal Fluminense ,Brazil,,,,,,
+101-150,,Université de Tunis El Manar,Tunisia,,,,,,
+101-150,101-150,University of Alaska Fairbanks,United States,,,,,,
+101-150,101-150,University of Basrah,Iraq,,,,,,
+101-150,101-150,University of Cyprus (UCY),Cyprus,,,,,,
+101-150,,University of Da Nang,Vietnam,,,,,,
+101-150,,University of Miskolc ,Hungary,,,,,,
+101-150,101-150,University of Mosul,Iraq,,,,,,
+101-150,101-150,University of Petroleum and Energy Studies (UPES),India,,,,,,
+101-150,151-160,University of Portsmouth,United Kingdom,,,,,,
+101-150,,University of Regina,Canada,,,,,,
+101-150,,University of Stavanger,Norway,,,,,,
+101-150,101-150,University of Technology - Iraq,Iraq,,,,,,
+101-150,101-150,University of Tulsa,United States,,,,,,
+101-150,,University of Wyoming,United States,,,,,,
+101-150,151-160,VSB - Technical University of Ostrava,Czech Republic,,,,,,
+151-160,,Australian College of Kuwait,Kuwait,,,,,,
+151-160,,Holy Spirit University of Kaslik ,Lebanon,,,,,,
+151-160,,Immanuel Kant Baltic Federal University,Russia,,,,,,
+151-160,,Irkutsk National Research Technical University,Russia,,,,,,
+151-160,,Perm State National Research University,Russia,,,,,,
+151-160,,Robert Gordon University,United Kingdom,,,,,,
+151-160,,Universidade do Estado de Santa Catarina,Brazil,,,,,,
+151-160,,Universidade Federal do Amazonas,Brazil,,,,,,
+151-160,,University of Dar es Salaam,Tanzania,,,,,,
+151-160,,University of Isfahan,"Iran, Islamic Republic of",,,,,,
+151-160,,Yuri Gagarin State Technical University of Saratov,Russia,,,,,,

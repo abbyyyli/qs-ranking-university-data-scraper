@@ -1,0 +1,5 @@
+1.將原本switch.py-qs_subject_rankings數據提取前幾名
+2.switch2.py-QS_Subject_Data 欄位正確但缺失前幾名
+1.2手動結合- QS_Subject_Data_Final
+
+3.switch3.py-QS_Subject_Data2, 欄位正確,無缺失行（前幾名）,但少了“Academic Reputation,Employer Reputation,Citations per Paper,H-index Citations”數據

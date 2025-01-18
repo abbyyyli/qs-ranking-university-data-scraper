@@ -1,0 +1,131 @@
+2024,2023,Institution,Location,Academic Reputation,Employer Reputation,Citations per Paper,H-index Citations,International,Score
+1,1  ,Harvard University,United States,100,100,80,,,98
+2,2  ,University of Oxford,United Kingdom,97.5,97,76.9,,,95.3
+3,3  ,The London School of Economics and Political Science (LSE),United Kingdom,97,88.3,72.4,,,92.8
+4,4  ,University of Cambridge,United Kingdom,94,93.5,79.6,,,92.5
+5,5  ,Stanford University,United States,93.1,92,85.7,,,92.1
+6,6  ,National University of Singapore (NUS),Singapore,95.9,84.4,79.8,,,92
+7,8  ,The University of Edinburgh,United Kingdom,96.9,78.3,73,,,90.8
+8,7  ,"University of California, Berkeley (UCB)",United States,92.2,86.6,87,,,90.6
+9,,Yale University,United States,89,87.6,82.6,,,88.1
+10,9  ,Massachusetts Institute of Technology (MIT) ,United States,88.6,92.8,69.4,,,87.5
+11,24  ,Stockholm University,Sweden,96.9,56.9,78.1,,,87
+12,13  ,Sciences Po ,France,90.5,74.8,81.7,,,86.5
+13,11  ,Columbia University,United States,88.2,83.3,78.8,,,86.3
+14,28=,The Australian National University,Australia,90.6,78.9,68.5,,,86.1
+15,12  ,University of Chicago,United States,90.1,77.2,72.4,,,85.8
+16,16  ,University of Toronto,Canada,87.8,82.7,75.2,,,85.5
+17,19  ,Yonsei University,South Korea,87.9,78.4,79.1,,,85.1
+18,40=,University of Amsterdam,Netherlands,90.2,69,78.3,,,84.8
+19,17  ,Syracuse University,United States,93.8,48.3,87.3,,,84.1
+20,25  ,KU Leuven,Belgium,89.2,68,77.3,,,83.8
+21,10  ,The University of Hong Kong,Hong Kong SAR,86.1,78.1,78.5,,,83.7
+22,18  ,Princeton University,United States,86.1,82,68.9,,,83.6
+=23,23  ,The University of Melbourne,Australia,84,82.7,81.3,,,83.5
+=23,14  ,University of Bristol,United Kingdom,87.8,76.1,68.4,,,83.5
+25,26  ,UCL,United Kingdom,84.5,82,72.3,,,82.8
+26,20  ,Seoul National University,South Korea,86.5,81,59.7,,,82.7
+=27,15  ,Indiana University Bloomington,United States,90.7,55.7,79.3,,,82.6
+=27,39  ,King's College London,United Kingdom,85.1,78.4,73.6,,,82.6
+=29,28=,The University of Tokyo,Japan,85.9,84.2,55.3,,,82.5
+=29,32=,University of British Columbia,Canada,83.8,82,73.9,,,82.5
+=29,32=,Utrecht University,Netherlands,91.4,47.6,90.2,,,82.5
+32,36  ,The University of Sydney,Australia,82.9,81.3,73.4,,,81.6
+33,,The University of Manchester,United Kingdom,83.8,75,77.6,,,81.4
+=34,38  ,Universidad Nacional Autónoma de México (UNAM),Mexico,84.3,84.1,52.7,,,81.1
+=34,27  ,University of Michigan-Ann Arbor,United States,83.3,74.3,79.6,,,81.1
+36,51-100,Universität Bremen,Germany,95.6,37.6,62.7,,,80.7
+37,51-100,Pontificia Universidad Católica de Chile (UC),Chile,82.5,85.9,52.9,,,80.2
+38,,Università Commerciale Luigi Bocconi (Bocconi University),Italy,79.5,77.1,84.4,,,79.5
+39,28=,University of York,United Kingdom,86.4,59.4,70.8,,,79.4
+=40,37  ,Korea University,South Korea,81.9,75.9,68.1,,,79.3
+=40,32=,Leiden University,Netherlands,83.4,64.9,79.7,,,79.3
+=42,46  ,National Taiwan University (NTU),Taiwan,82.8,74.1,63.2,,,79.1
+=42,,Universidade de São Paulo,Brazil,82.9,75,60.6,,,79.1
+=42,43=,University of Washington,United States,82.7,66,80.1,,,79.1
+=45,,McGill University,Canada,79.9,79.9,70.2,,,78.9
+=45,43=,University of Southern California,United States,82.3,67.4,78,,,78.9
+47,22  ,"University of California, Los Angeles (UCLA)",United States,78.6,85,67,,,78.7
+48,47  ,Aarhus University,Denmark,83.4,61.9,78.7,,,78.6
+49,35  ,The University of Georgia,United States,88.2,42.9,80.6,,,78.4
+=50,40=,Johns Hopkins University,United States,78.5,74.7,84.4,,,78.3
+=50,,Renmin (People's) University of China,China (Mainland),84.1,61.4,71.7,,,78.3
+51-100,51-100,Alma Mater Studiorum - University of Bologna,Italy,72.2,74.1,74.7,,,
+51-100,51-100,American University,United States,76.2,70.2,64,,,
+51-100,51-100,Boston University,United States,71.3,73.9,73.3,,,
+51-100,51-100,Central European University,Austria,77.4,62.7,89.7,,,
+51-100,50  ,City University of Hong Kong,Hong Kong SAR,79.3,68.1,79,,,
+51-100,51-100,Cornell University,United States,70.6,76.7,87.9,,,
+51-100,51-100,Duke University,United States,79.1,75,69.1,,,
+51-100,51-100,Erasmus University Rotterdam ,Netherlands,80.9,56.3,86,,,
+51-100,51-100,ETH Zurich - Swiss Federal Institute of Technology,Switzerland,74.8,76.7,82.4,,,
+51-100,51-100,European University Institute,Italy,78.3,56.2,85.7,,,
+51-100,51-100,Freie Universitaet Berlin,Germany,75,71.4,80.7,,,
+51-100,51-100,Fudan University,China (Mainland),71.5,72.4,69.4,,,
+51-100,51-100,George Washington University,United States,72.6,68,81.6,,,
+51-100,51-100,HSE University,Russia,76,72.2,57.8,,,
+51-100,,Humboldt-Universität zu Berlin,Germany,79,72.6,70.4,,,
+51-100,51-100,Kyoto University,Japan,76.2,77.1,56.6,,,
+51-100,51-100,"Lingnan University, Hong Kong",Hong Kong SAR,79.3,57.4,69.2,,,
+51-100,51-100,Lomonosov Moscow State University,Russia,73.5,78.4,46.5,,,
+51-100,101-130,"Nanyang Technological University, Singapore (NTU)",Singapore,69.7,79.2,76.5,,,
+51-100,51-100,New York University (NYU),United States,73.5,82.4,82.7,,,
+51-100,28=,Peking University,China (Mainland),77.3,80.3,69.8,,,
+51-100,101-130,Pontificia Universidad Católica del Perú,Peru,75.3,74.8,56.9,,,
+51-100,51-100,Queen's University Belfast,United Kingdom,77,64.4,72.3,,,
+51-100,51-100,Rutgers University–Newark,United States,78.4,57.2,82.1,,,
+51-100,51-100,Sungkyunkwan University(SKKU),South Korea,73.6,72.5,72.9,,,
+51-100,51-100,The Chinese University of Hong Kong (CUHK),Hong Kong SAR,75.6,72.5,65.6,,,
+51-100,51-100,The University of Auckland,New Zealand,73.3,72,69.1,,,
+51-100,51-100,The University of New South Wales (UNSW Sydney),Australia,77.9,79.5,61.4,,,
+51-100,51-100,The University of Queensland,Australia,77.3,76.7,76.9,,,
+51-100,51-100,The University of Sheffield,United Kingdom,73.6,67.2,78,,,
+51-100,101-130,"Trinity College Dublin, The University of Dublin",Ireland,79.2,74,66.9,,,
+51-100,42  ,Tsinghua University,China (Mainland),72.6,79.3,72.7,,,
+51-100,,Universidad Nacional de Colombia,Colombia,76.6,80.6,46.1,,,
+51-100,51-100,Universitat de Barcelona,Spain,81.9,73.6,60.6,,,
+51-100,51-100,Universitat Pompeu Fabra (Barcelona),Spain,74.7,62,71.4,,,
+51-100,101-130,Université de Montréal ,Canada,73.4,65,69.9,,,
+51-100,51-100,Université Paris 1 Panthéon-Sorbonne ,France,77.9,73.3,46.8,,,
+51-100,101-130,University College Dublin,Ireland,76.2,67.6,62.4,,,
+51-100,45  ,University of Bath,United Kingdom,79.5,70.1,74.8,,,
+51-100,49  ,University of Birmingham,United Kingdom,81.8,68,72.8,,,
+51-100,48  ,University of Glasgow,United Kingdom,79.3,68,75.6,,,
+51-100,101-130,University of Helsinki,Finland,85.8,54.3,68.4,,,
+51-100,51-100,University of Kent,United Kingdom,78,47.5,76,,,
+51-100,51-100,University of Leeds,United Kingdom,73.5,71.3,70.5,,,
+51-100,51-100,University of Milan,Italy,76.2,60.7,66.9,,,
+51-100,101-130,University of Minnesota Twin Cities,United States,72.8,64.9,83.7,,,
+51-100,51-100,University of Pennsylvania,United States,68.8,77.9,81.5,,,
+51-100,51-100,University of Zurich,Switzerland,73.8,61.6,84.6,,,
+51-100,21  ,Ural Federal University - UrFU,Russia,85.7,66.9,41.6,,,
+101-130,101-130,Arizona State University,United States,69.6,67,81,,,
+101-130,51-100,Cardiff University,United Kingdom,71.4,60.9,81.8,,,
+101-130,101-130,Carnegie Mellon University,United States,70.1,65.5,69.6,,,
+101-130,51-100,Chulalongkorn University,Thailand,70.6,64.9,73.9,,,
+101-130,,Delft University of Technology,Netherlands,70.1,62.7,76,,,
+101-130,,"Essex, University of",United Kingdom,77.2,42.7,78.4,,,
+101-130,51-100,Fundação Getulio Vargas,Brazil,72.3,63.1,74.7,,,
+101-130,51-100,Gadjah Mada University,Indonesia,72.9,73.3,54.5,,,
+101-130,51-100,Georgetown University,United States,71.6,69.9,67.3,,,
+101-130,,London School of Hygiene & Tropical Medicine,United Kingdom,74.6,53,68.5,,,
+101-130,101-130,Ludwig-Maximilians-Universität München,Germany,70,68.1,72.1,,,
+101-130,101-130,Lund University,Sweden,74.2,59.3,73.1,,,
+101-130,101-130,McMaster University,Canada,70.5,64.5,67.2,,,
+101-130,101-130,Monash University,Australia,66.3,78.1,76.8,,,
+101-130,51-100,Shanghai Jiao Tong University,China (Mainland),66.9,70.5,78.6,,,
+101-130,101-130,Tecnológico de Monterrey,Mexico,71.7,81.9,41.2,,,
+101-130,,Universidad Autónoma de Madrid,Spain,70,71.3,62.2,,,
+101-130,,Universidad de Guadalajara (UDG),Mexico,73.4,62,59.6,,,
+101-130,101-130,Universidad de los Andes,Colombia,71.1,80.4,48,,,
+101-130,,Universidad Diego Portales (UDP),Chile,66.8,75.5,72.6,,,
+101-130,101-130,Universitat Autònoma de Barcelona,Spain,70.4,66.9,69.6,,,
+101-130,101-130,Université catholique de Louvain (UCLouvain),Belgium,73,61.8,74.2,,,
+101-130,51-100,"University of North Carolina, Chapel Hill",United States,71.2,60,84.5,,,
+101-130,,University of Southampton,United Kingdom,69.1,63.4,81.9,,,
+101-130,101-130,University of Southern Denmark (SDU),Denmark,74.1,52.1,76.9,,,
+101-130,51-100,University of Sussex,United Kingdom,74.3,58.1,73,,,
+101-130,51-100,University of Texas at Austin,United States,67.5,71.9,73.3,,,
+101-130,51-100,University of Wisconsin-Madison,United States,71.6,59.9,75.8,,,
+101-130,,Washington University in St. Louis,United States,76.6,50.5,59.5,,,
+101-130,,Zhejiang University,China (Mainland),67.2,69.7,80.5,,,

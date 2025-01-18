@@ -1,0 +1,251 @@
+2024,2023,Institution,Location,Academic Reputation,Employer Reputation,Citations per Paper,H-index Citations,International,Score
+1,1  ,University of Amsterdam,Netherlands,,,,,,96.8
+=2,3  ,The London School of Economics and Political Science (LSE),United Kingdom,,,,,,90.5
+=2,2  ,University of Southern California,United States,,,,,,90.5
+=4,6  ,"Nanyang Technological University, Singapore (NTU)",Singapore,,,,,,90.1
+=4,5  ,University of Texas at Austin,United States,,,,,,90.1
+6,,Harvard University,United States,,,,,,89.8
+7,7  ,University of Pennsylvania,United States,,,,,,87.8
+8,4  ,Stanford University,United States,,,,,,87.6
+9,10  ,New York University (NYU),United States,,,,,,87.1
+10,14=,University of Vienna,Austria,,,,,,86.5
+11,8  ,University of Wisconsin-Madison,United States,,,,,,86.4
+12,,University of Cambridge,United Kingdom,,,,,,85.3
+=13,9  ,Michigan State University,United States,,,,,,85.2
+=13,12=,"University of California, Berkeley (UCB)",United States,,,,,,85.2
+15,16=,Columbia University,United States,,,,,,85.1
+16,11  ,"Goldsmiths, University of London",United Kingdom,,,,,,85
+17,16=,Northwestern University,United States,,,,,,84.7
+18,12=,University of Michigan-Ann Arbor,United States,,,,,,84.5
+19,19  ,Queensland University of Technology (QUT),Australia,,,,,,84.4
+20,14=,Massachusetts Institute of Technology (MIT) ,United States,,,,,,84.3
+=21,18  ,"University of California, Los Angeles (UCLA)",United States,,,,,,84.1
+=21,33  ,University of Toronto,Canada,,,,,,84.1
+23,22  ,Ludwig-Maximilians-Universität München,Germany,,,,,,84
+24,23=,National University of Singapore (NUS),Singapore,,,,,,83.9
+25,21  ,University of Zurich,Switzerland,,,,,,83.8
+26,20  ,The Chinese University of Hong Kong (CUHK),Hong Kong SAR,,,,,,83.5
+27,26  ,King's College London,United Kingdom,,,,,,83.4
+28,27=,Yale University,United States,,,,,,83.2
+29,35  ,The University of Sydney,Australia,,,,,,82.7
+30,34  ,Cornell University,United States,,,,,,82.6
+31,25  ,Pennsylvania State University,United States,,,,,,82.5
+32,40=,The University of Melbourne,Australia,,,,,,82.3
+33,27=,The Ohio State University,United States,,,,,,81.8
+=34,39  ,Freie Universitaet Berlin,Germany,,,,,,81.7
+=34,23=,University of Leeds,United Kingdom,,,,,,81.7
+=36,29=,"University of California, Santa Barbara (UCSB)",United States,,,,,,81.4
+=36,31  ,University of Illinois at Urbana-Champaign,United States,,,,,,81.4
+=38,45=,The University of Edinburgh,United Kingdom,,,,,,81.3
+=38,47=,University of British Columbia,Canada,,,,,,81.3
+=40,29=,Cardiff University,United Kingdom,,,,,,81.2
+=40,32  ,University of Copenhagen,Denmark,,,,,,81.2
+42,36  ,UCL,United Kingdom,,,,,,81
+43,51-100,Pontificia Universidad Católica de Chile (UC),Chile,,,,,,80.9
+44,43  ,Yonsei University,South Korea,,,,,,79.9
+=45,42  ,RMIT University,Australia,,,,,,79.7
+=45,51-100,University of Chicago,United States,,,,,,79.7
+47,51-100,Monash University,Australia,,,,,,79.6
+48,40=,University of Washington,United States,,,,,,79.4
+49,45=,"University of North Carolina, Chapel Hill",United States,,,,,,79.1
+50,37  ,Seoul National University,South Korea,,,,,,78.8
+51-100,47=,Aarhus University,Denmark,,,,,,
+51-100,101-150,Alma Mater Studiorum - University of Bologna,Italy,,,,,,
+51-100,51-100,Boston University,United States,,,,,,
+51-100,51-100,City University of Hong Kong,Hong Kong SAR,,,,,,
+51-100,51-100,"City, University of London",United Kingdom,,,,,,
+51-100,51-100,Complutense University of Madrid,Spain,,,,,,
+51-100,101-150,Concordia University,Canada,,,,,,
+51-100,,Duke University,United States,,,,,,
+51-100,51-100,Erasmus University Rotterdam ,Netherlands,,,,,,
+51-100,51-100,Ghent University,Belgium,,,,,,
+51-100,51-100,Hong Kong Baptist University,Hong Kong SAR,,,,,,
+51-100,101-150,Humboldt-Universität zu Berlin,Germany,,,,,,
+51-100,51-100,Indiana University Bloomington,United States,,,,,,
+51-100,101-150,Johannes Gutenberg Universität Mainz,Germany,,,,,,
+51-100,51-100,Korea University,South Korea,,,,,,
+51-100,51-100,KU Leuven,Belgium,,,,,,
+51-100,51-100,Loughborough University,United Kingdom,,,,,,
+51-100,51-100,Lund University,Sweden,,,,,,
+51-100,51-100,Massey University,New Zealand,,,,,,
+51-100,51-100,McGill University,Canada,,,,,,
+51-100,49  ,Peking University,China (Mainland),,,,,,
+51-100,51-100,Purdue University,United States,,,,,,
+51-100,51-100,Rutgers University–New Brunswick,United States,,,,,,
+51-100,51-100,Syracuse University,United States,,,,,,
+51-100,,The Australian National University,Australia,,,,,,
+51-100,51-100,The University of Hong Kong,Hong Kong SAR,,,,,,
+51-100,,The University of Manchester,United Kingdom,,,,,,
+51-100,51-100,The University of New South Wales (UNSW Sydney),Australia,,,,,,
+51-100,51-100,The University of Queensland,Australia,,,,,,
+51-100,51-100,The University of Sheffield,United Kingdom,,,,,,
+51-100,101-150,The University of Tokyo,Japan,,,,,,
+51-100,51-100,The University of Warwick,United Kingdom,,,,,,
+51-100,38  ,Tsinghua University,China (Mainland),,,,,,
+51-100,51-100,Universidad Nacional Autónoma de México (UNAM),Mexico,,,,,,
+51-100,101-150,Universitat Pompeu Fabra (Barcelona),Spain,,,,,,
+51-100,101-150,Universiti Malaya (UM),Malaysia,,,,,,
+51-100,101-150,"University of California, San Diego (UCSD)",United States,,,,,,
+51-100,51-100,University of Florida,United States,,,,,,
+51-100,51-100,University of Glasgow,United Kingdom,,,,,,
+51-100,51-100,University of Gothenburg,Sweden,,,,,,
+51-100,51-100,University of Groningen,Netherlands,,,,,,
+51-100,44  ,University of Helsinki,Finland,,,,,,
+51-100,51-100,"University of Maryland, College Park",United States,,,,,,
+51-100,51-100,University of Minnesota Twin Cities,United States,,,,,,
+51-100,50  ,"University of Missouri, Columbia",United States,,,,,,
+51-100,51-100,University of Navarra,Spain,,,,,,
+51-100,51-100,University of Oslo,Norway,,,,,,
+51-100,51-100,University of Technology Sydney,Australia,,,,,,
+51-100,51-100,University of Westminster,United Kingdom,,,,,,
+51-100,51-100,Utrecht University,Netherlands,,,,,,
+51-100,51-100,Vrije Universiteit Amsterdam,Netherlands,,,,,,
+101-150,101-150,Aalto University,Finland,,,,,,
+101-150,101-150,Arizona State University,United States,,,,,,
+101-150,151-200,Deakin University,Australia,,,,,,
+101-150,51-100,Fudan University,China (Mainland),,,,,,
+101-150,51-100,George Washington University,United States,,,,,,
+101-150,51-100,Georgetown University,United States,,,,,,
+101-150,101-150,Johns Hopkins University,United States,,,,,,
+101-150,101-150,Lancaster University,United Kingdom,,,,,,
+101-150,101-150,Leiden University,Netherlands,,,,,,
+101-150,101-150,Macquarie University,Australia,,,,,,
+101-150,101-150,National Taiwan University (NTU),Taiwan,,,,,,
+101-150,101-150,Simon Fraser University,Canada,,,,,,
+101-150,151-200,Sorbonne University,France,,,,,,
+101-150,101-150,Stockholm University,Sweden,,,,,,
+101-150,51-100,Tampere University,Finland,,,,,,
+101-150,101-150,Tecnológico de Monterrey,Mexico,,,,,,
+101-150,101-150,The University of Auckland,New Zealand,,,,,,
+101-150,51-100,The University of Georgia,United States,,,,,,
+101-150,,"Trinity College Dublin, The University of Dublin",Ireland,,,,,,
+101-150,151-200,Universidad de Buenos Aires (UBA),Argentina,,,,,,
+101-150,151-200,Universidad de La Sabana,Colombia,,,,,,
+101-150,,Universidad Diego Portales (UDP),Chile,,,,,,
+101-150,101-150,Universidade de São Paulo,Brazil,,,,,,
+101-150,101-150,Università Cattolica del Sacro Cuore,Italy,,,,,,
+101-150,101-150,Universitat Autònoma de Barcelona,Spain,,,,,,
+101-150,101-150,Universitat de Barcelona,Spain,,,,,,
+101-150,101-150,Universität Hamburg,Germany,,,,,,
+101-150,101-150,Universität Leipzig,Germany,,,,,,
+101-150,101-150,Université de Montréal ,Canada,,,,,,
+101-150,151-200,University College Dublin,Ireland,,,,,,
+101-150,101-150,University of Antwerp,Belgium,,,,,,
+101-150,101-150,University of Bergen,Norway,,,,,,
+101-150,51-100,University of Birmingham,United Kingdom,,,,,,
+101-150,101-150,"University of California, Davis",United States,,,,,,
+101-150,51-100,University of Colorado Boulder,United States,,,,,,
+101-150,101-150,University of Huddersfield,United Kingdom,,,,,,
+101-150,51-100,University of Illinois at Chicago (UIC),United States,,,,,,
+101-150,101-150,University of Iowa,United States,,,,,,
+101-150,51-100,University of Leicester,United Kingdom,,,,,,
+101-150,151-200,University of Liverpool,United Kingdom,,,,,,
+101-150,101-150,University of Massachusetts Amherst,United States,,,,,,
+101-150,151-200,University of Nottingham,United Kingdom,,,,,,
+101-150,101-150,University of Oregon,United States,,,,,,
+101-150,101-150,University of Sussex,United Kingdom,,,,,,
+101-150,101-150,Uppsala University,Sweden,,,,,,
+101-150,51-100,Vrije Universiteit Brussel (VUB),Belgium,,,,,,
+101-150,101-150,Westfälische Wilhelms-Universität Münster ,Germany,,,,,,
+101-150,151-200,York University,Canada,,,,,,
+101-150,51-100,Zhejiang University,China (Mainland),,,,,,
+151-200,151-200,"Birkbeck, University of London",United Kingdom,,,,,,
+151-200,151-200,Brown University,United States,,,,,,
+151-200,101-150,Carnegie Mellon University,United States,,,,,,
+151-200,101-150,City University of New York,United States,,,,,,
+151-200,151-200,Curtin University,Australia,,,,,,
+151-200,101-150,Dublin City University,Ireland,,,,,,
+151-200,151-200,Kyoto University,Japan,,,,,,
+151-200,151-200,Lomonosov Moscow State University,Russia,,,,,,
+151-200,151-200,Nanjing University,China (Mainland),,,,,,
+151-200,101-150,Newcastle University,United Kingdom,,,,,,
+151-200,201-250,Pontificia Universidad Católica de Valparaíso,Chile,,,,,,
+151-200,201-250,Pontificia Universidad Javeriana,Colombia,,,,,,
+151-200,151-200,Queen Mary University of London,United Kingdom,,,,,,
+151-200,101-150,Renmin (People's) University of China,China (Mainland),,,,,,
+151-200,151-200,Sapienza University of Rome,Italy,,,,,,
+151-200,101-150,Shanghai Jiao Tong University,China (Mainland),,,,,,
+151-200,101-150,SOAS University of London ,United Kingdom,,,,,,
+151-200,101-150,Sungkyunkwan University(SKKU),South Korea,,,,,,
+151-200,101-150,Temple University,United States,,,,,,
+151-200,151-200,Texas A&M University,United States,,,,,,
+151-200,151-200,The Hebrew University of Jerusalem,Israel,,,,,,
+151-200,,The Hong Kong Polytechnic University,Hong Kong SAR,,,,,,
+151-200,101-150,The University of Alabama,United States,,,,,,
+151-200,101-150,The University of Arizona,United States,,,,,,
+151-200,,The University of Exeter,United Kingdom,,,,,,
+151-200,151-200,Universidad de Sevilla,Spain,,,,,,
+151-200,201-250,Universitas Indonesia,Indonesia,,,,,,
+151-200,151-200,Universität Bremen,Germany,,,,,,
+151-200,151-200,Université Paris 1 Panthéon-Sorbonne ,France,,,,,,
+151-200,201-250,Université PSL,France,,,,,,
+151-200,151-200,Universiti Kebangsaan Malaysia (UKM),Malaysia,,,,,,
+151-200,151-200,University of Bristol,United Kingdom,,,,,,
+151-200,101-150,"University of California, Irvine",United States,,,,,,
+151-200,151-200,University of Canberra ,Australia,,,,,,
+151-200,151-200,University of Cape Town,South Africa,,,,,,
+151-200,101-150,University of East Anglia (UEA),United Kingdom,,,,,,
+151-200,151-200,University of Hawaiʻi at Mānoa,United States,,,,,,
+151-200,151-200,University of Miami,United States,,,,,,
+151-200,201-250,University of Otago,New Zealand,,,,,,
+151-200,151-200,University of Ottawa,Canada,,,,,,
+151-200,201-250,University of Pittsburgh,United States,,,,,,
+151-200,151-200,University of Salamanca,Spain,,,,,,
+151-200,151-200,University of Southern Denmark (SDU),Denmark,,,,,,
+151-200,151-200,University of the Arts London,United Kingdom,,,,,,
+151-200,151-200,University of Virginia,United States,,,,,,
+151-200,201-250,University of York,United Kingdom,,,,,,
+151-200,201-250,Victoria University of Wellington,New Zealand,,,,,,
+151-200,201-250,Waseda University,Japan,,,,,,
+151-200,201-250,Western University,Canada,,,,,,
+151-200,51-100,Wuhan University,China (Mainland),,,,,,
+201-250,151-200, Western Sydney University,Australia,,,,,,
+201-250,201-250,Aalborg University,Denmark,,,,,,
+201-250,151-200,Beijing Normal University ,China (Mainland),,,,,,
+201-250,151-200,Bournemouth University,United Kingdom,,,,,,
+201-250,151-200,Carleton University,Canada,,,,,,
+201-250,151-200,Charles University,Czech Republic,,,,,,
+201-250,151-200,Communication University of China,China (Mainland),,,,,,
+201-250,,Delft University of Technology,Netherlands,,,,,,
+201-250,201-250,Ewha Womans University,South Korea,,,,,,
+201-250,151-200,George Mason University,United States,,,,,,
+201-250,201-250,Georgia Institute of Technology,United States,,,,,,
+201-250,,Goethe-University Frankfurt am Main,Germany,,,,,,
+201-250,201-250,Griffith University,Australia,,,,,,
+201-250,151-200,Hanyang University,South Korea,,,,,,
+201-250,151-200,HSE University,Russia,,,,,,
+201-250,201-250,La Trobe University,Australia,,,,,,
+201-250,151-200,National Chengchi University,Taiwan,,,,,,
+201-250,151-200,Northeastern University,United States,,,,,,
+201-250,201-250,Nottingham Trent University,United Kingdom,,,,,,
+201-250,151-200,Ohio University,United States,,,,,,
+201-250,201-250,Ryerson University,Canada,,,,,,
+201-250,201-250,Sciences Po ,France,,,,,,
+201-250,,Swansea University,United Kingdom,,,,,,
+201-250,201-250,Taylor's University,Malaysia,,,,,,
+201-250,201-250,The New School,United States,,,,,,
+201-250,151-200,The University of Western Australia,Australia,,,,,,
+201-250,,Universidad Autónoma de Madrid,Spain,,,,,,
+201-250,201-250,Universidad de Guadalajara (UDG),Mexico,,,,,,
+201-250,,Universidad de los Andes,Colombia,,,,,,
+201-250,151-200,Universidad Iberoamericana IBERO,Mexico,,,,,,
+201-250,,Universidade de Santiago de Compostela,Spain,,,,,,
+201-250,201-250,Universidade Federal do Rio de Janeiro,Brazil,,,,,,
+201-250,201-250,Universidade Nova de Lisboa,Portugal,,,,,,
+201-250,201-250,Universität Mannheim,Germany,,,,,,
+201-250,151-200,Université du Québec,Canada,,,,,,
+201-250,151-200,Universite libre de Bruxelles,Belgium,,,,,,
+201-250,,Universiti Putra Malaysia (UPM),Malaysia,,,,,,
+201-250,151-200,Universiti Sains Malaysia (USM),Malaysia,,,,,,
+201-250,201-250,University of Alberta,Canada,,,,,,
+201-250,151-200,University of Central Florida,United States,,,,,,
+201-250,,University of Delhi,India,,,,,,
+201-250,201-250,University of Geneva,Switzerland,,,,,,
+201-250,,University of Jyväskylä,Finland,,,,,,
+201-250,201-250,University of Kentucky,United States,,,,,,
+201-250,201-250,University of Milan,Italy,,,,,,
+201-250,201-250,University of Oklahoma,United States,,,,,,
+201-250,151-200,University of South Carolina,United States,,,,,,
+201-250,,University of Southampton,United Kingdom,,,,,,
+201-250,151-200,University of Stirling,United Kingdom,,,,,,
+201-250,101-150,University of Utah,United States,,,,,,

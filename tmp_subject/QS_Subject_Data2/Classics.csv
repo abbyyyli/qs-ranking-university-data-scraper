@@ -1,0 +1,101 @@
+2024,2023,Institution,Location,Academic Reputation,Employer Reputation,Citations per Paper,H-index Citations,International,Score
+1,1  ,Sapienza University of Rome,Italy,,,,,,99.5
+2,2  ,University of Oxford,United Kingdom,,,,,,93.2
+3,3  ,University of Cambridge,United Kingdom,,,,,,92.4
+4,6  ,Ruprecht-Karls-Universität Heidelberg,Germany,,,,,,91.6
+5,4  ,Scuola Normale Superiore di Pisa,Italy,,,,,,90.8
+6,8  ,Durham University,United Kingdom,,,,,,88.5
+7,11  ,Humboldt-Universität zu Berlin,Germany,,,,,,87.4
+8,5  ,Ludwig-Maximilians-Universität München,Germany,,,,,,87
+9,7  ,Harvard University,United States,,,,,,86.5
+10,9  ,Peking University,China (Mainland),,,,,,85.1
+11,18  ,King's College London,United Kingdom,,,,,,84.8
+12,14  ,University of St Andrews,United Kingdom,,,,,,84.7
+13,10  ,Leiden University,Netherlands,,,,,,84.2
+14,13  ,"University of California, Berkeley (UCB)",United States,,,,,,82.9
+15,15  ,Université Paris 1 Panthéon-Sorbonne ,France,,,,,,82
+16,19  ,Princeton University,United States,,,,,,81.6
+17,17  ,Yale University,United States,,,,,,81.1
+18,22=,National Taiwan University (NTU),Taiwan,,,,,,81
+19,25  ,Alma Mater Studiorum - University of Bologna,Italy,,,,,,80.4
+20,27=,Kyoto University,Japan,,,,,,79.5
+21,21  ,UCL,United Kingdom,,,,,,79.4
+=22,32  ,KU Leuven,Belgium,,,,,,78.9
+=22,22=,University of Pisa,Italy,,,,,,78.9
+=24,27=,Ghent University,Belgium,,,,,,78.8
+=24,12  ,Sorbonne University,France,,,,,,78.8
+26,20  ,Freie Universitaet Berlin,Germany,,,,,,78.3
+=27,26  ,The University of Edinburgh,United Kingdom,,,,,,77.5
+=27,24  ,University of Cologne,Germany,,,,,,77.5
+29,36  ,Université catholique de Louvain (UCLouvain),Belgium,,,,,,77.1
+30,43  ,National Chengchi University,Taiwan,,,,,,76
+=31,42  ,Aristotle University of Thessaloniki,Greece,,,,,,75.4
+=31,16  ,Stanford University,United States,,,,,,75.4
+=31,38  ,Università Cattolica del Sacro Cuore,Italy,,,,,,75.4
+=34,34  ,The University of Exeter,United Kingdom,,,,,,75.3
+=34,39  ,The University of Sydney,Australia,,,,,,75.3
+=36,31  ,Nanjing University,China (Mainland),,,,,,74.7
+=36,35  ,University of Naples - Federico II,Italy,,,,,,74.7
+38,,National University of Singapore (NUS),Singapore,,,,,,74.4
+39,29  ,Eberhard Karls Universität Tübingen,Germany,,,,,,74.2
+=40,30  ,"University of Rome ""Tor Vergata""",Italy,,,,,,73.9
+=40,33  ,University of Vienna,Austria,,,,,,73.9
+42,51-90,The University of Tokyo,Japan,,,,,,73.5
+43,51-90,Complutense University of Madrid,Spain,,,,,,73.3
+44,47  ,University of Zurich,Switzerland,,,,,,73.2
+45,51-90,Ca' Foscari University of Venice ,Italy,,,,,,72.8
+46,45  ,University of Geneva,Switzerland,,,,,,72.5
+47,48  ,Université PSL,France,,,,,,72.3
+48,51-90,Brown University,United States,,,,,,72.2
+49,44  ,Università di Padova,Italy,,,,,,71.8
+50,37  ,Fudan University,China (Mainland),,,,,,71.7
+51-100,51-90,Aarhus University,Denmark,,,,,,
+51-100,51-90,Aix-Marseille University,France,,,,,,
+51-100,49=,Albert-Ludwigs-Universitaet Freiburg,Germany,,,,,,
+51-100,51-90,Beijing Normal University ,China (Mainland),,,,,,
+51-100,51-90,Columbia University,United States,,,,,,
+51-100,,Cornell University,United States,,,,,,
+51-100,,Dartmouth College,United States,,,,,,
+51-100,,Keio University,Japan,,,,,,
+51-100,49=,Macquarie University,Australia,,,,,,
+51-100,51-90,Meiji University,Japan,,,,,,
+51-100,51-90,Monash University,Australia,,,,,,
+51-100,51-90,National and Kapodistrian University of Athens,Greece,,,,,,
+51-100,51-90,National Chung Cheng University,Taiwan,,,,,,
+51-100,51-90,New York University (NYU),United States,,,,,,
+51-100,,Newcastle University,United Kingdom,,,,,,
+51-100,,Osaka University,Japan,,,,,,
+51-100,,Rheinische Friedrich-Wilhelms-Universität Bonn,Germany,,,,,,
+51-100,,Ritsumeikan University,Japan,,,,,,
+51-100,,Royal Holloway University of London,United Kingdom,,,,,,
+51-100,51-90,SOAS University of London ,United Kingdom,,,,,,
+51-100,51-90,Swansea University,United Kingdom,,,,,,
+51-100,,The Chinese University of Hong Kong (CUHK),Hong Kong SAR,,,,,,
+51-100,51-90,The Hebrew University of Jerusalem,Israel,,,,,,
+51-100,51-90,The University of Adelaide,Australia,,,,,,
+51-100,51-90,The University of Manchester,United Kingdom,,,,,,
+51-100,,The University of Melbourne,Australia,,,,,,
+51-100,51-90,The University of Queensland,Australia,,,,,,
+51-100,,The University of Western Australia,Australia,,,,,,
+51-100,51-90,"Trinity College Dublin, The University of Dublin",Ireland,,,,,,
+51-100,51-90,"Universita' degli Studi di Napoli ""L'Orientale""",Italy,,,,,,
+51-100,,Universität Hamburg,Germany,,,,,,
+51-100,51-90,Université de Fribourg,Switzerland,,,,,,
+51-100,51-90,Université de Strasbourg,France,,,,,,
+51-100,,University of Bari,Italy,,,,,,
+51-100,46  ,University of Basel,Switzerland,,,,,,
+51-100,51-90,University of Bristol,United Kingdom,,,,,,
+51-100,51-90,"University of California, Los Angeles (UCLA)",United States,,,,,,
+51-100,51-90,University of Chicago,United States,,,,,,
+51-100,51-90,University of Göttingen,Germany,,,,,,
+51-100,,University of Lausanne,Switzerland,,,,,,
+51-100,51-90,University of Liverpool,United Kingdom,,,,,,
+51-100,51-90,University of Michigan-Ann Arbor,United States,,,,,,
+51-100,51-90,University of Milan,Italy,,,,,,
+51-100,40  ,"University of North Carolina, Chapel Hill",United States,,,,,,
+51-100,51-90,University of Pennsylvania,United States,,,,,,
+51-100,51-90,University of Texas at Austin,United States,,,,,,
+51-100,41  ,University of Toronto,Canada,,,,,,
+51-100,51-90,Utrecht University,Netherlands,,,,,,
+51-100,51-90,Waseda University,Japan,,,,,,
+51-100,51-90,Westfälische Wilhelms-Universität Münster ,Germany,,,,,,

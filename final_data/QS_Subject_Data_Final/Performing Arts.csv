@@ -1,0 +1,121 @@
+2024,2023,Institution,Location,Academic Reputation,Employer Reputation,Citations per Paper,H-index Citations,International,Score
+1,1  ,Royal College of Music,United Kingdom,96.3,100,,,,97
+2,3  ,Royal Academy of Music,United Kingdom,92.7,96.4,,,,93.4
+3,2  ,Conservatoire national supérieur de musique et de danse de Paris (CNSMDP),France,93.7,91.7,,,,93.3
+4,4  ,Universität für Musik und darstellende Kunst Wien,Austria,97.3,73,,,,92.4
+5,7  ,Guildhall School of Music and Drama,United Kingdom,90.3,97.3,,,,91.7
+6,6  ,Royal Conservatoire of Scotland (Formerly Royal Scottish Academy of Music and Drama),United Kingdom,93.4,77.2,,,,90.2
+7,5  ,Juilliard School,United States,100,40.8,,,,88.2
+8,30  ,Royal Northern College of Music (RNCM),United Kingdom,89.7,81.4,,,,88
+9,11  ,New York University (NYU),United States,85.8,92.3,,,,87.1
+10,51-100,The Gnesins Russian Academy of Music,Russia,85.3,85.1,,,,85.3
+11,10  ,Moscow P. I. Tchaikovsky Conservatory,Russia,83.4,90.6,,,,84.8
+12,8  ,Curtis Institute of Music,United States,89.7,59.6,,,,83.7
+13,25  ,University of the Arts Helsinki,Finland,86.8,69.2,,,,83.3
+14,20  ,Royal Holloway University of London,United Kingdom,84,73.7,,,,81.9
+=15,17=,Rimsky-Korsakov St. Petersburg State Conservatory,Russia,79.6,87.7,,,,81.2
+=15,15  ,University of Rochester,United States,84.3,69,,,,81.2
+17,14  ,The Royal Danish Academy of Music,Denmark,83.6,69.7,,,,80.8
+18,23  ,University of Cambridge,United Kingdom,78.3,90.1,,,,80.7
+19,21=,University of Oxford,United Kingdom,78.1,89.1,,,,80.3
+20,24  ,Harvard University,United States,78,89.1,,,,80.2
+21,9  ,Norwegian Academy of Music,Norway,81.9,72.4,,,,80
+22,51-100,The Liszt Academy of Music,Hungary,82,68,,,,79.2
+23,19  ,Conservatoire national supérieur de musique et de danse de Lyon,France,78.6,80.2,,,,78.9
+24,34  ,McGill University,Canada,80.2,71.9,,,,78.5
+=25,26  ,Hochschule für Musik und Theater Felix Mendelssohn Bartholdy Leipzig,Germany,79,76.1,,,,78.4
+=25,17=,Trinity Laban Conservatoire of Music and Dance,United Kingdom,78.5,78.1,,,,78.4
+27,28  ,Yale University,United States,77.6,77.8,,,,77.6
+28,13  ,Hong Kong Academy of Performing Arts,Hong Kong SAR,80.3,65.7,,,,77.4
+29,31=,Columbia University,United States,76.3,80.2,,,,77.1
+=30,43  ,King's College London,United Kingdom,76.1,80.2,,,,76.9
+=30,51-100,Shanghai Conservatory of Music (SHCM),China (Mainland),83.2,51.7,,,,76.9
+32,27  ,University of Huddersfield,United Kingdom,77.8,72.2,,,,76.7
+=33,12  ,University Mozarteum Salzburg,Austria,81.9,54.3,,,,76.4
+=33,35  ,Zurich University of the Arts (ZHdK),Switzerland,88.5,27.9,,,,76.4
+35,29  ,Hochschule für Musik Hanns Eisler Berlin,Germany,88.1,28.5,,,,76.2
+36,33  ,Central School of Speech & Drama,United Kingdom,87.9,28.3,,,,76
+37,39  ,Stanford University,United States,74.9,78.6,,,,75.6
+38,41  ,Northwestern University,United States,80.4,55.8,,,,75.5
+39,16  ,Royal College of Music in Stockholm,Sweden,85.2,35.9,,,,75.3
+40,51-100,"Trinity College Dublin, The University of Dublin",Ireland,72.8,83.7,,,,75
+41,48=,National University of Singapore (NUS),Singapore,73.9,79.1,,,,74.9
+42,21=,UCSI University,Malaysia,72.4,84.5,,,,74.8
+43,31=,University of Southern California,United States,76.5,67,,,,74.6
+44,44=,University of Michigan-Ann Arbor,United States,78.6,57.4,,,,74.4
+45,36=,"University of California, Los Angeles (UCLA)",United States,75.3,70.4,,,,74.3
+46,48=,University of Toronto,Canada,72.6,77.8,,,,73.6
+47,51-100,The Fryderyk Chopin University of Music,Poland,74.2,68.3,,,,73
+48,44=,"Goldsmiths, University of London",United Kingdom,74.2,67.8,,,,72.9
+49,51-100,University of Birmingham,United Kingdom,75.5,61.3,,,,72.7
+50,51-100,"University of California, Berkeley (UCB)",United States,73.5,68.3,,,,72.5
+51-100,51-100,Academy of Performing Arts in Prague,Czech Republic,72.4,27.7,,,,
+51-100,51-100,Boston University,United States,67.5,71.5,,,,
+51-100,51-100,California Institute of the Arts,United States,67,70.4,,,,
+51-100,40  ,"Central Academy of Drama, China",China (Mainland),70.2,52.3,,,,
+51-100,51-100,Chulalongkorn University,Thailand,67.1,86.2,,,,
+51-100,51-100,City University of New York,United States,67.1,51.3,,,,
+51-100,36=,Conservatoire de Musique de Genève,Switzerland,77.4,36,,,,
+51-100,51-100,Conservatorio di Roma Santa Cecilia,Italy,71.2,38.9,,,,
+51-100,51-100,Hochschule für Musik und Tanz Köln,Germany,76.4,27.9,,,,
+51-100,51-100,Hochschule für Musik und Theater Hamburg,Germany,80.9,28.6,,,,
+51-100,47  ,Hochschule für Musik und Theater München,Germany,82.1,28.7,,,,
+51-100,38  ,Indiana University Bloomington,United States,79,43.6,,,,
+51-100,42  ,Korea National University of Arts,South Korea,74.8,46.3,,,,
+51-100,,Lasalle College of the Arts,Singapore,68.4,46.6,,,,
+51-100,51-100,Lithuanian Academy of Music and Theatre,Lithuania,64.7,66.9,,,,
+51-100,51-100,Mahidol University,Thailand,66.2,85,,,,
+51-100,,Massachusetts Institute of Technology (MIT) ,United States,58.5,83,,,,
+51-100,51-100,Monash University,Australia,64.9,63.4,,,,
+51-100,,"Nanyang Technological University, Singapore (NTU)",Singapore,62.3,71.5,,,,
+51-100,,Peking University,China (Mainland),59.5,88.4,,,,
+51-100,51-100,Queen Mary University of London,United Kingdom,74.3,60.7,,,,
+51-100,51-100,Queen's University Belfast,United Kingdom,65.7,70.1,,,,
+51-100,51-100,"Royal Academy of Music, Aarhus",Denmark,72.6,28.4,,,,
+51-100,51-100,Royal Irish Academy of Music,Ireland,68.2,55.7,,,,
+51-100,51-100,Seoul National University,South Korea,67,61.8,,,,
+51-100,51-100,Sorbonne University,France,66.8,70.4,,,,
+51-100,46  ,The Russian Academy of Arts,Russia,67.8,79.3,,,,
+51-100,51-100,The University of Auckland,New Zealand,64.4,76.5,,,,
+51-100,51-100,The University of Edinburgh,United Kingdom,66.3,66.4,,,,
+51-100,51-100,The University of Manchester,United Kingdom,64.8,68.6,,,,
+51-100,51-100,The University of Melbourne,Australia,70.1,66.5,,,,
+51-100,,The University of New South Wales (UNSW Sydney),Australia,65.1,64.3,,,,
+51-100,51-100,The University of Sydney,Australia,68.3,67.5,,,,
+51-100,51-100,The University of Warwick,United Kingdom,69.2,50.9,,,,
+51-100,48=,Universität der Knste Berlin,Germany,75.9,43.9,,,,
+51-100,,Universiti Malaya (UM),Malaysia,67.3,70,,,,
+51-100,101-120,University College Cork,Ireland,63.1,70,,,,
+51-100,51-100,University College Dublin,Ireland,68,69.7,,,,
+51-100,51-100,University of Basel,Switzerland,64.9,57.6,,,,
+51-100,51-100,University of British Columbia,Canada,66.1,76.9,,,,
+51-100,51-100,"University of California, San Diego (UCSD)",United States,70.4,49,,,,
+51-100,51-100,University of Chicago,United States,72,64.9,,,,
+51-100,101-120,University of Galway,Ireland,65.8,59.5,,,,
+51-100,51-100,University of Leeds,United Kingdom,63.9,67.6,,,,
+51-100,,University of Limerick,Ireland,60,76.4,,,,
+51-100,,University of North Texas,United States,68.4,68.9,,,,
+51-100,51-100,University of Texas at Austin,United States,67.7,56.5,,,,
+51-100,,University of the Philippines,Philippines,66.3,52.3,,,,
+51-100,101-120,University of York,United Kingdom,64.2,74.4,,,,
+51-100,101-120,Victoria University of Wellington,New Zealand,62,70,,,,
+101-120,51-100,Cornell University,United States,64.3,58.2,,,,
+101-120,51-100,Griffith University,Australia,69.3,34,,,,
+101-120,,Indonesia Institute of the Arts Yogyakarta,Indonesia,68.2,40.2,,,,
+101-120,101-120,National Taiwan University (NTU),Taiwan,61.1,70,,,,
+101-120,101-120,Oslo National Academy of the Arts,Norway,70.8,27.9,,,,
+101-120,101-120,Princeton University,United States,63.7,55.6,,,,
+101-120,,Queensland University of Technology (QUT),Australia,62.6,59.3,,,,
+101-120,51-100,The University of Exeter,United Kingdom,65.4,52.9,,,,
+101-120,,The University of Hong Kong,Hong Kong SAR,61.1,69,,,,
+101-120,101-120,The University of Queensland,Australia,62.5,62.7,,,,
+101-120,,The University of Sheffield,United Kingdom,59.1,71.5,,,,
+101-120,51-100,Universidad Nacional Autónoma de México (UNAM),Mexico,58.5,72.8,,,,
+101-120,101-120,Universitas Indonesia,Indonesia,61.1,65.7,,,,
+101-120,101-120,Université de Montréal ,Canada,65,53.5,,,,
+101-120,101-120,University of Bristol,United Kingdom,62.9,62.9,,,,
+101-120,101-120,University of Glasgow,United Kingdom,64.1,52.8,,,,
+101-120,,University of Hyderabad,India,65.6,44.8,,,,
+101-120,,University of Illinois at Urbana-Champaign,United States,67.5,39.9,,,,
+101-120,101-120,University of Washington,United States,58.3,76.8,,,,
+101-120,51-100,York University,Canada,64.5,50.1,,,,

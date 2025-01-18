@@ -1,0 +1,141 @@
+2024,2023,Institution,Location,Academic Reputation,Employer Reputation,Citations per Paper,H-index Citations,International,Score
+1,1,Loughborough University,United Kingdom,100,100,87.3,86,,96
+2,2,The University of Queensland,Australia,91.8,91.2,92.5,99.5,,93
+3,3,University of British Columbia,Canada,90.3,92.7,90,92.4,,90.8
+4,4,The University of Sydney,Australia,87.7,87.5,92,100,,90.2
+5,5,University of Toronto,Canada,91,87.2,85.9,89.1,,89.6
+6,9,Liverpool John Moores University,United Kingdom,86.4,83.8,91.5,84.6,,86.6
+6,6,University of Birmingham,United Kingdom,88.6,74.7,90.3,82.5,,86.6
+8,7=,University of Bath,United Kingdom,85.7,99.4,88.3,79,,86.5
+9,12,The University of Melbourne,Australia,82.4,84.7,91.8,94.4,,85.8
+10,10=,University of Michigan-Ann Arbor,United States,87,80.4,86,82.5,,85.5
+11,7=,Deakin University,Australia,86.9,72.8,89.4,83.6,,85.4
+12,15,University of Otago,New Zealand,83.5,87.2,86.8,87.8,,85
+13,10=,University of Florida,United States,85.6,76.2,89.3,83.6,,84.9
+14,13,Pennsylvania State University,United States,86,85.4,87.7,74.1,,84.4
+15,19,University of Alberta,Canada,82,75.7,90.3,87.4,,83.4
+16,24,The University of Edinburgh,United Kingdom,83.2,87.3,86.7,77.7,,83.3
+17,17,KU Leuven,Belgium,82.9,58.8,92.6,90.6,,83.1
+18,14,University of Copenhagen,Denmark,87.5,50.9,87.9,81.4,,83
+19,16,University of Calgary,Canada,80.7,81.7,88.1,86.5,,82.8
+20,22=,The University of Western Australia,Australia,82.5,70.7,89.5,84.1,,82.6
+21,18,University of Ottawa,Canada,80.6,68.8,91.3,88.6,,82.2
+22,20,Seoul National University,South Korea,86.1,75.5,82.6,69.7,,82.1
+23,26,Western University,Canada,78.4,85.6,87.7,88.6,,82
+24,,Columbia University,United States,82.4,81.4,84.7,76.3,,81.7
+25,42=,National University of Singapore (NUS),Singapore,81.4,95.1,86.4,68.7,,81.6
+25,29,Yonsei University,South Korea,83.1,81.3,84.3,73.2,,81.6
+27,21,The University of Exeter,United Kingdom,81.1,80.4,87.4,77.7,,81.5
+28,41,Auckland University of Technology (AUT),New Zealand,78.7,76,87,88.6,,81.2
+28,32,The University of Auckland,New Zealand,77.9,82.4,97.7,77,,81.2
+30,25,The Ohio State University,United States,79.3,72.4,87.7,87.4,,81.1
+31,,Monash University,Australia,74.4,85.6,91.8,93.1,,80.9
+32,22=,McMaster University,Canada,78.5,72.3,88.8,87.4,,80.8
+33,39=,McGill University,Canada,79,79.4,85.3,83.6,,80.7
+34,34=,University of Illinois at Urbana-Champaign,United States,80.4,69.2,90,79,,80.5
+34,28,"University of North Carolina, Chapel Hill",United States,78,74.4,87.9,87.4,,80.5
+36,33,Edith Cowan University ,Australia,77,81.8,88.2,84.6,,80.3
+37,46,Texas A&M University,United States,81.3,73.9,85.4,73.2,,80
+37,30,UCL,United Kingdom,79,76.4,87.1,79.6,,80
+39,36,"Nanyang Technological University, Singapore (NTU)",Singapore,78.7,92,84.8,70.6,,79.7
+39,31,University of Jyväskylä,Finland,82.7,57,83.2,79,,79.7
+41,51-100,The Chinese University of Hong Kong (CUHK),Hong Kong SAR,76.4,84.4,88.1,79.6,,79.4
+42,27,Vrije Universiteit Amsterdam,Netherlands,80.8,27,91.4,95.9,,79.3
+43,34=,Victoria University ,Australia,75.1,70.1,92.5,88.2,,79.2
+44,38,The University of Hong Kong,Hong Kong SAR,77.7,84.8,90.6,68.7,,79
+44,51-100,Universidade de São Paulo,Brazil,75.8,74.4,82.7,91,,79
+46,39=,La Trobe University,Australia,71.2,77.3,90.5,98.7,,78.8
+47,50=,University of Technology Sydney,Australia,73.8,80.2,91.6,84.1,,78.7
+48,42=,Griffith University,Australia,74.9,73.8,88.4,86.5,,78.6
+49,,The University of Tokyo,Japan,81.8,88.1,76.7,60.2,,78.4
+50,44,Michigan State University,United States,74.3,77.9,88.5,82.5,,78
+51-100,51-100,Arizona State University,United States,70.2,84,86.8,74.8,,
+51-100,51-100,Australian Catholic University,Australia,66.1,73,92.9,94.1,,
+51-100,51-100,Boston University,United States,68.7,84.2,88.1,82,,
+51-100,51-100,Cornell University,United States,72.9,71,84.5,67.7,,
+51-100,51-100,Curtin University,Australia,70.3,59.6,92,93.1,,
+51-100,51-100,Durham University,United Kingdom,77.6,78.2,80.8,61.6,,
+51-100,47=,Florida State University,United States,79,60.3,80.2,68.7,,
+51-100,45,Ghent University,Belgium,76.8,27.8,91.3,90.6,,
+51-100,51-100,Indiana University Bloomington,United States,71.4,54.9,84.4,77.7,,
+51-100,,Korea University,South Korea,77.9,76.7,80.1,66.6,,
+51-100,51-100,Kyoto University,Japan,72.7,69.9,80.6,69.7,,
+51-100,51-100,Leeds Beckett University,United Kingdom,72.6,78.9,84.8,76.3,,
+51-100,51-100,Maastricht University ,Netherlands,68.1,69.6,88.2,85.6,,
+51-100,51-100,Manchester Metropolitan University (MMU),United Kingdom,73.4,86.4,81.5,76.3,,
+51-100,50=,Massachusetts Institute of Technology (MIT) ,United States,81.9,92.7,72.7,51.2,,
+51-100,51-100,National Taiwan Normal University,Taiwan,73.5,69.5,81.8,61.6,,
+51-100,51-100,National Taiwan University (NTU),Taiwan,74,74.9,85.1,75.6,,
+51-100,,New York University (NYU),United States,74.7,75.9,82,76.3,,
+51-100,51-100,Northwestern University,United States,67.2,73.6,84.1,83.1,,
+51-100,51-100,Peking University,China (Mainland),78,85.4,78.5,58.6,,
+51-100,51-100,Queen's University at Kingston,Canada,73.1,76.3,89.8,81.4,,
+51-100,51-100,Queensland University of Technology (QUT),Australia,70.3,79,88.1,81.4,,
+51-100,51-100,Swansea University,United Kingdom,72.9,80.3,85.9,74.1,,
+51-100,51-100,Temple University,United States,75.6,67.5,86,77,,
+51-100,51-100,The Hong Kong Polytechnic University,Hong Kong SAR,72.9,80.2,89.9,84.1,,
+51-100,49,The University of Manchester,United Kingdom,71.7,81.3,90.7,72.4,,
+51-100,47=,The University of New South Wales (UNSW Sydney),Australia,73,82.6,89.5,80.8,,
+51-100,51-100,"The University of Newcastle, Australia (UON)",Australia,65.9,63.4,92,88.2,,
+51-100,51-100,Universitat de Barcelona,Spain,70,65.4,85.9,80.2,,
+51-100,51-100,University College Dublin,Ireland,68.2,75,87,83.1,,
+51-100,51-100,University of Bristol,United Kingdom,67.4,63.5,91.1,76.3,,
+51-100,51-100,University of Canberra ,Australia,65.5,76.7,91.4,86.5,,
+51-100,51-100,University of Glasgow,United Kingdom,72,74.4,86.1,67.7,,
+51-100,51-100,University of Granada,Spain,71.8,30.7,84.7,86.5,,
+51-100,51-100,University of Groningen,Netherlands,70.8,50.5,88.2,84.1,,
+51-100,51-100,University of Leeds,United Kingdom,71.5,76.7,87.5,70.6,,
+51-100,51-100,University of Limerick,Ireland,67.2,80.4,89.3,88.6,,
+51-100,37,University of Massachusetts Amherst,United States,76.5,85.9,85,67.7,,
+51-100,51-100,University of Nottingham,United Kingdom,66.1,71.4,92.3,85.6,,
+51-100,51-100,University of Oslo,Norway,70,50.1,90,88.6,,
+51-100,51-100,University of Porto,Portugal,71.9,55.8,82,82,,
+51-100,51-100,University of South Australia,Australia,64.6,70.2,92.3,89.1,,
+51-100,51-100,University of Southern California,United States,68.2,62.7,88.5,84.6,,
+51-100,51-100,University of Southern Denmark (SDU),Denmark,73.7,57.8,86.8,87.4,,
+51-100,51-100,University of Tsukuba,Japan,77.3,56.6,73.2,70.6,,
+51-100,51-100,University of Virginia,United States,68.8,66.5,86.9,77.7,,
+51-100,101-140,University of Waikato,New Zealand,67.1,76.1,86.1,73.2,,
+51-100,51-100,University of Waterloo,Canada,72.4,78.4,81.2,74.1,,
+51-100,51-100,University of Wisconsin-Madison,United States,66.6,60.4,87.9,83.6,,
+51-100,51-100,Utrecht University,Netherlands,68.5,46.6,90.4,82.5,,
+51-100,51-100,Waseda University,Japan,75,63.9,79.3,71.5,,
+101-140,101-140, Western Sydney University,Australia,65,59.4,89.4,79,,
+101-140,101-140,Alma Mater Studiorum - University of Bologna,Italy,67.2,58.1,83.9,77,,
+101-140,51-100,Brock University,Canada,69.9,67.7,80,64.2,,
+101-140,101-140,Cardiff Metropolitan University,United Kingdom,64,67.5,88.1,73.2,,
+101-140,101-140,Chulalongkorn University,Thailand,67.8,77.3,79.6,64.2,,
+101-140,101-140,Dublin City University,Ireland,61,77.3,85.8,74.1,,
+101-140,101-140,Erasmus University Rotterdam ,Netherlands,63.7,36.1,89,86.5,,
+101-140,51-100,ETH Zurich - Swiss Federal Institute of Technology,Switzerland,71.1,65,82.1,65.4,,
+101-140,101-140,North Carolina State University,United States,66.8,57.7,82.4,66.6,,
+101-140,,Northeastern University,United States,61.8,58.6,93.2,78.4,,
+101-140,,Northumbria University at Newcastle,United Kingdom,59.7,74.4,87,78.4,,
+101-140,,Nottingham Trent University,United Kingdom,62.7,71.3,87.2,68.7,,
+101-140,101-140,Oxford Brookes University,United Kingdom,64.9,75.6,82.9,64.2,,
+101-140,101-140,Shanghai Jiao Tong University,China (Mainland),65.5,72.4,83.5,70.6,,
+101-140,,Sungkyunkwan University(SKKU),South Korea,66.9,67.8,81.3,64.2,,
+101-140,101-140,The University of Georgia,United States,65.4,68.9,83.2,72.4,,
+101-140,101-140,"Trinity College Dublin, The University of Dublin",Ireland,64.8,78.2,86.1,75.6,,
+101-140,101-140,Tsinghua University,China (Mainland),73.9,86.5,70.3,48.8,,
+101-140,101-140,Ulster University,United Kingdom,58.9,72.3,94.2,79.6,,
+101-140,101-140,UNESP,Brazil,65.9,74.4,81.2,82,,
+101-140,101-140,Universitat de Valencia,Spain,68.3,36.9,81.2,81.4,,
+101-140,101-140,Université de Montréal ,Canada,60.6,73.5,84,81.4,,
+101-140,,Universiti Kebangsaan Malaysia (UKM),Malaysia,71.5,62,68.3,61.6,,
+101-140,101-140,Universiti Malaya (UM),Malaysia,70.2,73.4,76.3,63,,
+101-140,51-100,University of Brighton,United Kingdom,64.4,58.2,86.8,78.4,,
+101-140,101-140,University of Colorado Boulder,United States,67.1,56,86.2,74.1,,
+101-140,101-140,University of Connecticut,United States,70.1,37.4,84.7,74.1,,
+101-140,101-140,University of Delaware,United States,62.9,58.2,90.4,88.2,,
+101-140,51-100,University of Lausanne,Switzerland,70.5,57.2,83.8,73.2,,
+101-140,101-140,University of Lisbon ,Portugal,65.6,60.7,85.3,81.4,,
+101-140,51-100,"University of Maryland, College Park",United States,73.1,59.1,74.2,55.2,,
+101-140,101-140,University of Milan,Italy,64.3,57,83.8,77.7,,
+101-140,,University of Minnesota Twin Cities,United States,67.5,55.9,87.5,80.8,,
+101-140,101-140,University of Oregon,United States,67.2,68.1,86.8,65.4,,
+101-140,51-100,University of Stirling,United Kingdom,66.6,77.7,85,68.7,,
+101-140,51-100,University of Wollongong,Australia,65.1,78.5,84.4,77,,
+101-140,,Vrije Universiteit Brussel (VUB),Belgium,70.7,17.7,93.4,87.4,,
+101-140,101-140,Washington University in St. Louis,United States,60.8,57.1,88.7,86.9,,
+101-140,,Zhejiang University,China (Mainland),67.7,74.8,75.5,58.6,,

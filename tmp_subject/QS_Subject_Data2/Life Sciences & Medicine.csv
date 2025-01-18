@@ -1,0 +1,552 @@
+2024,2023,Institution,Location,Academic Reputation,Employer Reputation,Citations per Paper,H-index Citations,International,Score
+1,1  ,Harvard University,United States,,,,,100,98.8
+2,2  ,University of Oxford,United Kingdom,,,,,92,93.9
+3,3  ,Johns Hopkins University,United States,,,,,90.8,93.6
+4,4=,Stanford University,United States,,,,,80.5,92.5
+5,4=,Massachusetts Institute of Technology (MIT) ,United States,,,,,67.7,91
+6,6  ,University of Cambridge,United Kingdom,,,,,73.1,90.6
+7,7  ,Imperial College London,United Kingdom,,,,,87.5,90.1
+8,8  ,"University of California, San Francisco (UCSF)",United States,,,,,84.5,89.5
+9,9  ,UCL,United Kingdom,,,,,85.2,88.9
+10,10=,Karolinska Institute,Sweden,,,,,82.6,88.2
+11,14  ,Yale University,United States,,,,,74.5,87.5
+12,12  ,King's College London,United Kingdom,,,,,85,87.3
+13,13  ,University of Toronto,Canada,,,,,78.7,87.2
+14,10=,"University of California, Los Angeles (UCLA)",United States,,,,,72.3,86.9
+15,18=,Cornell University,United States,,,,,68.5,85.7
+16,16  ,University of Washington,United States,,,,,83.5,85.5
+17,15  ,"University of California, San Diego (UCSD)",United States,,,,,70.9,85.4
+=18,20  ,The University of Melbourne,Australia,,,,,78.7,85.1
+=18,24  ,"University of California, Berkeley (UCB)",United States,,,,,65.9,85.1
+20,17  ,University of Pennsylvania,United States,,,,,71.4,84.8
+21,23  ,The University of Edinburgh,United Kingdom,,,,,78.4,84.4
+22,21  ,Duke University,United States,,,,,79.3,83.9
+23,18=,Columbia University,United States,,,,,77,83.8
+24,22  ,University of British Columbia,Canada,,,,,82.5,82.8
+25,26  ,McGill University,Canada,,,,,76.4,82.7
+26,28  ,Seoul National University,South Korea,,,,,62.8,82.6
+27,25  ,The University of Sydney,Australia,,,,,73,82.5
+28,29=,University of Michigan-Ann Arbor,United States,,,,,70.1,82
+29,31  ,KU Leuven,Belgium,,,,,82.4,81.9
+30,35  ,The University of Manchester,United Kingdom,,,,,70.9,81.6
+=31,33=,Monash University,Australia,,,,,68.1,81.2
+=31,33=,National University of Singapore (NUS),Singapore,,,,,61.7,81.2
+=31,29=,The University of Hong Kong,Hong Kong SAR,,,,,56,81.2
+=31,32  ,The University of Queensland,Australia,,,,,69,81.2
+35,38  ,"University of California, Davis",United States,,,,,67.5,81
+36,46  ,The University of Tokyo,Japan,,,,,59.6,80.8
+37,44=,University of Amsterdam,Netherlands,,,,,79.6,80.6
+=38,39=,Ruprecht-Karls-Universität Heidelberg,Germany,,,,,73.8,80.4
+=38,36  ,"University of North Carolina, Chapel Hill",United States,,,,,74.8,80.4
+=40,42  ,London School of Hygiene & Tropical Medicine,United Kingdom,,,,,88.1,80.3
+=40,27  ,University of Copenhagen,Denmark,,,,,81.1,80.3
+=42,37  ,Peking University,China (Mainland),,,,,53.7,80.2
+=42,41  ,Washington University in St. Louis,United States,,,,,71.7,80.2
+=44,51=,Universidade de São Paulo,Brazil,,,,,80.6,79.7
+=44,53  ,Wageningen University & Research,Netherlands,,,,,70,79.7
+=46,47  ,Ludwig-Maximilians-Universität München,Germany,,,,,75.4,79.6
+=46,39=,New York University (NYU),United States,,,,,64.2,79.6
+=48,43  ,Sorbonne University,France,,,,,84,79.5
+=48,51=,The Chinese University of Hong Kong (CUHK),Hong Kong SAR,,,,,60.1,79.5
+50,44=,University of Glasgow,United Kingdom,,,,,69.4,79.3
+=51,70=,ETH Zurich - Swiss Federal Institute of Technology,Switzerland,,,,,61.7,78.8
+=51,54=,Utrecht University,Netherlands,,,,,72.2,78.8
+53,49  ,University of Chicago,United States,,,,,58.7,78.7
+54,54=,The University of New South Wales (UNSW Sydney),Australia,,,,,74.9,78.6
+=55,48  ,McMaster University,Canada,,,,,70.1,78.4
+=55,57=,Universitat de Barcelona,Spain,,,,,79.9,78.4
+57,61  ,Yonsei University,South Korea,,,,,53.8,78.2
+=58,50  ,Boston University,United States,,,,,69.8,77.9
+=58,102=,Université Paris-Saclay,France,,,,,74.5,77.9
+60,65  ,University of Zurich,Switzerland,,,,,70.9,77.7
+61,66  ,Kyoto University,Japan,,,,,56,77.6
+=62,62=,Baylor College of Medicine,United States,,,,,70.4,77.4
+=62,57=,University of Bristol,United Kingdom,,,,,62.6,77.4
+=64,56  ,Emory University,United States,,,,,79.8,77.3
+=64,67  ,Northwestern University,United States,,,,,69.1,77.3
+=64,92=,Tsinghua University,China (Mainland),,,,,41.3,77.3
+67,57=,University of Nottingham,United Kingdom,,,,,67.6,77.2
+68,62=,University of Birmingham,United Kingdom,,,,,73.4,77.1
+69,77=,Ghent University,Belgium,,,,,81.8,76.9
+70,98=,University of Florida,United States,,,,,82.7,76.6
+71,68  ,King Abdulaziz University (KAU),Saudi Arabia,,,,,59.1,76.4
+72,85=,University of Wisconsin-Madison,United States,,,,,58.1,76.3
+=73,69  ,University of Alberta,Canada,,,,,69.5,76
+=73,79  ,University of Minnesota Twin Cities,United States,,,,,70.5,76
+=73,77=,Uppsala University,Sweden,,,,,71.8,76
+76,98=,Leiden University,Netherlands,,,,,74,75.9
+77,80=,Technical University of Munich,Germany,,,,,62.8,75.8
+=78,72=,Erasmus University Rotterdam ,Netherlands,,,,,70.2,75.7
+=78,70=,Université Paris Cité,France,,,,,85.1,75.7
+=78,72=,University of Liverpool,United Kingdom,,,,,76.6,75.7
+=81,62=,Queen Mary University of London,United Kingdom,,,,,68.2,75.6
+=81,80=,The University of Texas M. D. Anderson Cancer Center,United States,,,,,55.1,75.6
+83,72=,The Ohio State University,United States,,,,,71.7,75.5
+84,72=,University of Pittsburgh,United States,,,,,70.6,75.4
+=85,85=,National Taiwan University (NTU),Taiwan,,,,,43.8,75.2
+=85,60  ,Newcastle University,United Kingdom,,,,,64.2,75.2
+=85,83  ,Vanderbilt University,United States,,,,,68.5,75.2
+88,82  ,Shanghai Jiao Tong University,China (Mainland),,,,,53.6,75.1
+89,91  ,The University of Auckland,New Zealand,,,,,57.2,75
+90,84  ,University of Helsinki,Finland,,,,,71.3,74.9
+91,72=,University of Groningen,Netherlands,,,,,66.2,74.5
+92,85=,Fudan University,China (Mainland),,,,,49.2,74.4
+93,92=,The University of Adelaide,Australia,,,,,58.6,74.3
+=94,109=,"Trinity College Dublin, The University of Dublin",Ireland,,,,,59.3,74.2
+=94,107=,Zhejiang University,China (Mainland),,,,,53.5,74.2
+96,113=,University of Göttingen,Germany,,,,,75,74.1
+97,102=,University of Milan,Italy,,,,,60.5,74
+=98,105  ,Medizinische Universität Wien,Austria,,,,,57,73.9
+=98,104  ,University of Leeds,United Kingdom,,,,,66.7,73.9
+100,106  ,Vrije Universiteit Amsterdam,Netherlands,,,,,65.3,73.7
+=101,130=,Sungkyunkwan University(SKKU),South Korea,,,,,41.8,73.6
+=101,95  ,University of Oslo,Norway,,,,,73.1,73.6
+=103,89  ,Lund University,Sweden,,,,,67.8,73.5
+=103,97  ,Université de Montréal ,Canada,,,,,61.8,73.5
+=105,125=,Eberhard Karls Universität Tübingen,Germany,,,,,75.7,73.4
+=105,109=,Pennsylvania State University,United States,,,,,67.4,73.4
+=105,129  ,Università di Padova,Italy,,,,,63.5,73.4
+=105,98=,University of Basel,Switzerland,,,,,80.6,73.4
+=105,90  ,University of Southampton,United Kingdom,,,,,68.1,73.4
+=110,96  ,Alma Mater Studiorum - University of Bologna,Italy,,,,,57.5,73.3
+=110,125=,Mahidol University,Thailand,,,,,67.4,73.3
+112,112  ,University of Bern,Switzerland,,,,,67.8,72.8
+=113,127  ,Osaka University,Japan,,,,,39.7,72.7
+=113,117=,The University of Sheffield,United Kingdom,,,,,69,72.7
+=113,115  ,University of Calgary,Canada,,,,,64.4,72.7
+116,132=,Michigan State University,United States,,,,,69.5,72.6
+=117,150=,Korea University,South Korea,,,,,46,72.5
+=117,122=,Maastricht University ,Netherlands,,,,,60.9,72.5
+=117,136  ,"Nanyang Technological University, Singapore (NTU)",Singapore,,,,,45.6,72.5
+=117,85=,The University of Western Australia,Australia,,,,,62,72.5
+=117,113=,University of Cape Town,South Africa,,,,,81.3,72.5
+=117,116  ,University of Otago,New Zealand,,,,,64.3,72.5
+123,134  ,Université de Montpellier,France,,,,,92.5,72.4
+=124,122=,Radboud University ,Netherlands,,,,,67.9,72.3
+=124,122=,Universidad Nacional Autónoma de México (UNAM),Mexico,,,,,57.6,72.3
+=124,98=,University of Geneva,Switzerland,,,,,72,72.3
+127,107=,The University of Texas Southwestern Medical Center at Dallas,United States,,,,,50.5,72.2
+=128,135  ,Icahn School of Medicine at Mount Sinai,United States,,,,,68.2,72.1
+=128,137=,Sapienza University of Rome,Italy,,,,,65.7,72.1
+=130,117=,Cardiff University,United Kingdom,,,,,62.6,72
+=130,120=,Case Western Reserve University,United States,,,,,69.3,72
+=130,94  ,University of Gothenburg,Sweden,,,,,67.3,72
+=133,109=,Aarhus University,Denmark,,,,,67.2,71.8
+=133,148=,Universiti Malaya (UM),Malaysia,,,,,60.5,71.8
+=135,139=,King Saud University,Saudi Arabia,,,,,66.4,71.7
+=135,117=,The Australian National University,Australia,,,,,50.3,71.7
+=135,137=,Université PSL,France,,,,,78.7,71.7
+138,120=,Complutense University of Madrid,Spain,,,,,65.1,71.6
+139,132=,Albert-Ludwigs-Universitaet Freiburg,Germany,,,,,60.5,71.5
+=140,185=,California Institute of Technology (Caltech),United States,,,,,28.2,71.4
+=140,155=,Texas A&M University,United States,,,,,56.9,71.4
+142,154  ,Princeton University,United States,,,,,38.7,71.3
+=143,201=,Freie Universitaet Berlin,Germany,,,,,63.9,71.2
+=143,146=,Universität Hamburg,Germany,,,,,65.6,71.2
+=143,139=,University of Illinois at Chicago (UIC),United States,,,,,63.5,71.2
+146,128  ,Pontificia Universidad Católica de Chile (UC),Chile,,,,,52.5,71
+147,155=,Universidad de Buenos Aires (UBA),Argentina,,,,,48.6,70.9
+148,150=,Rheinische Friedrich-Wilhelms-Universität Bonn,Germany,,,,,69.2,70.8
+=149,177=,EPFL,Switzerland,,,,,43.7,70.7
+=149,130=,University of Southern California,United States,,,,,57.7,70.7
+=151,150=,Universitat Autònoma de Barcelona,Spain,,,,,57.9,70.6
+=151,,University of Chinese Academy of Sciences,China (Mainland),,,,,54.5,70.6
+153,148=,Université catholique de Louvain (UCLouvain),Belgium,,,,,63.9,70.5
+154,177=,Universidade Estadual de Campinas (Unicamp),Brazil,,,,,52.5,70.4
+=155,171=,Tohoku University,Japan,,,,,43.1,70
+=155,146=,University of Turin,Italy,,,,,56.5,70
+=157,160=,Aix-Marseille University,France,,,,,74.2,69.9
+=157,163=,The University of Exeter,United Kingdom,,,,,59.7,69.9
+=157,157=,University of Lausanne,Switzerland,,,,,65.4,69.9
+=160,166  ,Queen's University Belfast,United Kingdom,,,,,63.1,69.8
+=160,259=,Stockholm University,Sweden,,,,,58,69.8
+=160,163=,University of Texas at Austin,United States,,,,,42.7,69.8
+=163,142=,Brown University,United States,,,,,59.9,69.6
+=163,169=,Universidad de Chile,Chile,,,,,46.1,69.6
+=163,214  ,University of Illinois at Urbana-Champaign,United States,,,,,55.8,69.6
+166,160=,University College Dublin,Ireland,,,,,56,69.5
+=167,197=,Purdue University,United States,,,,,51.5,69.4
+=167,142=,University of Ottawa,Canada,,,,,69.4,69.4
+=169,157=, University of Dundee,United Kingdom,,,,,59.6,69.3
+=169,243=,KAIST - Korea Advanced Institute of Science & Technology,South Korea,,,,,19,69.3
+=169,144  ,Universidad Autónoma de Madrid,Spain,,,,,58.1,69.3
+172,145  ,University of Miami,United States,,,,,67.4,69.2
+=173,168  ,Goethe-University Frankfurt am Main,Germany,,,,,59.3,69.1
+=173,167  ,University of Aberdeen,United Kingdom,,,,,57,69.1
+175,259=,Humboldt-Universität zu Berlin,Germany,,,,,53.1,68.9
+=176,191=,Hokkaido University,Japan,,,,,48.9,68.8
+=176,159  ,Sun Yat-sen University,China (Mainland),,,,,47.3,68.8
+=176,197=,Université Claude Bernard Lyon 1,France,,,,,65,68.8
+=176,249=,Universiti Putra Malaysia (UPM),Malaysia,,,,,52.6,68.8
+=176,191=,"University of California, Irvine",United States,,,,,59.3,68.8
+=176,185=,University of Cologne,Germany,,,,,67.2,68.8
+=176,139=,University of Porto,Portugal,,,,,78.3,68.8
+183,232=,Chulalongkorn University,Thailand,,,,,56.9,68.7
+=184,182=,Rockefeller University,United States,,,,,37.5,68.5
+=184,180=,The University of Texas Health Science Center at Houston,United States,,,,,58.5,68.5
+=184,224=,Tokyo Medical and Dental University (TMDU),Japan,,,,,44.9,68.5
+=184,174  ,Tufts University,United States,,,,,54.5,68.5
+188,171=,Rutgers University–New Brunswick,United States,,,,,63.4,68.4
+189,251=,North Carolina State University,United States,,,,,55.1,68.3
+=190,182=,The University of Arizona,United States,,,,,58.8,68.2
+=190,271=,University of Science and Technology of China,China (Mainland),,,,,33.3,68.2
+=192,163=,Cairo University,Egypt,,,,,62,68.1
+=192,193=,Medizinische Hochschule Hannover,Germany,,,,,57,68.1
+=192,175=,University of Bordeaux,France,,,,,62.8,68.1
+=192,169=,University of Iowa,United States,,,,,56.1,68.1
+=192,175=,Western University,Canada,,,,,52.9,68.1
+=197,224=,Kyushu University,Japan,,,,,44.4,68
+=197,264=,University of Vienna,Austria,,,,,59.8,68
+=199,201=,Queensland University of Technology (QUT),Australia,,,,,55.5,67.9
+=199,201=,Universite libre de Bruxelles,Belgium,,,,,68.9,67.9
+=201,171=,Huazhong University of Science and Technology,China (Mainland),,,,,47,67.8
+=201,209=,Technische Universität Dresden,Germany,,,,,60.9,67.8
+=201,185=,University of Virginia,United States,,,,,60.9,67.8
+=204,236=,Swedish University of Agricultural Sciences,Sweden,,,,,64.7,67.6
+=204,150=,Wuhan University,China (Mainland),,,,,34.9,67.6
+=206,222=,Julius-Maximilians-Universität Würzburg,Germany,,,,,58.2,67.5
+=206,197=,National and Kapodistrian University of Athens,Greece,,,,,62.4,67.5
+=206,196  ,Queen's University at Kingston,Canada,,,,,52.4,67.5
+=206,162  ,"The University of Newcastle, Australia (UON)",Australia,,,,,44.6,67.5
+=210,177=,Charles University,Czech Republic,,,,,68.4,67.4
+=210,204=,Dalhousie University,Canada,,,,,56.5,67.4
+=210,213  ,Oregon Health & Science University (OHSU),United States,,,,,58.6,67.4
+=210,215  ,University of York,United Kingdom,,,,,53.2,67.4
+=214,232=,Nagoya University,Japan,,,,,38.5,67.3
+=214,229=,Universidade Federal do Rio de Janeiro,Brazil,,,,,57.5,67.3
+=214,236=,Université de Strasbourg,France,,,,,56.2,67.3
+=217,262=,Iowa State University,United States,,,,,52.6,67.2
+=217,185=,Université Laval,Canada,,,,,62.2,67.2
+219,200  ,George Washington University,United States,,,,,64.8,67.1
+=220,209=,Taipei Medical University (TMU),Taiwan,,,,,38,66.9
+=220,185=,The University of Warwick,United Kingdom,,,,,59.4,66.9
+=220,185=,University College Cork,Ireland,,,,,48,66.9
+=220,224=,University of Antwerp,Belgium,,,,,76.2,66.9
+=224,217=,Tel Aviv University,Israel,,,,,55.3,66.7
+=224,204=,Università Cattolica del Sacro Cuore,Italy,,,,,49.9,66.7
+=226,207=,Nanjing University,China (Mainland),,,,,37.7,66.6
+=226,251=,University of Naples - Federico II,Italy,,,,,63.1,66.6
+=228,335=,Université Paul Sabatier Toulouse III,France,,,,,64.9,66.5
+=228,224=,University of Lisbon ,Portugal,,,,,67.7,66.5
+=228,193=,"University of Maryland, College Park",United States,,,,,52.9,66.5
+=231,251=,Colorado State University,United States,,,,,51.5,66.4
+=231,207=,Sichuan University,China (Mainland),,,,,41,66.4
+=231,255=,The University of Georgia,United States,,,,,67.3,66.4
+=231,193=,"University of Alabama, Birmingham",United States,,,,,59.1,66.4
+=231,278=,University of Guelph,Canada,,,,,49.9,66.4
+=231,217=,University of Manitoba,Canada,,,,,60,66.4
+237,182=,University of Bergen,Norway,,,,,65,66.3
+238,243=,Stellenbosch University,South Africa,,,,,72.3,66.2
+=239,388=,Peking Union Medical School,China (Mainland),,,,,49.3,66.1
+=239,216  ,Universitat de Valencia,Spain,,,,,59.6,66.1
+=239,224=,Universität Leipzig,Germany,,,,,61.1,66.1
+=239,268=,Universiti Sains Malaysia (USM),Malaysia,,,,,55.3,66.1
+=243,229=,American University of Beirut (AUB),Lebanon,,,,,69.9,66
+=243,243=,Keio University,Japan,,,,,33.7,66
+=243,204=,University of Utah,United States,,,,,56.4,66
+=246,217=,La Trobe University,Australia,,,,,50.5,65.9
+=246,251=,Mayo Medical School,United States,,,,,36.8,65.9
+=246,262=,UNESP,Brazil,,,,,52,65.9
+=249,229=,"All India Institute of Medical Sciences, New Delhi",India,,,,,57.1,65.7
+=249,268=,RWTH Aachen University,Germany,,,,,48.9,65.7
+=249,307=,Technical University of Denmark,Denmark,,,,,52.9,65.7
+=249,222=,University of Rochester,United States,,,,,51.6,65.7
+253,288=,University of Massachusetts Amherst,United States,,,,,42.4,65.6
+254,220=,University of Leicester,United Kingdom,,,,,59.8,65.5
+=255,220=,Christian-Albrechts-University zu Kiel,Germany,,,,,58.3,65.4
+=255,264=,National Yang Ming Chiao Tung University,Taiwan,,,,,39.4,65.4
+=255,209=,University of Southern Denmark (SDU),Denmark,,,,,58.8,65.4
+=258,234  ,Norwegian University of Science And Technology,Norway,,,,,60.8,65.3
+=258,255=,Université Grenoble Alpes,France,,,,,56,65.3
+=260,255=,Indiana University Bloomington,United States,,,,,60.6,65.2
+=260,236=,Umea University,Sweden,,,,,61.9,65.2
+=262,243=,Deakin University,Australia,,,,,47.7,65.1
+=262,241=,University of Massachusetts Medical School - Worcester,United States,,,,,44.1,65.1
+=262,267  ,University of Pisa,Italy,,,,,56.8,65.1
+265,296  ,University of Technology Sydney,Australia,,,,,50.8,65
+266,302=,China Agricultural University ,China (Mainland),,,,,40.6,64.9
+=267,248  ,Georgetown University,United States,,,,,53.9,64.8
+=267,236=,University of Turku,Finland,,,,,48.9,64.8
+=269,255=,University of Florence,Italy,,,,,57.9,64.7
+=269,276=,University of South Florida,United States,,,,,59.4,64.7
+=269,243=,Westfälische Wilhelms-Universität Münster ,Germany,,,,,53.6,64.7
+272,278=,Washington State University,United States,,,,,51.4,64.6
+=273,311=,Lomonosov Moscow State University,Russia,,,,,54.9,64.5
+=273,236=,University of Witwatersrand,South Africa,,,,,73.4,64.5
+=275,291=,Universiti Kebangsaan Malaysia (UKM),Malaysia,,,,,49.4,64.4
+=275,274=,University of Milano-Bicocca ,Italy,,,,,44.8,64.4
+=277,235  ,Curtin University,Australia,,,,,52.7,64.3
+=277,285=,Johannes Gutenberg Universität Mainz,Germany,,,,,61.4,64.3
+=277,241=,The Hebrew University of Jerusalem,Israel,,,,,49.6,64.3
+=277,276=,University Duesseldorf,Germany,,,,,56.8,64.3
+=281,249=,Griffith University,Australia,,,,,53.9,64.2
+=281,264=,Semmelweis University,Hungary,,,,,54.2,64.2
+=281,401-450,"University of Maryland, Baltimore",United States,,,,,67.8,64.2
+284,359=,The Hong Kong Polytechnic University,Hong Kong SAR,,,,,33.1,64.1
+=285,313=,National Cheng Kung University (NCKU),Taiwan,,,,,30.7,64
+=285,328=,Sechenov University,Russia,,,,,63.9,64
+=287,346=,Georgia Institute of Technology,United States,,,,,40.9,63.9
+=287,274=,Medizinische Universität Graz,Austria,,,,,56.5,63.9
+=287,291=,University of Granada,Spain,,,,,61,63.9
+=287,317=,University of Tsukuba,Japan,,,,,41.6,63.9
+=291,283=,Arizona State University,United States,,,,,53.2,63.8
+=291,391=,Hanyang University,South Korea,,,,,33.8,63.8
+=291,325=,University of Saskatchewan,Canada,,,,,50.5,63.8
+=294,313=,Universidade Federal de Minas Gerais      ,Brazil,,,,,57.1,63.7
+=294,302=,Università degli Studi di Pavia,Italy,,,,,51.8,63.7
+=296,302=,Universidade Federal de São Paulo,Brazil,,,,,54.6,63.6
+=296,323=,Université de Liège,Belgium,,,,,63.7,63.6
+=296,288=,Vrije Universiteit Brussel (VUB),Belgium,,,,,59.9,63.6
+299,283=,The Scripps Research Institute (TSRI),United States,,,,,28.1,63.5
+=300,278=,Hacettepe University ,Turkey,,,,,56.8,63.4
+=300,391=,King Abdullah University of Science & Technology (KAUST),Saudi Arabia,,,,,40.8,63.4
+=300,315=,Oregon State University,United States,,,,,58.7,63.4
+=300,401-450,Pohang University of Science And Technology (POSTECH),South Korea,,,,,17.5,63.4
+=300,271=,Université de Lille,France,,,,,53.5,63.4
+=300,259=,University of East Anglia (UEA),United Kingdom,,,,,52.3,63.4
+=306,271=,Flinders University,Australia,,,,,56.6,63.3
+=306,281=,University of Coimbra,Portugal,,,,,58,63.3
+=306,317=,University of Colorado Boulder,United States,,,,,47.7,63.3
+=306,285=,University of Kansas,United States,,,,,60,63.3
+310,297=,Friedrich-Alexander-Universität Erlangen-Nürnberg,Germany,,,,,52.6,63.2
+311,297=,Macquarie University,Australia,,,,,44.9,63.1
+312,348=,University of Reading,United Kingdom,,,,,49.3,63
+313,362=,Chiang Mai University,Thailand,,,,,50.8,62.9
+=314,297=,Ain Shams University ,Egypt,,,,,62.2,62.8
+=314,291=,Universität Jena,Germany,,,,,60.1,62.8
+=314,325=,University of Pretoria,South Africa,,,,,71.1,62.8
+=317,338=,Kyung Hee University,South Korea,,,,,33.6,62.7
+=317,368=,"Manipal Academy of Higher Education, Manipal, Karnataka, India",India,,,,,55.5,62.7
+319,281=,Virginia Commonwealth University,United States,,,,,60.7,62.6
+=320,501-520,KTH Royal Institute of Technology ,Sweden,,,,,47.2,62.5
+=320,348=,Martin-Luther-Universität Halle-Wittenberg,Germany,,,,,65.4,62.5
+=320,328=,University of Galway,Ireland,,,,,51.9,62.5
+=320,288=,University of Navarra,Spain,,,,,42.3,62.5
+324,334  ,Justus-Liebig-University Giessen,Germany,,,,,62.8,62.4
+325,345  ,Academy of Sciences of the Czech Republic,Czech Republic,,,,,65.9,62.3
+326,401-450,"University of California, Santa Barbara (UCSB)",United States,,,,,39.3,62.2
+=327,328=,Royal College of Surgeons in Ireland (RCSI),Ireland,,,,,44.3,62.1
+=327,346=,"The University of Tennessee, Knoxville",United States,,,,,60.4,62.1
+=327,391=,Universität für Bodenkultur Wien,Austria,,,,,60.8,62.1
+=327,291=,University of Cincinnati,United States,,,,,56.4,62.1
+=327,379=,University of Nebraska - Lincoln,United States,,,,,53.8,62.1
+=327,297=,University of Tasmania,Australia,,,,,54.6,62.1
+=333,323=,China Medical University Taichung,Taiwan,,,,,40.2,62
+=333,302=,Qatar University,Qatar,,,,,48.6,62
+=333,332=,University of Connecticut,United States,,,,,50.5,62
+=336,270  ,Dartmouth College,United States,,,,,39.4,61.9
+=336,285=,Jagiellonian University,Poland,,,,,58.9,61.9
+=336,297=,Universidade Federal do Rio Grande Do Sul ,Brazil,,,,,50.5,61.9
+=336,309=,University of Eastern Finland,Finland,,,,,51.8,61.9
+=336,354=,"University of Rome ""Tor Vergata""",Italy,,,,,47.3,61.9
+=336,340=,University of South Australia,Australia,,,,,41.5,61.9
+=342,356=,Alexandria University ,Egypt,,,,,58.5,61.8
+=342,337  ,Philipps-Universität Marburg ,Germany,,,,,51.2,61.8
+344,315=,Aristotle University of Thessaloniki,Greece,,,,,54.8,61.7
+=345,311=,Medizinische Universität Innsbruck,Austria,,,,,46.4,61.6
+=345,348=,Technion - Israel Institute of Technology,Israel,,,,,42.8,61.6
+=347,375=,Massey University,New Zealand,,,,,56,61.5
+=347,365=,Weizmann Institute of Science,Israel,,,,,27,61.5
+=349,354=,Universitas Indonesia,Indonesia,,,,,42.9,61.4
+=349,335=,University Ulm,Germany,,,,,53.5,61.4
+=351,401-450,Nanjing Agricultural University,China (Mainland),,,,,43,61.3
+=351,382  ,Università Vita-Salute San Raffaele,Italy,,,,,46.7,61.3
+=351,291=,University at Buffalo SUNY,United States,,,,,51.4,61.3
+=351,307=,University of Kentucky,United States,,,,,49.5,61.3
+=351,340=,University of Kwazulu-Natal,South Africa,,,,,61.5,61.3
+=356,391=,University of Ulsan ,South Korea,,,,,39.3,61.2
+=356,359=,University of Waterloo,Canada,,,,,45.7,61.2
+=358,209=,Tehran University of Medical Sciences,"Iran, Islamic Republic of",,,,,65.8,61.1
+=358,328=,Virginia Polytechnic Institute and State University,United States,,,,,47.8,61.1
+=360,340=,Ruhr-Universität Bochum,Germany,,,,,50.6,61
+=360,321=,Universidad Nacional de Colombia,Colombia,,,,,35.4,61
+362,317=,"Stony Brook University, State University of New York",United States,,,,,52.3,60.9
+=363,370=,Linköping University,Sweden,,,,,49.3,60.8
+=363,356=,Tulane University,United States,,,,,62.2,60.8
+=365,338=,Swansea University,United Kingdom,,,,,44.2,60.7
+=365,383=,"University of California, Riverside",United States,,,,,43.7,60.7
+=367,375=,Chang Gung University,Taiwan,,,,,45.9,60.6
+=367,348=,James Cook University,Australia,,,,,55.3,60.6
+=369,401-450,Hiroshima University,Japan,,,,,42.3,60.5
+=369,344  ,Temple University,United States,,,,,54.3,60.5
+=369,359=,Universidad de Sevilla,Spain,,,,,50,60.5
+=369,400=,University of Bath,United Kingdom,,,,,45.7,60.5
+=369,180=,"University of Colorado, Denver ",United States,,,,,49.5,60.5
+=374,374  ,University of Bari,Italy,,,,,59.7,60.4
+=374,388=,University of Wollongong,Australia,,,,,51.3,60.4
+=376,400=,Central South University,China (Mainland),,,,,35,60.3
+=376,365=,University of Genoa,Italy,,,,,55.4,60.3
+=376,340=,"University of Missouri, Columbia",United States,,,,,45.1,60.3
+=379,302=, Western Sydney University,Australia,,,,,49.4,60.2
+=379,325=,Universitat Pompeu Fabra (Barcelona),Spain,,,,,48,60.2
+=379,383=,University of Delhi,India,,,,,46.8,60.2
+=382,391=,Florida State University,United States,,,,,35.3,60
+=382,309=,Istanbul University,Turkey,,,,,56.3,60
+=384,398=,Chiba University,Japan,,,,,34.8,59.9
+=384,401-450,Huazhong Agricultural University,China (Mainland),,,,,46.5,59.9
+=384,365=,Masaryk University,Czech Republic,,,,,53.4,59.9
+=384,370=,Verona University,Italy,,,,,58.2,59.9
+388,375=,Xiamen University,China (Mainland),,,,,34.2,59.8
+=389,401-450,Northeastern University,United States,,,,,45.3,59.7
+=389,401-450,Université Paris-Est Créteil,France,,,,,54.6,59.7
+=391,388=,Kobe University,Japan,,,,,39.3,59.6
+=391,383=,Tampere University,Finland,,,,,53.1,59.6
+=391,356=,United Arab Emirates University,United Arab Emirates,,,,,53.7,59.6
+=394,397  ,City University of New York,United States,,,,,56.9,59.5
+=394,401-450,Tecnológico de Monterrey,Mexico,,,,,46.3,59.5
+=394,321=,University of Tartu,Estonia,,,,,54.3,59.5
+397,375=,Medical College of Wisconsin,United States,,,,,53.4,59.4
+398,451-500,Chung-Ang University (CAU),South Korea,,,,,24.6,59.3
+=399,451-500,Northwest Agriculture and Forestry University,China (Mainland),,,,,42.1,59.2
+=399,332=,Wake Forest University,United States,,,,,47.1,59.2
+401-450,391=,Aga Khan University,Pakistan,,,,,,68.2
+401-450,501-520,Airlangga University,Indonesia,,,,,,38.3
+401-450,451-500,Ajou University ,South Korea,,,,,,23.9
+401-450,401-450,Ankara Üniversitesi,Turkey,,,,,,58.5
+401-450,451-500,Beijing Normal University ,China (Mainland),,,,,,26.5
+401-450,451-500,Ben-Gurion University of The Negev,Israel,,,,,,46.5
+401-450,401-450,Carnegie Mellon University,United States,,,,,,32
+401-450,,Chonnam National University,South Korea,,,,,,32.4
+401-450,451-500,Chungnam National University,South Korea,,,,,,36.6
+401-450,,City University of Hong Kong,Hong Kong SAR,,,,,,24.8
+401-450,501-520,Czech University of Life Sciences in Prague,Czech Republic,,,,,,58.9
+401-450,401-450,Delft University of Technology,Netherlands,,,,,,41.3
+401-450,401-450,Durham University,United Kingdom,,,,,,50.6
+401-450,451-500,Ewha Womans University,South Korea,,,,,,29.8
+401-450,370=,Florida International University,United States,,,,,,59.6
+401-450,451-500,Gazi Üniversitesi,Turkey,,,,,,56.2
+401-450,401-450,Indiana University–Purdue University Indianapolis,United States,,,,,,45.7
+401-450,401-450,Jordan University of Science & Technology,Jordan,,,,,,49.2
+401-450,401-450,Kansas State University ,United States,,,,,,54.5
+401-450,383=,Kaohsiung Medical University,Taiwan,,,,,,34.1
+401-450,451-500,Kasetsart University,Thailand,,,,,,45.8
+401-450,362=,Lancaster University,United Kingdom,,,,,,48.2
+401-450,451-500,Lebanese University,Lebanon,,,,,,41
+401-450,381  ,Mansoura University,Egypt,,,,,,55
+401-450,,Pusan National University,South Korea,,,,,,30.8
+401-450,,Quaid-i-Azam University,Pakistan,,,,,,46.2
+401-450,,"Sup Agro, Montpellier",France,,,,,,72.6
+401-450,451-500,Technische Universität Berlin (TU Berlin),Germany,,,,,,41.4
+401-450,401-450,Thomas Jefferson University,United States,,,,,,50.3
+401-450,401-450,Universidad de Antioquia,Colombia,,,,,,41.2
+401-450,348=,Universidade de Santiago de Compostela,Spain,,,,,,49
+401-450,317=,Universidade Nova de Lisboa,Portugal,,,,,,57.1
+401-450,362=,Universität Duisburg-Essen,Germany,,,,,,49.4
+401-450,451-500,Université de Nantes,France,,,,,,52.8
+401-450,398=,Université Sorbonne Paris Nord,France,,,,,,52.1
+401-450,,"University of Agriculture, Faisalabad ",Pakistan,,,,,,43.1
+401-450,348=,University of Belgrade,Serbia,,,,,,59.4
+401-450,401-450,University of Debrecen,Hungary,,,,,,54.8
+401-450,400=,University of Hawaiʻi at Mānoa,United States,,,,,,52.7
+401-450,451-500,University of Jordan,Jordan,,,,,,44.5
+401-450,368=,University of New Mexico,United States,,,,,,53.9
+401-450,401-450,University of Parma,Italy,,,,,,48.9
+401-450,401-450,University of South Carolina,United States,,,,,,57.9
+401-450,401-450,University of St Andrews,United Kingdom,,,,,,44.4
+401-450,451-500,University of Surrey,United Kingdom,,,,,,44.4
+401-450,401-450,University of Sussex,United Kingdom,,,,,,48
+401-450,401-450,University of Szeged,Hungary,,,,,,47.1
+401-450,401-450,University of the Philippines,Philippines,,,,,,61.5
+401-450,370=,University of Zagreb,Croatia,,,,,,59.4
+401-450,400=,Yeshiva University,United States,,,,,,57.5
+451-500,501-520,Bangor University,United Kingdom,,,,,,50.1
+451-500,501-520,Beijing University of Chinese Medicine,China (Mainland),,,,,,21.4
+451-500,451-500,Drexel University,United States,,,,,,45.3
+451-500,,Gadjah Mada University,Indonesia,,,,,,37
+451-500,,Harbin Institute of Technology,China (Mainland),,,,,,24.6
+451-500,,Imam Abdulrahman Bin Faisal University (IAU) (formerly UNIVERSITY OF DAMMAM),Saudi Arabia,,,,,,45.5
+451-500,,Jeonbuk National University,South Korea,,,,,,28.7
+451-500,401-450,Jilin University,China (Mainland),,,,,,29.2
+451-500,401-450,Khon Kaen University,Thailand,,,,,,46.3
+451-500,,"KIT, Karlsruhe Institute of Technology",Germany,,,,,,42.2
+451-500,,Konkuk University ,South Korea,,,,,,31.3
+451-500,501-520,Liverpool John Moores University,United Kingdom,,,,,,48.5
+451-500,451-500,Makerere University,Uganda,,,,,,65.4
+451-500,401-450,Mashhad University of Medical Sciences,"Iran, Islamic Republic of",,,,,,45.9
+451-500,,Norwegian University of Life Sciences (UMB),Norway,,,,,,52.5
+451-500,451-500,Pontificia Universidad Javeriana,Colombia,,,,,,48
+451-500,451-500,Postgraduate Institute of Medical Education & Research Chandigarh,India,,,,,,46.9
+451-500,,Prince of Songkla University,Thailand,,,,,,44.6
+451-500,451-500,Rice University,United States,,,,,,29
+451-500,451-500,"Royal Veterinary College, University of London",United Kingdom,,,,,,51.8
+451-500,401-450,Shandong University,China (Mainland),,,,,,30.4
+451-500,379=,"St. George's, University of London",United Kingdom,,,,,,61.5
+451-500,,Sultan Qaboos University,Oman,,,,,,50.5
+451-500,401-450,Tongji University,China (Mainland),,,,,,29.1
+451-500,,Universidad de Concepción,Chile,,,,,,45.2
+451-500,451-500,Universidad de la República (Udelar),Uruguay,,,,,,35.9
+451-500,451-500,Universidad de Zaragoza,Spain,,,,,,50.5
+451-500,451-500,Universidad Nacional de La Plata (UNLP),Argentina,,,,,,31.7
+451-500,401-450,Universidad Peruana Cayetano Heredia (UPCH),Peru,,,,,,59.5
+451-500,451-500,Universidade de Brasília,Brazil,,,,,,35.4
+451-500,451-500,Università degli Studi di Perugia,Italy,,,,,,51.1
+451-500,451-500,Universität des Saarlandes,Germany,,,,,,55.2
+451-500,501-520,Universitat Politècnica de València,Spain,,,,,,44.5
+451-500,451-500,Universität Regensburg,Germany,,,,,,45.1
+451-500,401-450,Université Côte d\'Azur,France,,,,,,46
+451-500,401-450,Université de Lorraine,France,,,,,,58.9
+451-500,451-500,Université de Rennes 1 (University of Rennes),France,,,,,,47.7
+451-500,451-500,"University of California, Santa Cruz",United States,,,,,,34.2
+451-500,401-450,University of Ljubljana,Slovenia,,,,,,50.4
+451-500,451-500,University of Messina (UniME),Italy,,,,,,50.9
+451-500,401-450,University of Mississippi,United States,,,,,,52.2
+451-500,451-500,University of Modena and Reggio Emilia,Italy,,,,,,45.7
+451-500,451-500,University of Murcia,Spain,,,,,,49.3
+451-500,401-450,University of Oklahoma,United States,,,,,,49.5
+451-500,401-450,University of Oulu,Finland,,,,,,45.8
+451-500,451-500,University of Plymouth,United Kingdom,,,,,,45.1
+451-500,451-500,University of Strathclyde,United Kingdom,,,,,,50.6
+451-500,451-500,University of Tehran,"Iran, Islamic Republic of",,,,,,43.5
+451-500,451-500,University of the Basque Country,Spain,,,,,,51.5
+451-500,,Warsaw University of Life Sciences – SGGW (WULS-SGGW),Poland,,,,,,56.2
+451-500,383=,Wayne State University,United States,,,,,,46.4
+451-500,401-450,Xi’an Jiaotong University,China (Mainland),,,,,,31.5
+501-550,401-450,Aalborg University,Denmark,,,,,,45.3
+501-550,501-520,Auckland University of Technology (AUT),New Zealand,,,,,,40.2
+501-550,,Banaras Hindu University,India,,,,,,38.5
+501-550,451-500,Catania University,Italy,,,,,,45.9
+501-550,,China Pharmaceutical University,China (Mainland),,,,,,28.1
+501-550,451-500,École Normale Supérieure de Lyon,France,,,,,,37.3
+501-550,,Eötvös Loránd University,Hungary,,,,,,39.2
+501-550,401-450,Instituto Politécnico Nacional (IPN),Mexico,,,,,,28.5
+501-550,,Jiangnan University,China (Mainland),,,,,,37.7
+501-550,501-520,Keele University ,United Kingdom,,,,,,45.4
+501-550,451-500,King Saud bin Abdulaziz University For Health Sciences,Saudi Arabia,,,,,,49.8
+501-550,401-450,Kyungpook National University,South Korea,,,,,,36.8
+501-550,501-520,Loughborough University,United Kingdom,,,,,,39.2
+501-550,451-500,Loyola University Chicago,United States,,,,,,48
+501-550,,Medicine University in Cluj Napoca,Romania,,,,,,45.8
+501-550,,Nagasaki University,Japan,,,,,,53.4
+501-550,451-500,Nanjing Medical University,China (Mainland),,,,,,29.8
+501-550,,Nankai University,China (Mainland),,,,,,22.4
+501-550,,National Tsing Hua University,Taiwan,,,,,,21.3
+501-550,451-500,Okayama University,Japan,,,,,,42.4
+501-550,501-520,Palacký University Olomouc,Czech Republic,,,,,,50.7
+501-550,451-500,RMIT University,Australia,,,,,,40.1
+501-550,,RUDN University,Russia,,,,,,46.9
+501-550,,Saint Petersburg State University,Russia,,,,,,40.2
+501-550,451-500,Shiraz University of Medical Sciences,"Iran, Islamic Republic of",,,,,,45.8
+501-550,501-520,Simon Fraser University,Canada,,,,,,45.4
+501-550,451-500,South China University of Technology,China (Mainland),,,,,,30.6
+501-550,,St. Louis University,United States,,,,,,40.9
+501-550,,Texas Tech University,United States,,,,,,51.3
+501-550,,Tianjin University,China (Mainland),,,,,,29.8
+501-550,,Tokyo University of Agriculture and Technology ,Japan,,,,,,38.8
+501-550,,Ulster University,United Kingdom,,,,,,54.8
+501-550,,Universidad de Córdoba - España,Spain,,,,,,47.2
+501-550,,Universidad de los Andes,Colombia,,,,,,30.3
+501-550,,Universidad de Santiago de Chile (USACH),Chile,,,,,,36.7
+501-550,,Universidad Nacional de Córdoba - UNC,Argentina,,,,,,36.8
+501-550,451-500,Universidade Federal de Santa Catarina ,Brazil,,,,,,34.8
+501-550,,Universidade Federal do Paraná - UFPR,Brazil,,,,,,43.4
+501-550,,Universiti Teknologi MARA - UiTM,Malaysia,,,,,,44.5
+501-550,501-520,University of Crete,Greece,,,,,,46.6
+501-550,401-450,University of Ibadan,Nigeria,,,,,,65
+501-550,,University of Limerick,Ireland,,,,,,41.5
+501-550,,University of Minho,Portugal,,,,,,39.6
+501-550,501-520,University of Oregon,United States,,,,,,30.2
+501-550,451-500,University of Texas Dallas,United States,,,,,,35.9
+501-550,451-500,University of Tromsø The Arctic University of Norway,Norway,,,,,,50.1
+501-550,,University of Twente,Netherlands,,,,,,39.8
+501-550,501-520,University of Warsaw ,Poland,,,,,,41.1
+501-550,,West Virginia University,United States,,,,,,43.5

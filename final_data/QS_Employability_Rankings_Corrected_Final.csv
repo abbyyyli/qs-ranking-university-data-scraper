@@ -1,0 +1,551 @@
+nid,Rank,University,Country,City,Score,Partnerships with Employers,Graduate Employment Rate,Employer-Student Connections,Employer Reputation
+294850,1,Massachusetts Institute of Technology (MIT) ,United States,Cambridge,100.0,100,79.3,96,100
+297282,2,Stanford University,United States,Stanford,99.3,99.4,73.4,96.8,100
+294569,3,"University of California, Los Angeles (UCLA)",United States,Los Angeles,99.1,96.8,93.2,83.6,99.5
+296815,4,The University of Sydney,Australia,Sydney,98.1,99.2,91.5,99.6,94.7
+294270,5,Harvard University,United States,Cambridge,97.7,94.5,90,76.6,100
+297235,6,Tsinghua University,China (Mainland),Beijing,96.9,99.7,81,99.6,98.8
+294654,7,University of Oxford,United Kingdom,Oxford,96.7,96.7,64.5,86.4,100
+294861,8,The University of Melbourne,Australia,Parkville,94.5,91.6,90,76,97.6
+294514,9,Cornell University,United States,Ithaca,94.4,94.9,73.4,88.3,91.4
+294256,10,The University of Hong Kong,Hong Kong SAR,Hong Kong,94.2,99.4,99.8,93.8,79.5
+294561,11,University of Cambridge,United Kingdom,Cambridge,94.0,83.1,68.7,90.6,100
+3291252,12,Institut Polytechnique de Paris,France,Palaiseau Cedex,93.7,91.7,100,85.2,98.3
+294536,13,University of Chicago,United States,Chicago,92.6,99.8,100,45,91.8
+297177,14,Yale University,United States,New Haven,92.2,70.6,86.8,86.8,99.9
+297490,15,Princeton University,United States,Princeton,90.5,67.1,90.5,83.6,97.8
+294786,16,New York University (NYU),United States,New York City,90.2,89.7,-,79.7,95.1
+294798,17,National University of Singapore (NUS),Singapore,Singapore,90.0,93.1,-,45.3,98.4
+294519,18,Columbia University,United States,New York City,89.9,94.1,-,57.6,97.9
+297569,19,University of Pennsylvania,United States,Philadelphia,89.8,72.3,95.1,71.9,92.8
+294014,20,UCL,United Kingdom,London,89.6,90.2,61.4,60.3,98.7
+297242,21,University of Toronto,Canada,Toronto,89.5,99.7,-,49.1,96
+294432,22,ETH Zurich,Switzerland,Zürich,89.0,87.1,99.2,49.5,96.3
+294606,23,Peking University,China (Mainland),Beijing,88.8,71.5,76.6,86.9,98.5
+297191,24,University of Waterloo,Canada,Waterloo,88.7,98.5,86.2,88,75.5
+297246,25,The University of Tokyo,Japan,Tokyo,87.8,91,74.6,-,99.5
+297267,26,Tecnológico de Monterrey,Mexico,Monterrey,87.3,76.2,93,89.3,85.3
+294857,27,University of Michigan-Ann Arbor,United States,Ann Arbor,85.6,99.8,65.5,-,91.2
+294490,28,Duke University,United States,Durham,84.8,96.7,70.9,-,77.7
+294767,29,Northwestern University,United States,Evanston,84.0,92.1,85.9,46,72.5
+294788,=29,The University of New South Wales (UNSW Sydney),Australia,Sydney,84.5,87.3,64.6,-,94.3
+294030,30,Imperial College London,United Kingdom,London,82.8,95.9,-,-,99.8
+294549,31,Pontificia Universidad Católica de Chile (UC),Chile,Santiago,82.3,78.4,89.1,-,94.6
+294367,33,Fudan University,China (Mainland),Shanghai,81.8,85.6,71.2,80.2,91.4
+297403,34,Seoul National University,South Korea,Seoul,80.9,72.6,-,-,95.2
+297123,35,Zhejiang University,China (Mainland),Hangzhou,80.4,99,63,99.7,86.6
+297485,36,Purdue University,United States,West Lafayette,79.8,94.4,84.2,98.3,66.7
+297196,37,Waseda University,Japan,Tokyo,78.0,65.1,60.8,83.9,87.7
+294555,38,Carnegie Mellon University,United States,Pittsburgh,76.8,96.6,-,84.3,72.8
+294502,39,Delft University of Technology,Netherlands,Delft,76.2,82.5,74.8,67.5,86.4
+294349,40,Georgia Institute of Technology,United States,Atlanta,75.7,95.9,-,91.6,76.7
+297378,41,Shanghai Jiao Tong University,China (Mainland),Shanghai,74.8,80.9,79.8,-,88.7
+294871,42,The University of Manchester,United Kingdom,Manchester,73.9,74.1,-,-,97.5
+294184,=43,Johns Hopkins University,United States,Baltimore,73.8,94.8,79.2,-,48.9
+294853,=43,Politecnico di Milano,Italy,Milan,73.8,96.1,99.3,-,82.5
+297187,=43,Western University,Canada,London,73.8,88.6,77.7,-,61.4
+294164,46,"KIT, Karlsruhe Institute of Technology",Germany,Karlsruhe,72.6,89.1,85.5,-,84.3
+297257,47,University of Texas at Austin,United States,Austin,72.5,74.5,68.2,-,80.6
+294016,48,The London School of Economics and Political Science (LSE),United Kingdom,London,72.2,-,-,96,99.7
+294478,=49,The University of Edinburgh,United Kingdom,Edinburgh,71.6,79.5,-,55.3,93.9
+294587,=49,University of Bristol,United Kingdom,Bristol,71.6,73.9,60.1,60.9,82.5
+294804,51,National Taiwan University (NTU),Taiwan,Taipei City,71.4,53.4,-,-,78
+294111,=52,Kyoto University,Japan,Kyoto,70.6,81.8,-,-,94.6
+294081,=52,University of Leeds,United Kingdom,Leeds,70.6,83,81.2,62.3,77.4
+294848,54,Monash University,Australia,Melbourne,70.4,84.1,-,-,87.7
+294584,55,Brown University,United States,Providence,69.2,51.5,85.5,64.8,53.5
+294156,56,Keio University,Japan,Tokyo,69.1,55.2,71.2,-,78.7
+295060,57,University of Illinois at Urbana-Champaign,United States,Champaign,69.0,78.3,-,95.4,56.1
+294649,58,RWTH Aachen University,Germany,Aachen,68.2,94.7,-,-,94.7
+297286,59,University of Southern California,United States,Los Angeles,67.8,72.2,-,61.2,54.7
+294836,60,University of North Carolina at Chapel Hill,United States,Chapel Hill,67.6,96.9,-,72.3,44.3
+297194,61,University of Washington,United States,Seattle,67.4,76.5,-,69.4,50.1
+297273,62,University of Technology Sydney,Australia,Haymarket,67.1,75.6,74,70.4,77.3
+294562,=63,California Institute of Technology (Caltech),United States,Pasadena,66.9,91.3,-,67.7,83.1
+297460,=63,The University of Queensland,Australia,Brisbane City,66.9,91.6,-,-,78.3
+297183,=63,University of Wisconsin-Madison,United States,Madison,66.9,69.5,84.1,-,50.1
+294758,66,University of Nottingham,United Kingdom,Nottingham,66.0,93,-,57.9,71.9
+297248,67,Tokyo Institute of Technology (Tokyo Tech),Japan,Tokyo,65.8,76.7,75.7,79.9,82.1
+294029,=68,King's College London,United Kingdom,London,65.6,46.2,83.9,50.8,84.6
+294619,=68,The University of Auckland,New Zealand,Auckland,65.6,56.6,97.8,-,57.4
+297484,70,KTH Royal Institute of Technology ,Sweden,Stockholm,65.5,57.1,81.2,78.4,65
+294257,71,The Hong Kong Polytechnic University,Hong Kong SAR,Hong Kong SAR,65.4,88.8,95.6,96.5,40.1
+397503,72,Université PSL,France,Paris,65.1,75.9,-,-,98.4
+297050,73,American University of Beirut (AUB),Lebanon,Beirut ,64.9,46.6,98.8,71,47.9
+297499,74,RMIT University,Australia,Melbourne,64.7,88,93.1,51.5,58.1
+294121,75,Korea University,South Korea,Seoul,64.5,47.4,-,-,89.3
+297628,76,Osaka University,Japan,Osaka City,64.3,86.8,67.9,89.9,69.6
+294124,=77,KAIST - Korea Advanced Institute of Science & Technology,South Korea,Daejeon,64.1,76.4,73,-,81.1
+297197,=77,The University of Warwick,United Kingdom,Coventry,64.1,-,-,62,92.5
+294616,79,Australian National University (ANU),Australia,Canberra,62.9,62.6,-,55.3,77.6
+294593,80,Boston University,United States,Boston,62.2,51.3,75.4,-,56.2
+294863,=81,McMaster University,Canada,Hamilton,61.9,88.5,82.5,57.2,48.1
+294394,=81,University of Florida,United States,Gainesville,61.9,99.2,-,66.8,39.7
+294540,=83,Chalmers University of Technology,Sweden,Gothenburg,61.5,85.2,87.6,88.8,60.3
+294835,=83,Universidad Nacional Autónoma de México  (UNAM),Mexico,Mexico City,61.5,-,-,50.3,88.5
+294741,85,The Ohio State University,United States,Columbus,61.3,84.1,-,77.5,56.8
+297129,86,Yonsei University,South Korea,Seoul,61.2,51.7,-,-,84.2
+294613,=87,Universitat de Barcelona,Spain,Barcelona,61.1,99.5,74.6,-,39
+294492,=87,University College Dublin,Ireland,Dublin,61.1,77.7,76,45.7,41.6
+294527,89,City University of Hong Kong,Hong Kong SAR,,60.5,90.2,98.9,90.2,31.6
+294355,90,Georgetown University,United States,Washington D.C.,60.4,-,73.4,87.2,44.7
+294491,91,"Trinity College Dublin, The University of Dublin",Ireland,Dublin,60.1,-,94.9,-,45.8
+294832,92,Nagoya University,Japan,Nagoya,59.9,86.6,79.3,97.6,42.2
+294609,93,University of Bath,United Kingdom,Bath,59.6,75.5,-,55.3,67.2
+296465,94,Universidad Politécnica de Madrid (UPM),Spain,Madrid,59.4,92.9,-,59,50.4
+294558,95,University of Cape Town,South Africa,Cape Town,59.1,-,90.2,64.8,39
+294273,96,Hanyang University,South Korea,Seoul,58.8,81.3,-,54.9,68.2
+294595,97,Alma Mater Studiorum - University of Bologna,Italy,Bologna,58.2,98.8,-,-,43.9
+293982,98,Macquarie University,Australia,Sydney,57.9,69.2,91.6,-,46.4
+294639,99,University of Alberta,Canada,Edmonton,57.6,79.3,62.9,56.2,44.7
+294009,100,Loughborough University,United Kingdom,Loughborough,57.4,61.7,78.9,97.9,60.1
+294631,101-110,Arizona State University,United States,Tempe,,97.9,-,99.3,30.9
+294243,101-110,Indian Institute of Technology Bombay (IITB),India,Mumbai,,56.3,-,-,73.9
+294837,101-110,North Carolina State University,United States,Raleigh,,92.3,85.9,98.4,-
+297462,101-110,Queen's University at Kingston,Canada,Kingston,,47.7,-,-,64.3
+396462,101-110,Sorbonne University,France,Paris,,67.3,75.5,-,44.7
+297467,101-110,Sungkyunkwan University (SKKU),South Korea,Suwon,,51.9,89.1,-,73.3
+294011,101-110,Universidad de los Andes,Colombia,Bogotá,,-,-,55.5,83.9
+294852,101-110,University of Minnesota Twin Cities,United States,Minneapolis,,93.6,-,58.8,27.3
+297288,101-110,University of Southampton,United Kingdom,Southampton,,72.8,72.7,66.7,49.8
+297205,101-110,University of Virginia,United States,Charlottesville,,48.3,-,87.3,37.9
+294488,111-120,Durham University,United Kingdom,Durham,,44.1,-,44.5,87.2
+294971,111-120,Huazhong University of Science and Technology,China (Mainland),Wuhan,,96.7,72.6,100,-
+297459,111-120,Queensland University of Technology (QUT),Australia,Brisbane,,85.6,-,91,42.3
+297489,111-120,Sapienza University of Rome,Italy,Rome,,74.1,-,-,35.6
+297233,111-120,Technical University of Darmstadt,Germany,Darmstadt,,50.3,76.5,74.1,59.7
+297266,111-120,Technische Universität Berlin (TU Berlin),Germany,Berlin,,46.8,-,77.4,69.4
+297256,111-120,Texas A&M University,United States,College Station,,73.8,-,51.3,53.3
+297188,111-120,The University of Western Australia,Australia,Perth,,56.4,-,-,56.4
+294597,111-120,University of Birmingham,United Kingdom,Birmingham,,51.2,-,47.8,72.2
+294793,111-120,University of Navarra,Spain,Pamplona,,66.6,-,68.9,70.1
+297193,111-120,Washington University in St. Louis,United States,St. Louis,,81.4,-,97.3,-
+296996,111-120,Wuhan University,China (Mainland),Wuhan,,79.3,-,99.9,43.9
+294880,121-130,Complutense University of Madrid,Spain,Madrid,,46.2,-,-,59
+294842,121-130,Lomonosov Moscow State University,Russia,Moscow,,-,-,-,76
+293996,121-130,Lund University,Sweden,Lund,,-,-,60.2,54.3
+297228,121-130,Politecnico di Torino,Italy,Turin,,75.8,97.6,-,47.8
+297260,121-130,Tel Aviv University,Israel,Tel Aviv,,45.3,91.9,-,-
+294553,121-130,Universitat Politècnica de Catalunya · BarcelonaTech (UPC),Spain,Barcelona,,99.1,98.9,-,28.8
+294567,121-130,"University of California, San Diego (UCSD)",United States,San Diego,,76,-,61.9,56.2
+294045,121-130,University of Liverpool,United Kingdom,Liverpool,,72,80.9,52.6,34.6
+294258,131-140,Hokkaido University,Japan,Sapporo,,62.2,63.9,98.1,50.3
+294242,131-140,Indian Institute of Technology Delhi (IITD),India,New Delhi,,-,-,63.8,66
+294103,131-140,Kyushu University,Japan,Fukuoka City,,77.2,-,88,52.2
+294840,131-140,Ludwig-Maximilians-Universität München,Germany,Munich,,47.7,-,-,77.4
+297471,131-140,The University of Sheffield,United Kingdom,Sheffield,,49.6,72.7,59.7,55.1
+297244,131-140,Tongji University,China (Mainland),Shanghai,,95.8,75.9,98.2,-
+294877,131-140,Universiti Malaya (UM),Malaysia,Kuala Lumpur,,-,67.5,-,70.3
+294574,131-140,University of Calgary,Canada,Calgary,,70.9,66.5,-,41.2
+294503,131-140,University of Delaware,United States,Newark,,90.9,72.8,94.2,-
+294322,131-140,University of Glasgow,United Kingdom,Glasgow,,52.1,76.9,-,61.3
+294648,141-150,Aarhus University,Denmark,Aarhus,,87.7,-,-,37.5
+294531,141-150,Chulalongkorn University,Thailand,Bangkok,,-,-,-,52
+3740459,141-150,National Yang Ming Chiao Tung University,Taiwan,Hsinchu City,,53.4,-,-,62.2
+297255,141-150,Thammasat University,Thailand,Bangkok,,-,78.4,47.8,29.1
+294523,141-150,Universidad Nacional de Colombia,Colombia,Bogotá,,-,98.8,-,86.3
+294535,141-150,Universidad de Chile,Chile,Santiago,,-,-,-,91.2
+297816,141-150,University of Amsterdam,Netherlands,Amsterdam,,56.2,-,-,52.8
+294516,141-150,University of Copenhagen,Denmark,Copenhagen,,60.3,-,-,41.2
+297284,141-150,University of St.Gallen (HSG),Switzerland,St. Gallen,,-,-,46.3,61.8
+294854,141-150,Università Cattolica del Sacro Cuore,Italy,Milan,,78.6,-,77.5,34.1
+294626,151-160,Ateneo de Manila University,Philippines,Quezon City,,-,98.6,55.3,36.3
+294495,151-160,Drexel University,United States,Philadelphia,,72.6,90.2,86.1,-
+294457,151-160,Erasmus University Rotterdam ,Netherlands,Rotterdam,,-,-,-,55.4
+294259,151-160,Hitotsubashi University,Japan,Kunitachi City,,-,-,90.8,70.1
+294238,151-160,Indian Institute of Technology Madras (IITM),India,Chennai,,-,100,-,45.4
+294235,151-160,Indiana University Bloomington,United States,Bloomington,,-,80.2,57.7,-
+294781,151-160,Newcastle University,United Kingdom,Newcastle upon Tyne,,45.8,-,62,66.1
+293648,151-160,Tokyo University of Science,Japan,Kagurazaka,,-,99.9,78.1,-
+294612,151-160,Universitat Autònoma de Barcelona,Spain,Barcelona,,90.4,83.7,-,29.6
+294169,151-160,University of Kansas,United States,Lawrence,,94.4,-,93.3,-
+297023,161-170,Beijing Institute of Technology,China (Mainland),Beijing,,87.5,-,99.4,-
+294505,161-170,Dartmouth College,United States,Hanover,,-,-,83.4,27.3
+295144,161-170,Lahore University of Management Sciences (LUMS),Pakistan,Lahore,,-,93.8,74.2,42.9
+294826,161-170,Nanjing University,China (Mainland),Nanjing,,-,74.4,99.1,-
+294814,161-170,National Cheng Kung University (NCKU),Taiwan,Tainan City,,44.5,-,98.4,46
+297461,161-170,Queen's University Belfast,United Kingdom,Belfast,,66.3,70.3,75.3,31
+296463,161-170,Universidad Carlos III de Madrid (UC3M),Spain,Madrid,,74.5,76.2,-,44.7
+294246,161-170,University of Illinois at Chicago (UIC),United States,Chicago,,-,-,88,29.3
+297578,161-170,Università di Padova,Italy,Padova,,99.4,-,-,28.3
+297178,161-170,Xi’an Jiaotong University,China (Mainland),Xi'an,,-,73.2,93.1,28.4
+294263,171-180,Aalto University,Finland,Espoo,,-,-,-,42.7
+296473,171-180,Bauman Moscow State Technical University,Russia,Moscow,,-,77,98.1,45.8
+297601,171-180,Lehigh University,United States,Bethlehem,,67.9,70.3,68.3,-
+297283,171-180,Saint Petersburg State University,Russia,Saint Petersburg,,-,-,71.6,-
+294267,171-180,The Hebrew University of Jerusalem,Israel,Jerusalem,,-,-,-,28
+294644,171-180,The University of Adelaide,Australia,Adelaide,,68.5,-,-,38.1
+294630,171-180,The University of Arizona,United States,Tucson,,69.4,-,57.5,-
+297231,171-180,Tufts University,United States,Medford,,44.6,-,95.9,-
+293896,171-180,Universidad Pontificia Comillas,Spain,Madrid,,-,99.3,-,44
+294571,171-180,"University of California, Davis",United States,Davis,,69.8,-,-,41.5
+294539,181-190,Charles University,Czechia,Prague,,-,98.3,-,32.8
+294463,181-190,Ecole des Ponts ParisTech,France,Paris,,-,76.3,63.1,49.3
+293985,181-190,Maastricht University ,Netherlands,Maastricht,,-,86.8,-,26
+297005,181-190,Renmin (People's) University of China,China (Mainland),Beijing,,-,-,90.5,32.3
+293977,181-190,Universidad Autónoma de Madrid,Spain,Madrid,,62.1,-,-,53.9
+297561,181-190,University of Pittsburgh,United States,Pittsburgh,,67.6,-,65.1,-
+297275,181-190,University of Surrey,United Kingdom,Guildford,,94.7,-,-,25.7
+297209,181-190,University of Vienna,Austria,Vienna,,-,-,-,42.3
+297198,181-190,University of Warsaw ,Poland,Warsaw,,-,-,57.8,41.6
+297181,181-190,University of Wollongong,Australia,Wollongong,,61,73.9,-,34.6
+294557,191-200,Cardiff University,United Kingdom,Cardiff,,-,80.9,-,44.3
+294494,191-200,Dublin City University,Ireland,Dublin,,-,98.7,-,27.3
+294090,191-200,Lancaster University,United Kingdom,"Lancaster,",,-,72.2,68.9,30.3
+293867,191-200,Taylor's University,Malaysia,Subang Jaya,,-,99.1,57.4,57.7
+297497,191-200,Universitat Pompeu Fabra (Barcelona),Spain,Barcelona,,65.2,-,-,-
+294053,191-200,University of Limerick,Ireland,Limerick,,44.1,84.5,72.7,26.3
+294761,191-200,University of Notre Dame,United States,Notre Dame,,-,-,-,36.2
+297480,191-200,University of South Florida,United States,Tampa,,94.5,-,69.6,-
+297234,191-200,University of Tsukuba,Japan,Tsukuba City,,54.9,74.6,97.8,-
+297182,191-200,University of Witwatersrand,South Africa,Johannesburg,,-,-,-,27.6
+294843,191-200,Université de Montréal ,Canada,Montreal,,57.7,-,-,49.7
+295109,201-250,Al-Farabi Kazakh National University,Kazakhstan,Almaty,,-,90.6,63.8,53.2
+294627,201-250,Aston University,United Kingdom,Birmingham,,46.8,-,60.4,31.7
+297652,201-250,Bogaziçi Üniversitesi,Turkey,Istanbul,,-,-,-,36.5
+294585,201-250,Brno University of Technology,Czechia,Brno,,-,99.9,-,29
+294507,201-250,Curtin University,Australia,Perth,,56.5,-,-,44.8
+294358,201-250,George Washington University,United States,Washington D.C.,,-,-,-,29.3
+295115,201-250,HSE University,Russia,Moscow,,-,-,47.3,-
+294260,201-250,Hiroshima University,Japan,Higashihiroshima City,,57.3,-,97.5,-
+294252,201-250,Humboldt-Universität zu Berlin,Germany,Berlin,,-,-,-,60.7
+294239,201-250,Indian Institute of Technology Kharagpur (IIT-KGP),India,Kharagpur,,-,-,65.6,36
+294196,201-250,Jagiellonian University,Poland,Krakow,,-,79.4,-,34.4
+295119,201-250,MGIMO University,Russia,Moscow,,-,100,-,-
+297271,201-250,National Taiwan University of Science and Technology (Taiwan Tech),Taiwan,Taipei City,,-,81.6,62.7,-
+294624,201-250,National Technical University of Athens,Greece,Athens,,-,-,-,37.5
+294773,201-250,Northeastern University,United States,Boston,,-,-,61.5,-
+297501,201-250,Pohang University of Science And Technology (POSTECH),South Korea,Pohang ,,-,-,-,50.8
+294548,201-250,Pontificia Universidad Catolica del Peru,Peru,Lima,,-,76.7,-,51.1
+296872,201-250,Pontificia Universidad Javeriana,Colombia,Bogotá,,-,-,-,63.3
+294022,201-250,Queen Mary University of London,United Kingdom,London,,49.7,-,-,36.7
+293864,201-250,Riga Technical University,Latvia,Riga,,-,-,95.8,-
+297500,201-250,Ritsumeikan University,Japan,Kyoto,,-,81,92.8,29.3
+297386,201-250,Shandong University,China (Mainland),Jinan,,-,-,99.8,-
+297276,201-250,"Stony Brook University, State University of New York",United States,Stony Brook,,67.4,-,66.7,-
+296998,201-250,Sun Yat-sen University,China (Mainland),Guangzhou,,-,-,62,-
+297263,201-250,Technische Universität Dresden,Germany,Dresden,,53.9,-,-,56.4
+294620,201-250,The American University in Cairo,Egypt,Cairo,,-,66.9,67,26.5
+295828,201-250,UCSI University,Malaysia,Kuala Lumpur,,-,81.2,-,43.3
+294754,201-250,Universidade Nova de Lisboa,Portugal,Lisbon,,53.6,68.9,-,-
+297213,201-250,Universitat Politecnica de Valencia,Spain,València,,93.6,-,-,-
+297214,201-250,Universitat de Valencia,Spain,València,,88.5,-,-,-
+294581,201-250,Universite libre de Bruxelles,Belgium,Brussels,,-,-,-,46.3
+294953,201-250,Universiti Tunku Abdul Rahman (UTAR),Malaysia,Kampar,,-,99.3,77,27
+294515,201-250,University College Cork,Ireland,Cork,,55,-,-,30.7
+294520,201-250,University of Colorado Boulder,United States,Boulder,,46.2,-,-,-
+294501,201-250,University of Delhi,India,New Delhi,,-,-,-,33.6
+293720,201-250,University of Latvia,Latvia,Riga,,-,89.7,-,-
+294866,201-250,University of Massachusetts Amherst,United States,Amherst,,-,-,70.1,-
+294778,201-250,University of Milan,Italy,Milan,,67.6,-,-,-
+294534,201-250,University of Science and Technology of China,China (Mainland),Hefei,,-,-,92.1,-
+294743,201-250,University of Southern Denmark (SDU),Denmark,Odense,,92.1,-,-,-
+297285,201-250,University of St Andrews,United Kingdom,St. Andrews,,-,70.1,-,52.5
+297470,201-250,University of Strathclyde,United Kingdom,Glasgow,,-,72.7,-,43.5
+294083,201-250,Université Laval,Canada,Québec,,65.3,-,91.6,-
+294550,201-250,Université catholique de Louvain (UCLouvain),Belgium,Louvain-la-Neuve,,-,-,-,40
+309623,201-250,Université de Montpellier,France,Montpellier,,98.7,-,-,-
+297218,201-250,Uppsala University,Sweden,Uppsala,,-,-,-,30.3
+297215,201-250,Utrecht University,Netherlands,Utrecht,,-,-,-,31.7
+297212,201-250,Vanderbilt University,United States,Nashville,,62.9,-,-,-
+297206,201-250,Virginia Polytechnic Institute and State University,United States,Blacksburg,,61.9,-,-,26.3
+293625,251-300,Belarusian State University,Belarus,Minsk,,-,84.9,-,35
+297324,251-300,"Birla Institute of Technology and Science, Pilani",India,Pilani,,-,-,84,-
+294554,251-300,Case Western Reserve University,United States,Cleveland,,43.6,-,73.9,-
+294276,251-300,Diponegoro University,Indonesia,Semarang,,-,96.5,84.2,-
+297015,251-300,East China University of Science and Technology,China (Mainland),Shanghai,,68.7,-,99.2,-
+294454,251-300,Friedrich-Alexander-Universität Erlangen-Nürnberg,Germany,Erlangen,,60.4,-,-,-
+294417,251-300,Fundação Getulio Vargas (FGV),Brazil,São Paulo,,-,-,-,-
+378173,251-300,IMT Atlantique,France,Nantes,,-,80.4,-,72.5
+294240,251-300,Indian Institute of Technology Kanpur (IITK),India,Kanpur,,-,-,-,37.1
+293278,251-300,Institut National des Sciences Appliquées de Lyon (INSA),France,Lyon,,-,75.8,-,-
+294171,251-300,Kanazawa University,Japan,Kanazawa,,-,88,95.4,-
+297053,251-300,King Fahd University of Petroleum & Minerals,Saudi Arabia,Dhahran,,-,-,74.3,-
+294106,251-300,Kyung Hee University,South Korea,,,43.6,-,-,32.1
+297147,251-300,Lebanese American University,Lebanon,Byblos,,-,77.9,66.3,-
+294879,251-300,Mahidol University,Thailand,Nakhon Pathom,,45.5,-,-,29.4
+294865,251-300,Massey University,New Zealand,Palmerston North,,-,95.5,-,-
+294393,251-300,National Research Nuclear University MEPhI (Moscow Engineering Physics Institute),Russia,Moscow,,-,89.4,75.7,-
+294800,251-300,National Tsing Hua University,Taiwan,Hsinchu City,,-,-,60.8,51.6
+294770,251-300,Northumbria University at Newcastle,United Kingdom,Newcastle upon Tyne,,-,70.8,52.4,-
+294764,251-300,Norwegian University of Science And Technology,Norway,Trondheim,,-,-,-,-
+297519,251-300,Nottingham Trent University,United Kingdom,Nottingham,,-,-,89.1,-
+295202,251-300,Oklahoma State University ,United States,Stillwater,,-,-,98.6,-
+297597,251-300,Oxford Brookes University,United Kingdom,Oxford,,-,76.4,-,53.7
+293373,251-300,Pontificia Universidad Católica Argentina,Argentina,Buenos Aires,,-,98,-,42.2
+297278,251-300,Stockholm University,Sweden,Stockholm,,-,-,-,-
+294427,251-300,University of Exeter,United Kingdom,Exeter,,-,-,-,54.7
+294636,251-300,Universidad Anáhuac México,Mexico,Huixquilucan,,-,89.6,-,32.8
+294618,251-300,Universidad Austral,Argentina,Pilar,,-,93.3,77.9,36
+296849,251-300,Universidad Autónoma de Nuevo León,Mexico,San Nicolás de los Garza,,47.2,-,45,-
+294696,251-300,Universidad EAFIT,Colombia,Medellin,,-,-,-,53.7
+294249,251-300,Universidad Iberoamericana IBERO,Mexico,Mexico City,,-,73,-,41.6
+296404,251-300,Universidad Rey Juan Carlos,Spain,Móstoles,,58,69.8,-,-
+296405,251-300,Universidad de Alcalá,Spain,Alcalá de Henares,,91.7,-,-,-
+294681,251-300,Universidad de Costa Rica,Costa Rica,San Jose,,-,-,-,38.3
+297392,251-300,Universidad de Sevilla,Spain,Seville,,77.5,-,-,-
+297503,251-300,Universidade Federal do Rio de Janeiro,Brazil,Rio de Janeiro,,-,-,-,-
+294233,251-300,Universitas Indonesia,Indonesia,Depok,,-,-,-,48.9
+294647,251-300,University of Aberdeen,United Kingdom,Aberdeen,,-,66.2,-,27.1
+294610,251-300,University of Basel,Switzerland,Basel,,-,-,-,-
+294525,251-300,University of Coimbra,Portugal,Coimbra,,47.4,-,-,-
+294362,251-300,University of Geneva,Switzerland,Geneva,,-,-,-,-
+294859,251-300,University of Miami,United States,Miami,,-,-,-,-
+294841,251-300,University of Mumbai,India,Mumbai,,-,-,-,-
+294204,251-300,University of Nairobi,Kenya,Nairobi,,-,-,-,-
+297493,251-300,University of Pretoria,South Africa,Pretoria,,-,-,-,35.3
+297458,251-300,University of Reading,United Kingdom,Reading,,-,74,55.1,31.4
+297425,251-300,University of Santo Tomas,Philippines,Manila,,-,95.3,94.8,-
+297238,251-300,University of Trento,Italy,Trento,,58.3,-,44.1,-
+297229,251-300,University of Turin,Italy,Turin,,50.9,-,-,-
+297128,251-300,University of York,United Kingdom,York,,-,-,-,34.2
+294127,251-300,Universität Konstanz,Germany,Konstanz,,51.9,81.3,-,-
+294869,251-300,Universität Mannheim,Germany,Mannheim,,-,-,-,56.5
+297211,251-300,Victoria University of Wellington,New Zealand,"Kelburn, Wellington",,-,-,-,31.7
+296663,301-500,Aalborg University,Denmark,Aalborg,,-,-,-,30
+297631,301-500,"Ain Shams University in Cairo (ASU, Cairo)",Egypt,Cairo,,-,-,-,-
+294643,301-500,Airlangga University,Indonesia,Surabaya,,-,-,-,-
+297642,301-500,American University of Sharjah,United Arab Emirates,Sharjah,,-,-,-,29
+294622,301-500,Athens University of Economics and Business,Greece,Athens,,-,-,63.3,33
+297138,301-500,Auckland University of Technology (AUT),New Zealand,Auckland,,-,90.7,-,-
+297047,301-500,Australian Catholic University,Australia,Melbourne,,-,80.7,-,-
+294615,301-500,Bandung Institute of Technology (ITB),Indonesia,Bandung,,-,-,-,41.2
+294604,301-500,Ben-Gurion University of The Negev,Israel,Be'er Sheva,,-,95,-,-
+294598,301-500,Bilkent University,Turkey,Ankara,,-,-,-,-
+294588,301-500,Brigham Young University,United States,Provo,,-,-,-,-
+294583,301-500,Brunel University London,United Kingdom,London,,-,-,62.9,-
+296566,301-500,Budapest University of Technology and Economics,Hungary,Budapest,,-,-,-,-
+294556,301-500,Carleton University,Canada,Ottawa,,-,-,-,-
+296089,301-500,Central Queensland University (CQUniversity Australia),Australia,Norman Gardens,,-,76.7,56.1,-
+294538,301-500,Chiang Mai University,Thailand,Chiang Mai,,-,-,-,26.6
+294537,301-500,Chiba University,Japan,Chiba City,,49.5,-,84.5,-
+296762,301-500,Chung-Ang University (CAU),South Korea,Seoul,,-,-,-,-
+294508,301-500,City University of New York,United States,New York City,,-,-,45.1,-
+294034,301-500,"City, University of London",United Kingdom,London,,-,-,73.8,-
+294521,301-500,Colorado State University,United States,Fort Collins,,-,-,-,-
+294518,301-500,Concordia University,Canada,Montreal,,-,-,-,27.8
+294512,301-500,Coventry University,United Kingdom,Coventry,,-,-,-,38.8
+297125,301-500,Czech Technical University in Prague,Czechia,Prague,,-,62.8,-,35.1
+294506,301-500,Dalhousie University,Canada,Halifax,,53.2,-,-,-
+294504,301-500,De La Salle University,Philippines,Manila,,-,-,-,26.6
+297016,301-500,East China Normal University,China (Mainland),Shanghai,,-,-,99.2,-
+297232,301-500,Eberhard Karls Universität Tübingen,Germany,Tübingen,,-,-,-,-
+294484,301-500,EHL Hospitality Business School,Switzerland,Lausanne,,-,-,-,39.3
+294471,301-500,Emory University,United States,Atlanta,,47.3,-,-,-
+294013,301-500,Eötvös Loránd University,Hungary,Budapest,,-,75.5,-,-
+294402,301-500,Florida State University,United States,Tallahassee,,-,-,-,35.4
+294365,301-500,Gadjah Mada University,Indonesia,Yogyakarta,,-,-,-,35.9
+297506,301-500,Graz University of Technology,Austria,Graz,,-,-,-,-
+294295,301-500,Griffith University,Australia,Nathan,,-,-,-,-
+296751,301-500,HUFS - Hankuk (Korea) University of Foreign Studies ,South Korea,Seoul,,-,-,-,-
+297014,301-500,Harbin Institute of Technology,China (Mainland),Harbin,,-,-,99.3,-
+297099,301-500,Heriot-Watt University,United Kingdom,Edinburgh,,-,63.1,-,27.6
+296813,301-500,Hong Kong Baptist University,Hong Kong SAR,Hong Kong,,-,94,44.6,-
+294172,301-500,ITMO University,Russia,St. Petersburg,,-,-,-,-
+295536,301-500,Indian Institute of Science,India,Bangalore,,-,-,-,-
+297122,301-500,Inha University,South Korea,Incheon,,-,-,-,-
+296976,301-500,Institut Teknologi Sepuluh Nopember (ITS Surabaya),Indonesia,Surabaya,,-,-,-,-
+293370,301-500,Instituto Politécnico Nacional (IPN),Mexico,Ciudad de México,,-,-,-,42.4
+294222,301-500,Iowa State University,United States,Ames,,-,-,-,-
+294206,301-500,Istanbul Technical University,Turkey,Maslak-Istanbul,,-,-,-,36
+294202,301-500,Istanbul University,Turkey,Istanbul,,-,-,53.1,-
+294186,301-500,Jilin University,China (Mainland),Changchun,,-,-,-,-
+294162,301-500,Karolinska Institutet,Sweden,Stockholm,,-,-,-,-
+294160,301-500,Kasetsart University,Thailand,Bangkok,,-,-,-,-
+296687,301-500,King Abdulaziz University (KAU),Saudi Arabia,Jeddah,,-,-,-,35.1
+294136,301-500,Kobe University,Japan,Kobe City,,46.1,-,-,30.3
+297068,301-500,Koç University,Turkey,Istanbul,,-,91.2,-,25.7
+293341,301-500,Kuwait University,Kuwait,Kuwait City,,-,69.7,-,-
+294104,301-500,Kyungpook National University,South Korea,Daegu,,-,-,-,-
+294098,301-500,La Trobe University,Australia,Melbourne,,-,-,-,-
+297145,301-500,Lebanese University,Lebanon,Beirut,,-,-,-,45.4
+296379,301-500,Leeds Beckett University,United Kingdom,Leeds,,-,87.8,92.9,-
+294004,301-500,Louisiana State University,United States,Baton Rouge,,-,-,98.9,-
+295796,301-500,Management and Science University,Malaysia,Shah Alam,,-,-,60.9,-
+297540,301-500,Manchester Metropolitan University,United Kingdom,Manchester ,,-,-,66,-
+297103,301-500,Masaryk University,Czechia,Brno,,-,-,-,-
+296110,301-500,Middle East Technical University,Turkey,Ankara,,-,-,-,39.9
+294466,301-500,Moscow Institute of Physics and Technology (MIPT / Moscow Phystech),Russia,Dolgoprudny,,-,81.4,-,-
+297009,301-500,Nankai University,China (Mainland),Tianjin,,-,-,70.2,-
+294816,301-500,National Central University,Taiwan,Taoyuan City,,-,60.9,-,-
+294811,301-500,National Chengchi University,Taiwan,Taipei City,,-,-,-,-
+294807,301-500,National Sun Yat-sen University,Taiwan,Kaohsiung City,,-,-,93.2,-
+294963,301-500,National Taipei University of Technology,Taiwan,Taipei City,,-,-,-,31.6
+294364,301-500,University of Galway,Ireland,Galway,,-,-,-,27.6
+297119,301-500,National University of Sciences And Technology (NUST) Islamabad,Pakistan,Islamabad,,-,-,-,42.1
+294623,301-500,National and Kapodistrian University of Athens,Greece,Athens,,-,-,-,26.3
+296818,301-500,North South University,Bangladesh,Dhaka,,-,-,-,30
+294749,301-500,Novosibirsk State University,Russia,Novosibirsk ,,-,66.9,-,-
+294371,301-500,O.P. Jindal Global University,India,Sonepat,,-,86.9,-,-
+297328,301-500,Osaka Prefecture University ,Japan,Osaka City,,-,-,93,-
+295117,301-500,Plekhanov Russian University of Economics,Russia,Moscow,,-,-,81.5,-
+297483,301-500,Pusan National University,South Korea,Busan,,-,-,-,-
+293349,301-500,Qatar University,Qatar,Doha,,-,64.3,-,-
+296468,301-500,RUDN University,Russia,Moscow,,-,76.3,-,-
+297444,301-500,Rensselaer Polytechnic Institute,United States,Troy,,-,-,-,-
+294594,301-500,Rheinische Friedrich-Wilhelms-Universität Bonn,Germany,Bonn,,-,-,-,-
+297482,301-500,Rutgers University–New Brunswick,United States,New Brunswick,,-,-,-,28.1
+297144,301-500,Saint Joseph University of Beirut (USJ) ,Lebanon,Beirut,,-,91.6,-,26
+297367,301-500,Shanghai University,China (Mainland),Shanghai,,-,-,-,-
+297394,301-500,Sharif University of Technology,Iran,Tehran,,-,-,-,-
+297293,301-500,Simon Fraser University,Canada,Burnaby,,-,-,-,-
+293750,301-500,"Sofia University ""St. Kliment Ohridski""",Bulgaria,Sofia,,-,-,-,-
+297290,301-500,Sogang University,South Korea,Seoul,,-,-,-,35.6
+297281,301-500,Stellenbosch University,South Africa,Stellenbosch,,-,-,-,-
+297562,301-500,Stevens Institute of Technology,United States,Hoboken,,-,-,90.7,-
+295098,301-500,Taipei Medical University (TMU),Taiwan,Taipei,,-,81.6,-,-
+297270,301-500,Tallinn University of Technology (TalTech),Estonia,Tallinn,,-,-,-,-
+294139,301-500,Taras Shevchenko National University of Kyiv,Ukraine,Kyiv,,-,-,-,26.6
+297259,301-500,Temple University,United States,Philadelphia,,-,-,60.9,-
+294116,301-500,The National University of Science and Technology MISIS,Russia,Moscow,,-,67,92.2,-
+294641,301-500,The University of Alabama,United States,Tuscaloosa,,-,-,-,-
+294337,301-500,The University of Georgia,United States,Athens,,-,-,-,-
+294092,301-500,The University of Lahore,Pakistan,Lahore,,-,98.8,-,-
+297258,301-500,"The University of Tennessee, Knoxville",United States,Knoxville,,48.7,-,-,-
+297252,301-500,Tianjin University,China (Mainland),Tianjin,,-,-,-,-
+297251,301-500,Tilburg University,Netherlands,Tilburg,,-,75.3,-,-
+297249,301-500,Tokai University,Japan,Hiratsuka City,,-,68.8,99.2,-
+296772,301-500,Tokyo University of Agriculture and Technology ,Japan,Tokyo,,-,69.8,87.6,-
+297520,301-500,Tomas Bata University in Zlin,Czechia,Zlin,,-,99.8,-,-
+297517,301-500,UNESP,Brazil,Sao Paulo,,44,-,-,-
+296383,301-500,Ulster University,United Kingdom,Coleraine,,-,73.9,89.2,-
+297051,301-500,United Arab Emirates University,United Arab Emirates,Al Ain,,-,-,-,-
+294642,301-500,Universidad Adolfo Ibáñez,Chile,Santiago,,-,-,-,63.3
+294635,301-500,Universidad Católica Andres Bello,Venezuela,Caracas City,,-,-,-,47.7
+293426,301-500,Universidad Central de Venezuela,Venezuela,Caracas,,-,-,-,45
+294498,301-500,Universidad Diego Portales (UDP),Chile,Santiago,,-,67,-,28.9
+294710,301-500,Universidad Externado de Colombia ,Colombia,Bogotá,,-,-,-,39.4
+296880,301-500,Universidad ICESI,Colombia,Cali,,-,91.5,-,-
+293484,301-500,Universidad Interamericana de Panamá ,Panama,Panama City,,-,-,-,-
+294860,301-500,Universidad Metropolitana,Venezuela,Caracas,,-,-,-,-
+296889,301-500,Universidad Peruana de Ciencias Aplicadas,Peru,Monterrico,,-,90.8,-,27.3
+293511,301-500,Universidad Católica Santa María la Antigua-USMA,Panama,Panama City,,-,100,-,-
+297243,301-500,Universidad Torcuato Di Tella,Argentina,Buenos Aires,,-,-,-,29.6
+295086,301-500,Universidad Técnica Federico Santa María (USM),Chile,Valparaíso,,-,75.4,-,32.6
+296871,301-500,Universidad de Antioquia,Colombia,Medellin,,-,-,-,34.5
+296834,301-500,Universidad de Concepción,Chile,Concepción,,-,-,-,29.6
+293444,301-500,Universidad de La Habana,Cuba,Havana,,-,-,-,-
+294100,301-500,Universidad de La Sabana,Colombia,Bogotá,,-,-,-,37.7
+296886,301-500,Universidad de Lima,Peru,Lima,,-,-,-,33.5
+293454,301-500,Universidad de Palermo (UP),Argentina,Buenos Aires,,-,96,82.2,-
+293458,301-500,Universidad de Puerto Rico,Puerto Rico,San Juan,,-,-,-,-
+296833,301-500,Universidad de San Andrés - UdeSA,Argentina,Buenos Aires,,-,74.6,64.7,-
+297429,301-500,Universidad de Santiago de Chile (USACH),Chile,Santiago,,-,-,-,52.4
+293445,301-500,Universidad de las Américas Puebla (UDLAP),Mexico,Cholula,,-,91.6,87.6,-
+293446,301-500,Universidad de los Andes - Chile,Chile,Santiago,,-,92.1,51.1,-
+296857,301-500,Universidad del Rosario,Colombia,Bogotá,,-,76.5,-,30.6
+294560,301-500,Universidade Estadual de Campinas (Unicamp),Brazil,Campinas,,-,-,-,33.9
+296865,301-500,Universidade Federal de Minas Gerais      ,Brazil,Belo Horizonte,,-,-,-,-
+294876,301-500,Universiti Kebangsaan Malaysia (UKM),Malaysia,Bangi,,-,-,-,37.7
+293851,301-500,Universiti Malaysia Pahang,Malaysia,Kuantan,,-,98.8,79.2,-
+294875,301-500,Universiti Putra Malaysia (UPM),Malaysia,Seri Kembangan,,-,-,-,37.3
+294874,301-500,Universiti Sains Malaysia (USM),Malaysia,Gelugor,,-,-,-,44.6
+297097,301-500,Universiti Teknologi MARA - UiTM,Malaysia,Shah Alam,,-,-,-,30.4
+294873,301-500,Universiti Teknologi Malaysia ,Malaysia,Skudai,,-,-,-,38.8
+293327,301-500,University of Baghdad,Iraq,Baghdad,,-,-,-,-
+294579,301-500,University of Bucharest,Romania,Bucharest,,-,-,-,-
+294570,301-500,"University of California, Irvine",United States,Irvine,,57.2,-,-,-
+294568,301-500,"University of California, Riverside",United States,Riverside,,49.8,-,49.2,-
+294559,301-500,University of Canterbury | Te Whare Wānanga o Waitaha,New Zealand,Christchurch,,-,-,-,38.2
+294528,301-500,University of Cincinnati,United States,Cincinnati,,-,-,-,-
+294522,301-500,University of Colombo,Sri Lanka,"Colombo,",,-,-,-,-
+294517,301-500,University of Connecticut,United States,Storrs,,-,-,-,-
+297396,301-500,University of Debrecen,Hungary,Debrecen,,-,-,-,-
+294499,301-500,University of Dhaka,Bangladesh,Dhaka,,-,-,-,-
+294489,301-500, University of Dundee,United Kingdom,Dundee,,-,72.2,-,-
+297063,301-500,University of Engineering & Technology (UET) Lahore,Pakistan,Lahore,,-,-,-,27.1
+294314,301-500,University of Gothenburg,Sweden,Gothenburg,,-,-,-,-
+296894,301-500,University of Guelph,Canada,Guelph,,-,-,-,27.2
+294311,301-500,University of Göttingen,Germany,Göttingen,,-,-,-,-
+294254,301-500,University of Houston,United States,Houston,,-,-,-,-
+297416,301-500,University of Huddersfield,United Kingdom,Huddersfield,,-,84.5,-,-
+294215,301-500,University of Iowa,United States,Iowa City,,-,-,-,-
+297592,301-500,University of Johannesburg,South Africa,Johannesburg,,-,-,-,-
+295192,301-500,University of Jordan,Jordan,Amman,,-,-,-,30.3
+294152,301-500,University of Kent,United Kingdom,Canterbury,,-,77.1,-,-
+294149,301-500,University of Kentucky,United States,Lexington,,-,-,-,-
+294818,301-500,University of Kwazulu-Natal,South Africa,Pinetown,,-,-,-,-
+294075,301-500,University of Leicester,United Kingdom,Leicester,,-,64.5,-,-
+294040,301-500,University of Ljubljana,Slovenia,Ljubljana,,-,-,-,-
+293783,301-500,University of Milano-Bicocca ,Italy,Milan,,-,-,-,-
+294851,301-500,"University of Missouri, Columbia",United States,Columbia,,-,-,-,-
+294819,301-500,University of Naples - Federico II,Italy,Naples,,50.2,-,-,-
+294159,301-500,University of New Brunswick,Canada,Fredericton,,-,79.9,-,-
+294734,301-500,University of Oklahoma,United States,Norman,,-,-,-,-
+297495,301-500,University of Portsmouth,United Kingdom,Portsmouth,,-,81.4,57.5,-
+297494,301-500,University of Rochester,United States,Rochester,,43.7,-,-,-
+297289,301-500,University of South Australia,Australia,Adelaide,,-,-,-,-
+297481,301-500,University of South Carolina,United States,Columbia,,-,-,-,-
+297280,301-500,University of Stirling,United Kingdom,Stirling,,-,73.8,74.2,-
+296147,301-500,University of Sussex,United Kingdom,Brighton,,-,-,-,-
+297217,301-500,University of Tartu,Estonia,Tartu,,-,-,-,-
+297117,301-500,University of Tehran,Iran,Tehran,,-,-,-,-
+295219,301-500,University of Texas Dallas,United States,Richardson,,-,-,-,-
+297595,301-500,University of Tulsa,United States,Tulsa,,-,-,83.8,-
+297227,301-500,University of Turku,Finland,Turku,,-,-,-,25.7
+297210,301-500,University of Victoria (UVic),Canada,Victoria,,49.5,-,-,-
+293611,301-500,University of Zagreb,Croatia,Zagreb,,-,-,-,-
+297566,301-500,University of the Philippines,Philippines,Quezon City,,-,-,-,39.3
+296700,301-500,University of the Punjab,Pakistan,Lahore,,-,-,-,27
+297512,301-500,Università degli Studi di Pavia,Italy,Pavia,,46.3,-,-,-
+294230,301-500,Universität Innsbruck,Austria,Innsbruck,,-,-,-,-
+297554,301-500,Université Paris 1 Panthéon-Sorbonne ,France,Paris,,-,-,-,44
+294063,301-500,Université de Liège,Belgium,Liège,,-,69.8,-,-
+296475,301-500,Ural Federal University - UrFU,Russia,Ekaterinburg,,-,-,-,-
+293776,301-500,Verona University,Italy,Verona,,63.3,-,-,-
+297651,301-500,Viet Nam National University Ho Chi Minh City (VNU-HCM),Vietnam,Ho Chi Minh City,,-,-,-,-
+297067,301-500,Vilnius University ,Lithuania,Vilnius,,-,-,-,-
+297203,301-500,Vrije Universiteit Amsterdam,Netherlands,Amsterdam,,-,-,-,-
+296510,301-500,Vytautas Magnus University,Lithuania,Kaunas,,-,89.5,81.3,-
+297199,301-500,Warsaw University of Technology,Poland,Warsaw,,-,-,-,49.8
+297041,301-500,Western Sydney University,Australia,Milperra,,-,-,-,-
+297174,301-500,Yokohama National University,Japan,Yokohama City,,-,-,93.7,-
+297127,301-500,York University,Canada,Toronto,,-,-,-,33.5
+293628,501+,Abai Kazakh National Pedagogical University,Kazakhstan,Almaty,,-,94.2,-,-
+295112,501+,Karaganda Buketov University,Kazakhstan,Karaganda,,-,-,-,-
+294791,501+,Aix-Marseille University,France,Marseille,,-,-,-,-
+296682,501+,American University in Dubai,United Arab Emirates,Dubai,,-,-,-,-
+296805,501+,Amirkabir University of Technology,Iran,Tehran,,-,99.6,-,-
+295558,501+,Applied Science University - Bahrain,Bahrain,Al-Ekir,,-,100,-,-
+294652,501+,Aristotle University of Thessaloniki,Greece,Thessaloniki,,-,-,-,-
+296983,501+,Bina Nusantara University (BINUS),Indonesia,Jakarta,,-,-,-,-
+297066,501+,Ca' Foscari University of Venice ,Italy,Venice,,-,-,-,-
+297622,501+,Clemson University,United States,Clemson,,-,-,-,-
+296411,501+,Cracow University of Technology (Politechnika Krakowska),Poland,Krakow,,-,70.4,-,-
+294434,501+,"Essex, University of",United Kingdom,Colchester,,-,-,-,-
+294477,501+,Ewha Womans University,South Korea,Seoul,,-,-,-,-
+297583,501+,Fordham University ,United States,New York City,,-,-,-,-
+296626,501+,Institut polytechnique de Grenoble - Grenoble Institute of Technology,France,Grenoble,,-,-,-,-
+297052,501+,Hacettepe University ,Turkey,Ankara,,-,-,-,-
+294237,501+,Indian Institute of Technology Roorkee (IITR),India,Roorkee,,-,-,-,-
+294200,501+,Instituto Tecnológico de Buenos Aires (ITBA),Argentina,Buenos Aires,,-,-,-,-
+296511,501+,Kaunas University of Technology,Lithuania,Kaunas,,-,-,50.8,-
+295657,501+,Khalifa University,United Arab Emirates,Abu Dhabi,,-,-,-,-
+296429,501+,Konkuk University ,South Korea,Seoul,,-,-,-,-
+294806,501+,National Taiwan Normal University,Taiwan,Taipei City,,-,77.8,-,-
+293591,501+,"National Technical University of Ukraine ""Igor Sikorsky Kyiv Polytechnic Institute""",Ukraine,Kyiv,,-,-,-,-
+295855,501+,Novosibirsk State Technical University,Russia,Novosibirsk,,-,70.3,-,-
+294777,501+,Radboud University ,Netherlands,Nijmegen,,-,-,-,-
+297496,501+,Robert Gordon University,United Kingdom,Aberdeen,,-,87.7,-,-
+295395,501+,SOAS University of London ,United Kingdom,London,,-,-,-,-
+297478,501+,Sabanci University,Turkey,Istanbul,,-,-,-,-
+296716,501+,Sejong University ,South Korea,Seoul,,-,-,-,-
+293797,501+,Slovak University of Technology in Bratislava,Slovakia,Bratislava,,-,94.3,-,-
+296775,501+,Sophia University ,Japan,Tokyo,,-,-,68.2,-
+293342,501+,Sultan Qaboos University,Oman,Muscat,,-,-,-,-
+913795,501+,Tampere University,Finland,Tampere,,-,-,-,25.4
+297265,501+,Technische Universität Braunschweig,Germany,Braunschweig,,-,-,-,-
+293709,501+,Tecnológico de Costa Rica -TEC,Costa Rica,Cartago,,-,-,-,32.1
+293483,501+,Universidad Industrial de Santander - UIS,Colombia,Bucaramanga,,-,-,-,27.6
+296885,501+,Universidad Nacional Mayor de San Marcos,Peru,Lima,,-,-,-,33.8
+293496,501+,Universidad Nacional de la Asunción,Paraguay,San Lorenzo,,-,-,-,-
+297637,501+,Universidad ORT Uruguay,Uruguay,Montevideo,,-,-,-,-
+296892,501+,Universidad de la República (Udelar),Uruguay,Montevideo,,-,-,-,-
+294547,501+,Universidade Católica Portuguesa - UCP,Portugal,Lisbon,,-,-,-,-
+297069,501+,Universitas Brawijaya ,Indonesia,Malang ,,-,79.9,-,-
+294656,501+,Universiti Tenaga Nasional (UNITEN),Malaysia,Kajang,,-,77.4,-,-
+294575,501+,University of Calcutta,India,Kolkata,,-,-,-,-
+294500,501+,University of Denver,United States,Denver,,-,-,58,-
+297224,501+,University of East Anglia (UEA),United Kingdom,Norwich,,-,77.6,-,-
+294870,501+,University of Manitoba,Canada,Winnipeg,,-,-,-,-
+295299,501+,Ecole Centrale de Nantes,France,Nantes,,-,-,-,41.2

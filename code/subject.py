@@ -5,7 +5,7 @@ import os
 import time
 
 # QS 學科排名的 URL 模板
-BASE_URL = "https://www.topuniversities.com/university-subject-rankings/{}"
+BASE_URL = "https://www.topuniversities.com/university-subject-rankings/{SUBJECTS}"
 
 # 學科列表（54 個學科標識符）
 SUBJECTS = [

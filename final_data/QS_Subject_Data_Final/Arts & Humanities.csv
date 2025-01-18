@@ -1,16 +1,4 @@
-QS World University Rankings by Faculty Area,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9
-Arts & Humanities,,,,,,,,,
-,,,,Institutions Considered,,1693,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,Weightings,,,,
-,,,,Academic,0.6,,,,
-,,,,Employer,0.2,,,,
-,,,,Citations,0.075,,,,
-,,,,H,0.075,,,,
-,,,,IRN,0.05,,,,
-Top 500 Universities - Arts & Humanities,,,,,,,,,
-2024,2023,Institution,Location,Academic,Employer,Citations,H,International,Score
+2024,2023,Institution,Location,Academic Reputation,Employer Reputation,Citations per Paper,H-index Citations,International,Score
 1,1  ,Harvard University,United States,100,100,84.1,98.7,83,97.9
 2,2  ,University of Cambridge,United Kingdom,99.6,95.3,81.5,96.9,94.1,96.9
 3,3  ,University of Oxford,United Kingdom,99.8,96.3,80.1,96.5,88.7,96.8
@@ -412,153 +400,153 @@ Top 500 Universities - Arts & Humanities,,,,,,,,,
 =398,388  ,Bilkent University,Turkey,65.5,69.1,61.6,60,22.6,63.4
 =398,350=,Universidad Nacional de Córdoba - UNC,Argentina,71.9,56,54.3,51.4,22.6,63.4
 =398,451-500,University of Trento,Italy,64.4,53.9,76.3,76.2,50.4,63.4
-401-450,401-450,Academy of Sciences of the Czech Republic,Czech Republic,66.1,53.2,63.4,63.3,45,
-401-450,307  ,"Adam Mickiewicz University, Poznań",Poland,72,34.9,59.8,70,54,
-401-450,401-450,Auckland University of Technology (AUT),New Zealand,65.5,53.6,80.4,71.2,19.3,
-401-450,451-500,Carleton University,Canada,62.9,63.6,73.4,74.3,22.9,
-401-450,376=,Christian-Albrechts-University zu Kiel,Germany,68.2,35.9,82.7,68.8,56.8,
-401-450,394=,Dalhousie University,Canada,64.8,58.3,75.6,72.3,25.5,
-401-450,401-450,De La Salle University,Philippines,68.5,61.3,55,51.4,27.4,
-401-450,364=,"Essex, University of",United Kingdom,66.1,47.3,78.5,77.9,46.4,
-401-450,451-500,Friedrich-Alexander-Universität Erlangen-Nürnberg,Germany,65.2,52.8,73,72.3,45,
-401-450,390=,Georgia State University,United States,64,57,77.2,74.3,23.6,
-401-450,451-500,Hacettepe University ,Turkey,64.9,63.6,64.2,61.7,18.7,
-401-450,,Indian Institute of Technology Kanpur (IITK),India,60.6,76.5,63.1,58.1,27.4,
+401-450,401-450,Academy of Sciences of the Czech Republic,Czech Republic,66.1,53.2,63.4,63.3,,45
+401-450,307  ,"Adam Mickiewicz University, Poznań",Poland,72,34.9,59.8,70,,54
+401-450,401-450,Auckland University of Technology (AUT),New Zealand,65.5,53.6,80.4,71.2,,19.3
+401-450,451-500,Carleton University,Canada,62.9,63.6,73.4,74.3,,22.9
+401-450,376=,Christian-Albrechts-University zu Kiel,Germany,68.2,35.9,82.7,68.8,,56.8
+401-450,394=,Dalhousie University,Canada,64.8,58.3,75.6,72.3,,25.5
+401-450,401-450,De La Salle University,Philippines,68.5,61.3,55,51.4,,27.4
+401-450,364=,"Essex, University of",United Kingdom,66.1,47.3,78.5,77.9,,46.4
+401-450,451-500,Friedrich-Alexander-Universität Erlangen-Nürnberg,Germany,65.2,52.8,73,72.3,,45
+401-450,390=,Georgia State University,United States,64,57,77.2,74.3,,23.6
+401-450,451-500,Hacettepe University ,Turkey,64.9,63.6,64.2,61.7,,18.7
+401-450,,Indian Institute of Technology Kanpur (IITK),India,60.6,76.5,63.1,58.1,,27.4
 401-450,,Indian Institute of Technology Madras (IITM),India,61.8,77.6,66.3,67.6,,
-401-450,451-500,Lebanese University,Lebanon,69.5,65.8,47.4,51.4,11.1,
-401-450,393  ,Mahidol University,Thailand,67.8,57.2,58.7,60,18.7,
-401-450,,Nankai University,China (Mainland),69.5,48,65.9,61.7,25.5,
-401-450,,Plekhanov Russian University of Economics,Russia,60.9,74.3,64.6,64.8,39,
-401-450,364=,Pontificia Universidad Católica Argentina,Argentina,73.2,64,32.6,37.6,18.7,
+401-450,451-500,Lebanese University,Lebanon,69.5,65.8,47.4,51.4,,11.1
+401-450,393  ,Mahidol University,Thailand,67.8,57.2,58.7,60,,18.7
+401-450,,Nankai University,China (Mainland),69.5,48,65.9,61.7,,25.5
+401-450,,Plekhanov Russian University of Economics,Russia,60.9,74.3,64.6,64.8,,39
+401-450,364=,Pontificia Universidad Católica Argentina,Argentina,73.2,64,32.6,37.6,,18.7
 401-450,308=,Pratt Institute,United States,80.1,38.7,41.6,48.6,,
-401-450,347=,Qatar University,Qatar,67.4,55.6,65.3,66.2,24,
-401-450,401-450,Ryerson University,Canada,62.1,65.2,75.2,70,22.8,
-401-450,501-520,Shanghai University,China (Mainland),66.6,54.9,69.6,64.8,18.7,
+401-450,347=,Qatar University,Qatar,67.4,55.6,65.3,66.2,,24
+401-450,401-450,Ryerson University,Canada,62.1,65.2,75.2,70,,22.8
+401-450,501-520,Shanghai University,China (Mainland),66.6,54.9,69.6,64.8,,18.7
 401-450,401-450,Sophia University ,Japan,73.5,56.4,44.4,48.6,,
-401-450,401-450,Swinburne University of Technology,Australia,64.7,56.6,74.7,72.3,23.6,
-401-450,401-450,Tampere University,Finland,65.8,44.8,80.5,77.9,48.9,
-401-450,401-450,Temple University,United States,63.9,50.3,76.9,79.5,44.4,
-401-450,,Thammasat University,Thailand,69.9,59.1,52.3,51.4,27.4,
-401-450,401-450,The University of Georgia,United States,61.4,60.7,77.5,79.5,27.4,
-401-450,401-450,Tilburg University,Netherlands,62.9,54.5,82.6,81.8,37,
-401-450,370=,Tomsk State University,Russia,67.2,63.1,57.7,60,25.5,
-401-450,401-450,United Arab Emirates University,United Arab Emirates,64.6,66.8,57.4,61.7,27.4,
-401-450,398=,Universidad Carlos III de Madrid (UC3M),Spain,66.1,61.4,62.7,60,27.4,
-401-450,398=,Universidad de Guadalajara (UDG),Mexico,70.8,58.9,44.4,45.5,27.4,
-401-450,451-500,Universidad de La Sabana,Colombia,71.2,64.7,38.9,45.5,18.7,
-401-450,401-450,Universidad de los Andes - Chile,Chile,70.9,55.4,48.1,45.5,27.4,
-401-450,401-450,Universidad de Zaragoza,Spain,69.9,43.3,63,67.6,39.5,
-401-450,501-520,Universidad Nacional Mayor de San Marcos,Peru,70.9,61.7,36.6,41.9,27.4,
-401-450,451-500,Universidade Federal de Santa Catarina ,Brazil,66.7,61,59.1,56.1,36.3,
-401-450,,Università Commerciale Luigi Bocconi (Bocconi University),Italy,59.2,77.6,73.2,68.8,9.9,
-401-450,390=,Università degli Studi di Pavia,Italy,70.6,48.4,65.5,64.8,29.2,
-401-450,451-500,Universitat Politècnica de València,Spain,63.5,61.5,69.3,71.2,32.9,
-401-450,451-500,Universiti Teknologi MARA - UiTM,Malaysia,69.6,55.8,61,56.1,24,
-401-450,380=,University at Buffalo SUNY,United States,67.7,50.5,75,73.3,20.8,
-401-450,401-450,University of Belgrade,Serbia,67.4,46.7,61.7,61.7,77.1,
-401-450,375  ,University of Bucharest,Romania,66.5,61,57.7,53.8,30.1,
-401-450,,University of Macau,Macau SAR,66.7,41.6,81.2,77.1,41.4,
-401-450,356=,"University of Rome ""Tor Vergata""",Italy,70.4,50.1,61,60,23.6,
-401-450,,University of Tsukuba,Japan,68.9,54,58.8,60,27.4,
-401-450,401-450,University of Waikato,New Zealand,65.4,49.5,85.8,70,39.9,
-401-450,451-500,Virginia Polytechnic Institute and State University,United States,61.9,61.9,76.3,71.2,39.8,
-401-450,332  ,Washington State University,United States,63.1,58,81.7,75.3,31,
-401-450,451-500,Xi’an Jiaotong University,China (Mainland),61,57.6,87.7,79.5,49.5,
-451-500,401-450,Airlangga University,Indonesia,68.9,65.5,52,45.5,3.5,
-451-500,,Ajman University,United Arab Emirates,64.4,84.4,27.5,32.4,27.4,
-451-500,,Al Ain University,United Arab Emirates,71.2,61.7,37.3,41.9,9.9,
+401-450,401-450,Swinburne University of Technology,Australia,64.7,56.6,74.7,72.3,,23.6
+401-450,401-450,Tampere University,Finland,65.8,44.8,80.5,77.9,,48.9
+401-450,401-450,Temple University,United States,63.9,50.3,76.9,79.5,,44.4
+401-450,,Thammasat University,Thailand,69.9,59.1,52.3,51.4,,27.4
+401-450,401-450,The University of Georgia,United States,61.4,60.7,77.5,79.5,,27.4
+401-450,401-450,Tilburg University,Netherlands,62.9,54.5,82.6,81.8,,37
+401-450,370=,Tomsk State University,Russia,67.2,63.1,57.7,60,,25.5
+401-450,401-450,United Arab Emirates University,United Arab Emirates,64.6,66.8,57.4,61.7,,27.4
+401-450,398=,Universidad Carlos III de Madrid (UC3M),Spain,66.1,61.4,62.7,60,,27.4
+401-450,398=,Universidad de Guadalajara (UDG),Mexico,70.8,58.9,44.4,45.5,,27.4
+401-450,451-500,Universidad de La Sabana,Colombia,71.2,64.7,38.9,45.5,,18.7
+401-450,401-450,Universidad de los Andes - Chile,Chile,70.9,55.4,48.1,45.5,,27.4
+401-450,401-450,Universidad de Zaragoza,Spain,69.9,43.3,63,67.6,,39.5
+401-450,501-520,Universidad Nacional Mayor de San Marcos,Peru,70.9,61.7,36.6,41.9,,27.4
+401-450,451-500,Universidade Federal de Santa Catarina ,Brazil,66.7,61,59.1,56.1,,36.3
+401-450,,Università Commerciale Luigi Bocconi (Bocconi University),Italy,59.2,77.6,73.2,68.8,,9.9
+401-450,390=,Università degli Studi di Pavia,Italy,70.6,48.4,65.5,64.8,,29.2
+401-450,451-500,Universitat Politècnica de València,Spain,63.5,61.5,69.3,71.2,,32.9
+401-450,451-500,Universiti Teknologi MARA - UiTM,Malaysia,69.6,55.8,61,56.1,,24
+401-450,380=,University at Buffalo SUNY,United States,67.7,50.5,75,73.3,,20.8
+401-450,401-450,University of Belgrade,Serbia,67.4,46.7,61.7,61.7,,77.1
+401-450,375  ,University of Bucharest,Romania,66.5,61,57.7,53.8,,30.1
+401-450,,University of Macau,Macau SAR,66.7,41.6,81.2,77.1,,41.4
+401-450,356=,"University of Rome ""Tor Vergata""",Italy,70.4,50.1,61,60,,23.6
+401-450,,University of Tsukuba,Japan,68.9,54,58.8,60,,27.4
+401-450,401-450,University of Waikato,New Zealand,65.4,49.5,85.8,70,,39.9
+401-450,451-500,Virginia Polytechnic Institute and State University,United States,61.9,61.9,76.3,71.2,,39.8
+401-450,332  ,Washington State University,United States,63.1,58,81.7,75.3,,31
+401-450,451-500,Xi’an Jiaotong University,China (Mainland),61,57.6,87.7,79.5,,49.5
+451-500,401-450,Airlangga University,Indonesia,68.9,65.5,52,45.5,,3.5
+451-500,,Ajman University,United Arab Emirates,64.4,84.4,27.5,32.4,,27.4
+451-500,,Al Ain University,United Arab Emirates,71.2,61.7,37.3,41.9,,9.9
 451-500,,Al-Ahliyya Amman University,Jordan,62.3,85.9,39.5,45.5,,
-451-500,,Ankara Üniversitesi,Turkey,67.5,52,54.2,56.1,27.4,
-451-500,,Aston University,United Kingdom,60.3,60.7,71.4,68.8,41.2,
-451-500,451-500,Australian Catholic University,Australia,65.6,44.2,76.9,72.3,35.2,
+451-500,,Ankara Üniversitesi,Turkey,67.5,52,54.2,56.1,,27.4
+451-500,,Aston University,United Kingdom,60.3,60.7,71.4,68.8,,41.2
+451-500,451-500,Australian Catholic University,Australia,65.6,44.2,76.9,72.3,,35.2
 451-500,401-450,Bandung Institute of Technology (ITB),Indonesia,69,62.6,47.4,53.8,,
-451-500,,Chiang Mai University,Thailand,67.4,57.5,48.6,51.4,27.4,
-451-500,382=,European University Institute,Italy,69.8,41.2,66.7,66.2,32.9,
-451-500,289=,Fordham University ,United States,67.8,47.6,74.1,66.2,22.6,
-451-500,451-500,Hokkaido University,Japan,66.4,65.1,49.3,53.8,26.3,
-451-500,,Huazhong University of Science and Technology,China (Mainland),61.8,57.7,80.3,77.9,24,
-451-500,,Jilin University,China (Mainland),64.3,57.7,60.3,63.3,36.5,
+451-500,,Chiang Mai University,Thailand,67.4,57.5,48.6,51.4,,27.4
+451-500,382=,European University Institute,Italy,69.8,41.2,66.7,66.2,,32.9
+451-500,289=,Fordham University ,United States,67.8,47.6,74.1,66.2,,22.6
+451-500,451-500,Hokkaido University,Japan,66.4,65.1,49.3,53.8,,26.3
+451-500,,Huazhong University of Science and Technology,China (Mainland),61.8,57.7,80.3,77.9,,24
+451-500,,Jilin University,China (Mainland),64.3,57.7,60.3,63.3,,36.5
 451-500,394=,Khoja Akhmet Yassawi International Kazakh-Turkish University,Kazakhstan,72.9,57.4,35,45.5,,
-451-500,,King Fahd University of Petroleum & Minerals,Saudi Arabia,61.2,73.9,55.9,60,25.5,
-451-500,401-450,Maastricht University ,Netherlands,62.2,54.1,79.5,75.3,36.5,
-451-500,451-500,Maynooth University,Ireland,65.8,48.8,70,64.8,23.8,
-451-500,,National Sun Yat-sen University,Taiwan,66.4,58.6,54.1,58.1,27.4,
-451-500,501-520,North Carolina State University,United States,59.9,66.9,77.6,70,23.6,
-451-500,401-450,Northumbria University at Newcastle,United Kingdom,66,46.7,77.2,74.3,31.6,
-451-500,,Novosibirsk State University,Russia,62.5,69.9,53.2,56.1,21.6,
-451-500,451-500,Paul Valéry University Montpellier,France,70.1,41.5,59,58.1,26.6,
+451-500,,King Fahd University of Petroleum & Minerals,Saudi Arabia,61.2,73.9,55.9,60,,25.5
+451-500,401-450,Maastricht University ,Netherlands,62.2,54.1,79.5,75.3,,36.5
+451-500,451-500,Maynooth University,Ireland,65.8,48.8,70,64.8,,23.8
+451-500,,National Sun Yat-sen University,Taiwan,66.4,58.6,54.1,58.1,,27.4
+451-500,501-520,North Carolina State University,United States,59.9,66.9,77.6,70,,23.6
+451-500,401-450,Northumbria University at Newcastle,United Kingdom,66,46.7,77.2,74.3,,31.6
+451-500,,Novosibirsk State University,Russia,62.5,69.9,53.2,56.1,,21.6
+451-500,451-500,Paul Valéry University Montpellier,France,70.1,41.5,59,58.1,,26.6
 451-500,501-520,Pontifícia Universidade Católica de São Paulo,Brazil,67.6,68.1,41.3,45.5,,
-451-500,501-520,Southeast University,China (Mainland),67.4,44.7,75.6,70,26.7,
-451-500,451-500,"Stony Brook University, State University of New York",United States,64.4,42.7,78.6,80.3,31.8,
-451-500,364=,Syracuse University,United States,66.9,45.5,74.5,73.3,27.4,
-451-500,394=,Umea University,Sweden,68.2,40.5,73.9,66.2,32.4,
-451-500,341=,Universidad Alberto Hurtado,Chile,70.7,48.3,54.9,51.4,25.5,
-451-500,401-450,Universidad de Concepción,Chile,65.2,62.2,56.4,56.1,24.6,
-451-500,401-450,Universidad de Costa Rica,Costa Rica,73.9,49,38.6,41.9,27.4,
-451-500,401-450,Universidade de Brasília,Brazil,69,50.9,57.3,56.1,25.5,
-451-500,370=,Universität Innsbruck,Austria,69.7,39.9,70.7,68.8,31.6,
-451-500,401-450,Universität Jena,Germany,67.8,40,72.4,70,44.2,
-451-500,501-520,Universität Stuttgart,Germany,64.1,55.6,73.8,68.8,27.4,
-451-500,,Universiti Utara Malaysia (UUM),Malaysia,65.9,52.7,64,61.7,23.6,
-451-500,451-500,University of Brighton,United Kingdom,64.6,52.8,73.2,71.2,27.4,
-451-500,451-500,University of Cincinnati,United States,64,44.6,78.8,77.9,31.1,
-451-500,451-500,University of Genoa,Italy,65.6,50.5,65.9,67.6,31.6,
-451-500,401-450,University of Johannesburg,South Africa,63.2,48.5,71.7,72.3,59.7,
-451-500,382=,University of Jyväskylä,Finland,66.4,38.1,77.9,73.3,37.9,
-451-500,382=,University of Ljubljana,Slovenia,68.6,41.5,61,67.6,41.8,
-451-500,401-450,University of Manitoba,Canada,61.5,66.1,71.2,66.2,26.6,
-451-500,401-450,University of Miami,United States,59.3,58.3,78.3,76.2,33.2,
-451-500,451-500,University of New England Australia,Australia,61.6,63.3,74.1,66.2,15.4,
-451-500,401-450,University of Stirling,United Kingdom,63.4,47,77.4,73.3,44.9,
-451-500,501-520,University of Strathclyde,United Kingdom,61,57.4,81.2,77.1,27.8,
-451-500,,University of Szeged,Hungary,67.3,56,54.7,58.1,36.5,
-451-500,451-500,University of Westminster,United Kingdom,65.2,51.8,68.5,66.2,18.7,
-451-500,451-500,University of Wroclaw,Poland,67.8,51.2,57.1,61.7,24,
-451-500,451-500,University of Zagreb,Croatia,67.4,41.4,57.1,63.3,54.9,
-501-550,,Aberystwyth University,United Kingdom,63.4,53,64.2,61.7,36.3,
-501-550,,Beijing Institute of Technology,China (Mainland),60.8,62.5,64.8,66.2,27.4,
-501-550,501-520,Coventry University,United Kingdom,60.6,54.9,77.2,72.3,31.4,
+451-500,501-520,Southeast University,China (Mainland),67.4,44.7,75.6,70,,26.7
+451-500,451-500,"Stony Brook University, State University of New York",United States,64.4,42.7,78.6,80.3,,31.8
+451-500,364=,Syracuse University,United States,66.9,45.5,74.5,73.3,,27.4
+451-500,394=,Umea University,Sweden,68.2,40.5,73.9,66.2,,32.4
+451-500,341=,Universidad Alberto Hurtado,Chile,70.7,48.3,54.9,51.4,,25.5
+451-500,401-450,Universidad de Concepción,Chile,65.2,62.2,56.4,56.1,,24.6
+451-500,401-450,Universidad de Costa Rica,Costa Rica,73.9,49,38.6,41.9,,27.4
+451-500,401-450,Universidade de Brasília,Brazil,69,50.9,57.3,56.1,,25.5
+451-500,370=,Universität Innsbruck,Austria,69.7,39.9,70.7,68.8,,31.6
+451-500,401-450,Universität Jena,Germany,67.8,40,72.4,70,,44.2
+451-500,501-520,Universität Stuttgart,Germany,64.1,55.6,73.8,68.8,,27.4
+451-500,,Universiti Utara Malaysia (UUM),Malaysia,65.9,52.7,64,61.7,,23.6
+451-500,451-500,University of Brighton,United Kingdom,64.6,52.8,73.2,71.2,,27.4
+451-500,451-500,University of Cincinnati,United States,64,44.6,78.8,77.9,,31.1
+451-500,451-500,University of Genoa,Italy,65.6,50.5,65.9,67.6,,31.6
+451-500,401-450,University of Johannesburg,South Africa,63.2,48.5,71.7,72.3,,59.7
+451-500,382=,University of Jyväskylä,Finland,66.4,38.1,77.9,73.3,,37.9
+451-500,382=,University of Ljubljana,Slovenia,68.6,41.5,61,67.6,,41.8
+451-500,401-450,University of Manitoba,Canada,61.5,66.1,71.2,66.2,,26.6
+451-500,401-450,University of Miami,United States,59.3,58.3,78.3,76.2,,33.2
+451-500,451-500,University of New England Australia,Australia,61.6,63.3,74.1,66.2,,15.4
+451-500,401-450,University of Stirling,United Kingdom,63.4,47,77.4,73.3,,44.9
+451-500,501-520,University of Strathclyde,United Kingdom,61,57.4,81.2,77.1,,27.8
+451-500,,University of Szeged,Hungary,67.3,56,54.7,58.1,,36.5
+451-500,451-500,University of Westminster,United Kingdom,65.2,51.8,68.5,66.2,,18.7
+451-500,451-500,University of Wroclaw,Poland,67.8,51.2,57.1,61.7,,24
+451-500,451-500,University of Zagreb,Croatia,67.4,41.4,57.1,63.3,,54.9
+501-550,,Aberystwyth University,United Kingdom,63.4,53,64.2,61.7,,36.3
+501-550,,Beijing Institute of Technology,China (Mainland),60.8,62.5,64.8,66.2,,27.4
+501-550,501-520,Coventry University,United Kingdom,60.6,54.9,77.2,72.3,,31.4
 501-550,,Dongguk University ,South Korea,69.7,51.7,54.5,53.8,,
-501-550,,Doshisha University,Japan,66.5,52.4,65.3,48.6,27.4,
-501-550,501-520,Florida International University,United States,59.9,60,71.6,67.6,18.7,
-501-550,451-500,Gazi Üniversitesi,Turkey,68.2,50.8,55.8,56.1,14.5,
+501-550,,Doshisha University,Japan,66.5,52.4,65.3,48.6,,27.4
+501-550,501-520,Florida International University,United States,59.9,60,71.6,67.6,,18.7
+501-550,451-500,Gazi Üniversitesi,Turkey,68.2,50.8,55.8,56.1,,14.5
 501-550,,Hitotsubashi University,Japan,67.6,67,35.5,41.9,,
-501-550,,Indian Institute of Technology Guwahati (IITG),India,59,70,61.6,61.7,27.4,
-501-550,,Institut Polytechnique de Paris,France,52.5,74.5,71.9,68.8,46.1,
-501-550,501-520,International Islamic University Malaysia (IIUM),Malaysia,67.6,52.8,56,48.6,25.5,
-501-550,,Iowa State University,United States,58.9,59.7,78.6,79.5,19.5,
-501-550,401-450,Justus-Liebig-University Giessen,Germany,65.2,38.8,74.6,67.6,43.7,
-501-550,,"KIT, Karlsruhe Institute of Technology",Germany,59,63.3,71.6,70,29.3,
-501-550,,Kobe University,Japan,65,59.1,52.1,58.1,9.9,
+501-550,,Indian Institute of Technology Guwahati (IITG),India,59,70,61.6,61.7,,27.4
+501-550,,Institut Polytechnique de Paris,France,52.5,74.5,71.9,68.8,,46.1
+501-550,501-520,International Islamic University Malaysia (IIUM),Malaysia,67.6,52.8,56,48.6,,25.5
+501-550,,Iowa State University,United States,58.9,59.7,78.6,79.5,,19.5
+501-550,401-450,Justus-Liebig-University Giessen,Germany,65.2,38.8,74.6,67.6,,43.7
+501-550,,"KIT, Karlsruhe Institute of Technology",Germany,59,63.3,71.6,70,,29.3
+501-550,,Kobe University,Japan,65,59.1,52.1,58.1,,9.9
 501-550,451-500,Loyola University Chicago,United States,64.8,59.1,65.5,60,,
-501-550,401-450,Martin-Luther-Universität Halle-Wittenberg,Germany,67.6,48.8,61.5,60,19.5,
-501-550,,National Technical University of Athens,Greece,60.1,62.7,64.8,66.2,25.5,
+501-550,401-450,Martin-Luther-Universität Halle-Wittenberg,Germany,67.6,48.8,61.5,60,,19.5
+501-550,,National Technical University of Athens,Greece,60.1,62.7,64.8,66.2,,25.5
 501-550,,National Yang Ming Chiao Tung University,Taiwan,64.3,62.1,61.6,63.3,,
-501-550,,Palacký University Olomouc,Czech Republic,69.9,38.9,60.1,60,31,
+501-550,,Palacký University Olomouc,Czech Republic,69.9,38.9,60.1,60,,31
 501-550,,Pusan National University,South Korea,69.5,53.8,45.9,56.1,,
-501-550,,Sunway University,Malaysia,66.1,57.6,47.8,51.4,27.4,
-501-550,,Technische Universität Dresden,Germany,59.9,58.2,70.3,67.6,40.5,
-501-550,,Technische Universität Wien,Austria,61.6,59.5,61.8,63.3,32.9,
-501-550,401-450,The Open University,United Kingdom,63.4,42.2,76.8,77.1,44.4,
-501-550,,The University of Alabama,United States,57.9,61.6,77.1,75.3,27.4,
+501-550,,Sunway University,Malaysia,66.1,57.6,47.8,51.4,,27.4
+501-550,,Technische Universität Dresden,Germany,59.9,58.2,70.3,67.6,,40.5
+501-550,,Technische Universität Wien,Austria,61.6,59.5,61.8,63.3,,32.9
+501-550,401-450,The Open University,United Kingdom,63.4,42.2,76.8,77.1,,44.4
+501-550,,The University of Alabama,United States,57.9,61.6,77.1,75.3,,27.4
 501-550,501-520,Universidad Torcuato Di Tella,Argentina,69.4,66,29.6,32.4,,
-501-550,451-500,Universidade Católica Portuguesa - UCP,Portugal,65.9,48,64,58.1,19.5,
-501-550,451-500,Universidade Federal Fluminense ,Brazil,65.4,47.8,65.1,63.3,29.2,
-501-550,451-500,Universität Bremen,Germany,64.1,35.4,75.6,74.3,61.3,
-501-550,,Université de Fribourg,Switzerland,68.5,42.4,68.2,63.3,16.1,
-501-550,501-520,Université de Liège,Belgium,63.3,50,73.1,70,32.7,
-501-550,451-500,University of Alicante,Spain,65.2,48.9,62.2,66.2,37.9,
-501-550,,University of Cyprus (UCY),Cyprus,58.4,58.4,72.7,66.2,55.1,
-501-550,,University of Dhaka,Bangladesh,64.1,63.8,44.7,51.4,27.4,
-501-550,501-520,University of Haifa,Israel,64.3,43.5,72,79.5,24.3,
-501-550,451-500,"University of Missouri, Columbia",United States,60.3,50.6,84.1,78.7,32.9,
-501-550,451-500,University of Murcia,Spain,66.2,47.7,62.3,67.6,25.5,
-501-550,451-500,University of New Mexico,United States,61.5,49.8,75.8,76.2,36,
-501-550,,University of North Texas,United States,62.6,48.4,77.9,77.1,15.8,
-501-550,,University of Siena,Italy,67.4,39.3,68.1,67.6,30.2,
-501-550,401-450,University of South Carolina,United States,61.3,52.6,79.2,75.3,22.8,
-501-550,401-450,University of Tasmania,Australia,64.3,46.2,72.9,67.6,18.1,
-501-550,501-520,University of the West of England,United Kingdom,59.1,57,80.4,72.3,23.6,
-501-550,451-500,University of Tromsø The Arctic University of Norway,Norway,67.7,29.1,74.7,72.3,45.3,
-501-550,,University of Twente,Netherlands,57.6,61.3,78.6,75.3,27.4,
-501-550,,Yarmouk University,Jordan,62.8,64.6,48.2,48.6,30.1,
+501-550,451-500,Universidade Católica Portuguesa - UCP,Portugal,65.9,48,64,58.1,,19.5
+501-550,451-500,Universidade Federal Fluminense ,Brazil,65.4,47.8,65.1,63.3,,29.2
+501-550,451-500,Universität Bremen,Germany,64.1,35.4,75.6,74.3,,61.3
+501-550,,Université de Fribourg,Switzerland,68.5,42.4,68.2,63.3,,16.1
+501-550,501-520,Université de Liège,Belgium,63.3,50,73.1,70,,32.7
+501-550,451-500,University of Alicante,Spain,65.2,48.9,62.2,66.2,,37.9
+501-550,,University of Cyprus (UCY),Cyprus,58.4,58.4,72.7,66.2,,55.1
+501-550,,University of Dhaka,Bangladesh,64.1,63.8,44.7,51.4,,27.4
+501-550,501-520,University of Haifa,Israel,64.3,43.5,72,79.5,,24.3
+501-550,451-500,"University of Missouri, Columbia",United States,60.3,50.6,84.1,78.7,,32.9
+501-550,451-500,University of Murcia,Spain,66.2,47.7,62.3,67.6,,25.5
+501-550,451-500,University of New Mexico,United States,61.5,49.8,75.8,76.2,,36
+501-550,,University of North Texas,United States,62.6,48.4,77.9,77.1,,15.8
+501-550,,University of Siena,Italy,67.4,39.3,68.1,67.6,,30.2
+501-550,401-450,University of South Carolina,United States,61.3,52.6,79.2,75.3,,22.8
+501-550,401-450,University of Tasmania,Australia,64.3,46.2,72.9,67.6,,18.1
+501-550,501-520,University of the West of England,United Kingdom,59.1,57,80.4,72.3,,23.6
+501-550,451-500,University of Tromsø The Arctic University of Norway,Norway,67.7,29.1,74.7,72.3,,45.3
+501-550,,University of Twente,Netherlands,57.6,61.3,78.6,75.3,,27.4
+501-550,,Yarmouk University,Jordan,62.8,64.6,48.2,48.6,,30.1
